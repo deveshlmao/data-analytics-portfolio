@@ -1,0 +1,1501 @@
+order_id,date,region,product_category,sales_amount,quantity,profit,sales_rep
+ORD1000,2024-01-01,East,Office Supplies,3030.62,16,118.78,Hannah
+ORD1001,2024-01-02,West,Office Supplies,163.52,19,1118.6,Charlie
+ORD1002,2024-01-03,North,Office Supplies,1644.43,11,1069.39,George
+ORD1003,2024-01-04,East,Furniture,3200.63,14,359.4,George
+ORD1004,2024-01-05,East,Clothing,787.55,2,1126.57,George
+ORD1005,2024-01-06,West,Food & Beverages,3492.31,5,1377.58,Ethan
+ORD1006,2024-01-07,North,Electronics,3742.33,5,170.96,George
+ORD1007,2024-01-08,North,Clothing,4910.75,19,356.63,Fiona
+ORD1008,2024-01-09,East,Office Supplies,1088.72,12,1127.89,Bob
+ORD1009,2024-01-10,South,Clothing,4134.4,18,419.01,Bob
+ORD1010,2024-01-11,East,Food & Beverages,2625.47,4,940.75,Charlie
+ORD1011,2024-01-12,East,Electronics,1898.64,17,130.93,Bob
+ORD1012,2024-01-13,East,Electronics,655.76,10,683.78,Alice
+ORD1013,2024-01-14,East,Food & Beverages,3690.75,6,1111.25,Hannah
+ORD1014,2024-01-15,West,Food & Beverages,1217.5,14,1032.91,Charlie
+ORD1015,2024-01-16,North,Office Supplies,1888.54,11,1224.46,Bob
+ORD1016,2024-01-17,West,Electronics,359.58,11,1317.4,Alice
+ORD1017,2024-01-18,West,Clothing,4016.77,18,1162.04,Hannah
+ORD1018,2024-01-19,West,Furniture,3844.61,18,1010.67,Ethan
+ORD1019,2024-01-20,East,Furniture,3681.4,11,57.27,Bob
+ORD1020,2024-01-21,South,Food & Beverages,1532.25,12,807.1,Alice
+ORD1021,2024-01-22,North,Office Supplies,908.73,5,66.17,Diana
+ORD1022,2024-01-23,South,Furniture,3205.89,9,1214.02,Fiona
+ORD1023,2024-01-24,West,Electronics,2506.02,9,487.88,Diana
+ORD1024,2024-01-25,West,Food & Beverages,932.35,10,848.02,Alice
+ORD1025,2024-01-26,South,Clothing,3445.26,19,426.37,Charlie
+ORD1026,2024-01-27,South,Food & Beverages,4956.08,1,1175.93,George
+ORD1027,2024-01-28,South,Clothing,3748.74,7,1330.89,George
+ORD1028,2024-01-29,West,Food & Beverages,3712.93,4,603.98,George
+ORD1029,2024-01-30,West,Food & Beverages,4754.05,1,1295.75,Hannah
+ORD1030,2024-01-31,North,Food & Beverages,1054.54,15,407.94,Charlie
+ORD1031,2024-02-01,North,Clothing,2849.47,8,806.64,Hannah
+ORD1032,2024-02-02,West,Clothing,4899.25,12,1289.55,Bob
+ORD1033,2024-02-03,South,Food & Beverages,868.21,18,495.56,George
+ORD1034,2024-02-04,South,Furniture,3516.25,15,1431.52,Diana
+ORD1035,2024-02-05,North,Office Supplies,2949.76,17,191.6,Charlie
+ORD1036,2024-02-06,West,Office Supplies,2953.07,14,37.23,Charlie
+ORD1037,2024-02-07,North,Office Supplies,3503.47,14,1357.16,George
+ORD1038,2024-02-08,North,Clothing,4651.6,18,112.29,Diana
+ORD1039,2024-02-09,East,Clothing,3923.78,18,1487.91,Ethan
+ORD1040,2024-02-10,East,Furniture,327.87,16,1427.58,Charlie
+ORD1041,2024-02-11,East,Office Supplies,4271.0,1,214.16,George
+ORD1042,2024-02-12,South,Office Supplies,1166.43,11,811.0,Fiona
+ORD1043,2024-02-13,West,Food & Beverages,1915.73,15,285.53,Alice
+ORD1044,2024-02-14,West,Clothing,2335.58,12,647.95,Hannah
+ORD1045,2024-02-15,West,Office Supplies,2430.48,8,101.52,Bob
+ORD1046,2024-02-16,West,Furniture,2204.14,6,343.65,Charlie
+ORD1047,2024-02-17,East,Furniture,4689.9,3,551.28,Fiona
+ORD1048,2024-02-18,South,Office Supplies,3544.79,13,663.58,Fiona
+ORD1049,2024-02-19,South,Clothing,3174.29,13,1466.47,Charlie
+ORD1050,2024-02-20,East,Furniture,296.72,2,1213.72,Ethan
+ORD1051,2024-02-21,South,Food & Beverages,4524.37,5,1108.74,Alice
+ORD1052,2024-02-22,East,Furniture,4551.48,17,810.19,Bob
+ORD1053,2024-02-23,West,Electronics,3912.05,6,1261.6,Charlie
+ORD1054,2024-02-24,East,Electronics,84.79,2,515.59,Hannah
+ORD1055,2024-02-25,West,Clothing,333.54,4,1066.26,Bob
+ORD1056,2024-02-26,West,Office Supplies,1164.86,11,1490.74,Diana
+ORD1057,2024-02-27,North,Clothing,700.18,8,478.8,Fiona
+ORD1058,2024-02-28,East,Clothing,2024.24,12,1014.29,Fiona
+ORD1059,2024-02-29,North,Clothing,4616.98,8,1268.03,Charlie
+ORD1060,2024-03-01,East,Clothing,2386.7,11,1374.55,Charlie
+ORD1061,2024-03-02,East,Food & Beverages,116.34,8,1079.72,Hannah
+ORD1062,2024-03-03,North,Food & Beverages,1449.59,8,432.58,Diana
+ORD1063,2024-03-04,North,Furniture,270.74,17,496.16,Ethan
+ORD1064,2024-03-05,East,Electronics,229.62,16,40.93,Charlie
+ORD1065,2024-03-06,South,Clothing,1414.81,14,1143.72,Fiona
+ORD1066,2024-03-07,West,Furniture,1414.28,11,73.68,Bob
+ORD1067,2024-03-08,North,Electronics,3946.28,7,1298.33,Alice
+ORD1068,2024-03-09,West,Office Supplies,4875.43,16,186.8,George
+ORD1069,2024-03-10,South,Food & Beverages,1887.48,13,266.1,Bob
+ORD1070,2024-03-11,South,Electronics,2172.99,15,720.02,Ethan
+ORD1071,2024-03-12,South,Office Supplies,4231.71,16,1109.44,Alice
+ORD1072,2024-03-13,North,Electronics,1377.29,9,217.11,Bob
+ORD1073,2024-03-14,South,Food & Beverages,824.09,3,665.71,Bob
+ORD1074,2024-03-15,North,Food & Beverages,4272.79,19,729.45,Diana
+ORD1075,2024-03-16,South,Furniture,280.18,5,326.31,George
+ORD1076,2024-03-17,West,Clothing,3117.51,10,182.18,Hannah
+ORD1077,2024-03-18,West,Electronics,2831.86,17,1256.27,Ethan
+ORD1078,2024-03-19,East,Electronics,1762.31,15,758.67,Fiona
+ORD1079,2024-03-20,West,Office Supplies,1610.19,8,31.43,Diana
+ORD1080,2024-03-21,East,Food & Beverages,3870.7,15,1206.44,Alice
+ORD1081,2024-03-22,West,Electronics,477.8,14,1471.38,George
+ORD1082,2024-03-23,North,Food & Beverages,1222.08,7,912.83,Fiona
+ORD1083,2024-03-24,West,Electronics,3675.62,12,760.53,Diana
+ORD1084,2024-03-25,East,Furniture,2764.19,17,1318.84,George
+ORD1085,2024-03-26,East,Clothing,683.54,17,1429.25,Hannah
+ORD1086,2024-03-27,South,Electronics,4416.57,10,1134.26,Ethan
+ORD1087,2024-03-28,North,Food & Beverages,1997.57,19,673.72,Charlie
+ORD1088,2024-03-29,West,Furniture,4147.95,14,892.41,Hannah
+ORD1089,2024-03-30,South,Electronics,3949.18,11,1054.39,Charlie
+ORD1090,2024-03-31,West,Office Supplies,3140.91,2,299.47,Alice
+ORD1091,2024-04-01,West,Clothing,2497.68,18,676.33,Charlie
+ORD1092,2024-04-02,South,Electronics,4898.78,7,1246.43,Diana
+ORD1093,2024-04-03,South,Furniture,767.58,12,985.54,Alice
+ORD1094,2024-04-04,South,Office Supplies,3639.52,2,622.69,Fiona
+ORD1095,2024-04-05,South,Furniture,996.39,18,998.41,Hannah
+ORD1096,2024-04-06,South,Furniture,1724.4,6,186.15,Hannah
+ORD1097,2024-04-07,West,Office Supplies,1578.06,10,608.23,Ethan
+ORD1098,2024-04-08,South,Furniture,4737.83,15,1191.76,Alice
+ORD1099,2024-04-09,North,Office Supplies,4838.41,5,338.56,Fiona
+ORD1100,2024-04-10,East,Electronics,955.93,3,287.08,Hannah
+ORD1101,2024-04-11,South,Office Supplies,159.07,5,1426.72,Alice
+ORD1102,2024-04-12,South,Office Supplies,3614.04,8,322.75,Bob
+ORD1103,2024-04-13,West,Clothing,2119.05,8,398.77,Bob
+ORD1104,2024-04-14,South,Office Supplies,489.76,8,1454.73,Alice
+ORD1105,2024-04-15,South,Office Supplies,3434.58,12,1104.72,Hannah
+ORD1106,2024-04-16,South,Electronics,2748.27,8,1052.4,George
+ORD1107,2024-04-17,West,Clothing,4903.56,11,1280.86,Charlie
+ORD1108,2024-04-18,South,Food & Beverages,1175.68,14,182.58,Bob
+ORD1109,2024-04-19,East,Electronics,2049.69,8,1061.87,George
+ORD1110,2024-04-20,West,Electronics,2735.6,10,760.5,George
+ORD1111,2024-04-21,East,Food & Beverages,3968.91,7,1245.43,Ethan
+ORD1112,2024-04-22,West,Office Supplies,2766.75,17,767.13,Fiona
+ORD1113,2024-04-23,South,Furniture,3083.86,4,934.16,Diana
+ORD1114,2024-04-24,East,Clothing,1169.43,13,721.84,Bob
+ORD1115,2024-04-25,West,Furniture,4242.25,4,722.46,Alice
+ORD1116,2024-04-26,North,Food & Beverages,2171.72,5,1154.28,Charlie
+ORD1117,2024-04-27,South,Electronics,747.75,4,946.56,Diana
+ORD1118,2024-04-28,West,Electronics,3337.73,18,953.56,Fiona
+ORD1119,2024-04-29,North,Clothing,1119.65,6,680.92,George
+ORD1120,2024-04-30,West,Electronics,532.93,2,801.35,Fiona
+ORD1121,2024-05-01,North,Electronics,4316.84,11,1121.12,Hannah
+ORD1122,2024-05-02,South,Clothing,2327.8,14,1240.65,Bob
+ORD1123,2024-05-03,East,Clothing,3758.95,5,1047.88,Fiona
+ORD1124,2024-05-04,North,Food & Beverages,1488.41,6,1386.87,Fiona
+ORD1125,2024-05-05,West,Electronics,3945.5,10,1232.28,Charlie
+ORD1126,2024-05-06,South,Electronics,604.08,8,847.18,Hannah
+ORD1127,2024-05-07,North,Food & Beverages,1812.07,14,1010.4,Hannah
+ORD1128,2024-05-08,West,Office Supplies,4891.41,3,1390.2,George
+ORD1129,2024-05-09,West,Office Supplies,3980.25,12,932.56,Charlie
+ORD1130,2024-05-10,West,Office Supplies,2511.42,16,1238.96,Charlie
+ORD1131,2024-05-11,North,Food & Beverages,1731.9,17,1036.33,Alice
+ORD1132,2024-05-12,North,Electronics,4367.07,1,832.39,Fiona
+ORD1133,2024-05-13,North,Food & Beverages,2747.0,10,370.34,Fiona
+ORD1134,2024-05-14,East,Food & Beverages,3804.2,10,644.74,Hannah
+ORD1135,2024-05-15,North,Office Supplies,3782.83,2,1451.94,Fiona
+ORD1136,2024-05-16,North,Furniture,138.83,9,990.07,Ethan
+ORD1137,2024-05-17,North,Electronics,674.96,13,850.95,Charlie
+ORD1138,2024-05-18,East,Office Supplies,3315.17,16,1400.11,Diana
+ORD1139,2024-05-19,North,Furniture,850.02,18,883.9,Hannah
+ORD1140,2024-05-20,West,Furniture,1314.69,19,793.86,Bob
+ORD1141,2024-05-21,North,Clothing,4735.86,12,1141.37,Hannah
+ORD1142,2024-05-22,West,Electronics,2822.9,8,1071.87,George
+ORD1143,2024-05-23,West,Furniture,3766.11,17,297.81,Diana
+ORD1144,2024-05-24,West,Office Supplies,2812.0,15,712.25,George
+ORD1145,2024-05-25,East,Clothing,2784.94,10,714.05,Alice
+ORD1146,2024-05-26,East,Electronics,516.05,15,573.55,Alice
+ORD1147,2024-05-27,East,Food & Beverages,1751.13,15,780.77,George
+ORD1148,2024-05-28,North,Office Supplies,1448.03,7,625.53,Fiona
+ORD1149,2024-05-29,West,Furniture,1984.11,13,307.02,Diana
+ORD1150,2024-05-30,East,Furniture,4001.8,17,624.43,Fiona
+ORD1151,2024-05-31,East,Office Supplies,1891.07,9,117.69,Hannah
+ORD1152,2024-06-01,North,Furniture,2285.9,8,867.92,Ethan
+ORD1153,2024-06-02,East,Clothing,2017.04,18,1281.95,Alice
+ORD1154,2024-06-03,North,Electronics,512.37,13,1090.68,Alice
+ORD1155,2024-06-04,South,Clothing,2233.31,16,546.99,Diana
+ORD1156,2024-06-05,East,Furniture,1018.27,9,139.74,Alice
+ORD1157,2024-06-06,South,Food & Beverages,974.28,12,311.2,Ethan
+ORD1158,2024-06-07,North,Electronics,515.48,12,822.78,Ethan
+ORD1159,2024-06-08,West,Electronics,1815.52,6,318.52,Ethan
+ORD1160,2024-06-09,East,Office Supplies,3799.54,19,820.52,Bob
+ORD1161,2024-06-10,North,Office Supplies,1418.39,7,355.08,Ethan
+ORD1162,2024-06-11,West,Food & Beverages,1596.13,3,1274.9,Ethan
+ORD1163,2024-06-12,West,Electronics,3231.24,16,601.93,Bob
+ORD1164,2024-06-13,South,Food & Beverages,1019.41,18,375.87,Fiona
+ORD1165,2024-06-14,North,Office Supplies,4489.94,16,1220.37,Hannah
+ORD1166,2024-06-15,West,Office Supplies,2624.94,7,520.83,Charlie
+ORD1167,2024-06-16,East,Electronics,2265.63,4,176.12,Alice
+ORD1168,2024-06-17,East,Clothing,2811.21,8,859.91,Ethan
+ORD1169,2024-06-18,South,Furniture,871.87,13,876.53,Alice
+ORD1170,2024-06-19,West,Office Supplies,3086.69,13,1074.9,Diana
+ORD1171,2024-06-20,North,Office Supplies,1847.35,17,367.93,Alice
+ORD1172,2024-06-21,East,Clothing,4491.07,17,671.22,George
+ORD1173,2024-06-22,West,Clothing,885.83,5,430.73,Fiona
+ORD1174,2024-06-23,West,Food & Beverages,2559.9,6,130.62,Hannah
+ORD1175,2024-06-24,South,Food & Beverages,3010.66,19,1316.15,Bob
+ORD1176,2024-06-25,East,Furniture,215.25,13,1096.02,Alice
+ORD1177,2024-06-26,East,Furniture,1850.28,14,459.18,Alice
+ORD1178,2024-06-27,North,Electronics,3676.54,4,903.07,Alice
+ORD1179,2024-06-28,East,Food & Beverages,4110.87,7,309.88,Charlie
+ORD1180,2024-06-29,North,Office Supplies,1600.15,8,1336.45,Charlie
+ORD1181,2024-06-30,East,Food & Beverages,4003.04,13,181.21,Diana
+ORD1182,2024-07-01,South,Office Supplies,4840.39,6,15.72,Bob
+ORD1183,2024-07-02,East,Clothing,4291.53,6,757.99,Alice
+ORD1184,2024-07-03,North,Food & Beverages,632.34,3,878.86,Alice
+ORD1185,2024-07-04,North,Clothing,3711.67,3,872.66,Alice
+ORD1186,2024-07-05,South,Furniture,1632.35,13,91.22,Alice
+ORD1187,2024-07-06,East,Furniture,4942.66,2,477.93,Charlie
+ORD1188,2024-07-07,East,Electronics,2452.53,16,753.81,Fiona
+ORD1189,2024-07-08,South,Food & Beverages,656.05,6,332.7,Fiona
+ORD1190,2024-07-09,East,Clothing,3639.67,8,1310.21,Diana
+ORD1191,2024-07-10,East,Office Supplies,1648.91,8,139.79,George
+ORD1192,2024-07-11,North,Furniture,4985.54,6,736.2,Ethan
+ORD1193,2024-07-12,East,Furniture,4899.92,14,1040.21,Bob
+ORD1194,2024-07-13,East,Office Supplies,3297.86,3,400.01,Fiona
+ORD1195,2024-07-14,South,Clothing,692.64,10,940.12,George
+ORD1196,2024-07-15,South,Clothing,3449.96,3,1245.78,Hannah
+ORD1197,2024-07-16,West,Food & Beverages,510.5,12,293.6,Hannah
+ORD1198,2024-07-17,North,Food & Beverages,195.35,17,1376.66,Alice
+ORD1199,2024-07-18,East,Electronics,4123.64,5,834.8,Hannah
+ORD1200,2024-07-19,East,Furniture,1088.28,9,455.86,Fiona
+ORD1201,2024-07-20,West,Food & Beverages,1926.18,7,651.98,Diana
+ORD1202,2024-07-21,East,Clothing,4868.61,4,475.17,Ethan
+ORD1203,2024-07-22,North,Office Supplies,1717.36,13,1090.42,Fiona
+ORD1204,2024-07-23,West,Clothing,1517.62,13,1196.49,Diana
+ORD1205,2024-07-24,North,Furniture,4595.13,10,1251.08,Hannah
+ORD1206,2024-07-25,West,Clothing,598.2,18,1478.79,Charlie
+ORD1207,2024-07-26,West,Electronics,3809.93,17,1189.01,Ethan
+ORD1208,2024-07-27,South,Furniture,4940.92,13,906.06,Diana
+ORD1209,2024-07-28,North,Office Supplies,4511.42,17,515.44,George
+ORD1210,2024-07-29,East,Electronics,3275.76,4,821.45,Fiona
+ORD1211,2024-07-30,East,Furniture,1604.6,1,71.19,Charlie
+ORD1212,2024-07-31,North,Office Supplies,1308.89,1,1119.79,George
+ORD1213,2024-08-01,East,Electronics,4105.31,15,674.47,Diana
+ORD1214,2024-08-02,East,Electronics,4405.12,13,39.83,Diana
+ORD1215,2024-08-03,North,Furniture,2650.9,17,103.14,Hannah
+ORD1216,2024-08-04,West,Food & Beverages,1259.48,8,587.33,George
+ORD1217,2024-08-05,North,Electronics,609.07,18,879.3,Fiona
+ORD1218,2024-08-06,West,Electronics,481.54,13,701.66,Ethan
+ORD1219,2024-08-07,East,Office Supplies,3609.43,14,932.61,Charlie
+ORD1220,2024-08-08,East,Clothing,2129.59,8,725.64,Hannah
+ORD1221,2024-08-09,East,Furniture,4531.53,8,995.94,Alice
+ORD1222,2024-08-10,South,Furniture,3711.37,15,336.5,Bob
+ORD1223,2024-08-11,West,Food & Beverages,996.74,13,178.14,Ethan
+ORD1224,2024-08-12,South,Food & Beverages,3088.2,7,898.69,Hannah
+ORD1225,2024-08-13,South,Furniture,2205.75,5,732.19,Charlie
+ORD1226,2024-08-14,North,Food & Beverages,2907.39,17,50.03,George
+ORD1227,2024-08-15,South,Office Supplies,3703.44,16,576.92,Diana
+ORD1228,2024-08-16,North,Furniture,4040.67,2,168.13,George
+ORD1229,2024-08-17,North,Food & Beverages,4226.5,18,801.72,Hannah
+ORD1230,2024-08-18,South,Furniture,1307.18,17,599.71,Charlie
+ORD1231,2024-08-19,West,Clothing,204.02,7,923.6,George
+ORD1232,2024-08-20,West,Electronics,3709.51,13,1210.35,George
+ORD1233,2024-08-21,West,Furniture,576.4,18,456.51,Bob
+ORD1234,2024-08-22,West,Electronics,1608.85,14,1443.53,Fiona
+ORD1235,2024-08-23,West,Food & Beverages,68.89,18,808.1,Hannah
+ORD1236,2024-08-24,South,Electronics,3424.26,13,931.25,Bob
+ORD1237,2024-08-25,South,Furniture,877.3,11,1024.2,Hannah
+ORD1238,2024-08-26,East,Clothing,3293.65,16,1003.43,Alice
+ORD1239,2024-08-27,West,Food & Beverages,4959.13,17,771.35,Alice
+ORD1240,2024-08-28,South,Furniture,409.72,8,648.86,Bob
+ORD1241,2024-08-29,East,Food & Beverages,431.54,19,90.14,Ethan
+ORD1242,2024-08-30,West,Office Supplies,1734.88,15,42.91,Ethan
+ORD1243,2024-08-31,North,Electronics,4338.61,9,543.36,George
+ORD1244,2024-09-01,East,Office Supplies,1116.87,10,507.15,George
+ORD1245,2024-09-02,South,Furniture,1833.87,12,587.67,Diana
+ORD1246,2024-09-03,North,Clothing,389.1,1,216.17,Alice
+ORD1247,2024-09-04,North,Food & Beverages,3827.62,9,1109.87,Hannah
+ORD1248,2024-09-05,North,Electronics,2071.12,15,1286.88,Diana
+ORD1249,2024-09-06,East,Food & Beverages,3808.28,1,1408.68,Alice
+ORD1250,2024-09-07,South,Furniture,4522.86,12,743.62,Bob
+ORD1251,2024-09-08,North,Food & Beverages,1202.18,3,1054.29,Ethan
+ORD1252,2024-09-09,West,Electronics,4046.61,11,1284.77,George
+ORD1253,2024-09-10,North,Furniture,342.51,2,633.25,Ethan
+ORD1254,2024-09-11,North,Food & Beverages,4499.29,16,471.03,Bob
+ORD1255,2024-09-12,East,Clothing,3271.3,9,1405.72,Diana
+ORD1256,2024-09-13,East,Furniture,4377.42,15,778.36,Diana
+ORD1257,2024-09-14,South,Furniture,50.93,12,750.91,Charlie
+ORD1258,2024-09-15,West,Clothing,886.95,1,275.84,George
+ORD1259,2024-09-16,East,Office Supplies,1979.31,13,171.15,George
+ORD1260,2024-09-17,North,Electronics,1928.54,14,1264.74,Hannah
+ORD1261,2024-09-18,South,Office Supplies,1172.32,8,925.06,George
+ORD1262,2024-09-19,North,Food & Beverages,1938.98,8,495.48,Alice
+ORD1263,2024-09-20,North,Clothing,687.8,12,295.69,Diana
+ORD1264,2024-09-21,East,Office Supplies,2093.17,1,837.69,Bob
+ORD1265,2024-09-22,South,Furniture,4021.65,11,880.04,Diana
+ORD1266,2024-09-23,West,Food & Beverages,2421.4,8,318.42,Ethan
+ORD1267,2024-09-24,West,Food & Beverages,139.1,10,1278.59,Alice
+ORD1268,2024-09-25,East,Office Supplies,2136.15,19,135.55,George
+ORD1269,2024-09-26,East,Office Supplies,184.52,11,540.58,Hannah
+ORD1270,2024-09-27,South,Clothing,4832.9,7,1023.77,Hannah
+ORD1271,2024-09-28,West,Electronics,680.9,11,418.44,Hannah
+ORD1272,2024-09-29,West,Office Supplies,3553.06,17,1243.24,Fiona
+ORD1273,2024-09-30,West,Office Supplies,4865.24,1,1112.4,Charlie
+ORD1274,2024-10-01,North,Furniture,4138.89,8,1185.64,Alice
+ORD1275,2024-10-02,West,Food & Beverages,3511.61,6,187.47,Ethan
+ORD1276,2024-10-03,North,Electronics,4205.33,18,219.42,George
+ORD1277,2024-10-04,South,Furniture,4909.9,6,436.85,Ethan
+ORD1278,2024-10-05,North,Clothing,3125.66,5,781.93,Ethan
+ORD1279,2024-10-06,South,Clothing,2817.96,13,1124.54,George
+ORD1280,2024-10-07,West,Office Supplies,3159.78,19,1256.43,Ethan
+ORD1281,2024-10-08,West,Office Supplies,2686.75,8,1059.46,Hannah
+ORD1282,2024-10-09,South,Clothing,3193.69,9,1393.61,Bob
+ORD1283,2024-10-10,East,Office Supplies,2276.72,17,1110.73,Charlie
+ORD1284,2024-10-11,South,Electronics,1131.29,3,466.34,Fiona
+ORD1285,2024-10-12,East,Office Supplies,645.22,19,404.97,Ethan
+ORD1286,2024-10-13,North,Food & Beverages,388.29,11,1047.33,Ethan
+ORD1287,2024-10-14,North,Office Supplies,1353.41,17,297.38,Diana
+ORD1288,2024-10-15,North,Furniture,278.31,19,148.15,Charlie
+ORD1289,2024-10-16,West,Electronics,2857.5,2,803.01,Alice
+ORD1290,2024-10-17,North,Furniture,1454.95,8,1234.25,Charlie
+ORD1291,2024-10-18,East,Furniture,4131.45,19,161.06,Charlie
+ORD1292,2024-10-19,North,Food & Beverages,417.49,7,1189.92,George
+ORD1293,2024-10-20,South,Electronics,1170.44,17,1219.24,George
+ORD1294,2024-10-21,South,Electronics,3664.72,6,728.59,George
+ORD1295,2024-10-22,West,Electronics,3014.1,19,95.39,Fiona
+ORD1296,2024-10-23,South,Electronics,369.23,6,270.14,Hannah
+ORD1297,2024-10-24,East,Electronics,4392.34,2,1064.07,Charlie
+ORD1298,2024-10-25,North,Food & Beverages,4392.45,6,1070.55,Fiona
+ORD1299,2024-10-26,West,Office Supplies,1685.52,5,1348.55,Ethan
+ORD1300,2024-10-27,North,Furniture,1735.01,19,878.2,George
+ORD1301,2024-10-28,North,Electronics,4945.69,4,194.92,Ethan
+ORD1302,2024-10-29,East,Office Supplies,3149.57,17,190.91,George
+ORD1303,2024-10-30,South,Office Supplies,2680.02,11,1084.49,Bob
+ORD1304,2024-10-31,South,Furniture,4198.85,4,283.84,Fiona
+ORD1305,2024-11-01,North,Food & Beverages,1462.19,13,499.29,Fiona
+ORD1306,2024-11-02,West,Clothing,2174.45,17,735.95,Hannah
+ORD1307,2024-11-03,South,Clothing,1375.49,9,46.9,Alice
+ORD1308,2024-11-04,West,Office Supplies,3956.35,4,380.74,Diana
+ORD1309,2024-11-05,South,Furniture,2888.08,14,617.76,Charlie
+ORD1310,2024-11-06,West,Clothing,3311.18,19,426.66,Alice
+ORD1311,2024-11-07,East,Office Supplies,1298.92,3,213.19,Fiona
+ORD1312,2024-11-08,West,Food & Beverages,1140.12,14,1094.74,Alice
+ORD1313,2024-11-09,East,Clothing,2467.45,8,1221.59,Bob
+ORD1314,2024-11-10,East,Office Supplies,3700.95,1,393.64,Diana
+ORD1315,2024-11-11,West,Office Supplies,2649.94,10,1163.89,Hannah
+ORD1316,2024-11-12,East,Electronics,211.6,18,584.47,Fiona
+ORD1317,2024-11-13,North,Food & Beverages,4349.33,16,764.96,Fiona
+ORD1318,2024-11-14,East,Electronics,370.2,8,1285.44,Charlie
+ORD1319,2024-11-15,South,Furniture,4781.33,1,1127.43,Hannah
+ORD1320,2024-11-16,West,Electronics,174.45,12,1209.62,Hannah
+ORD1321,2024-11-17,North,Electronics,3487.53,8,213.9,George
+ORD1322,2024-11-18,West,Clothing,456.92,16,113.88,Diana
+ORD1323,2024-11-19,South,Office Supplies,4557.85,18,1341.17,Bob
+ORD1324,2024-11-20,South,Food & Beverages,2348.94,4,587.87,Ethan
+ORD1325,2024-11-21,South,Electronics,730.74,6,438.94,Alice
+ORD1326,2024-11-22,East,Food & Beverages,1737.04,12,1089.8,Hannah
+ORD1327,2024-11-23,East,Electronics,865.88,9,1256.26,Charlie
+ORD1328,2024-11-24,West,Furniture,894.38,15,1295.11,Fiona
+ORD1329,2024-11-25,West,Electronics,4743.14,16,480.84,Ethan
+ORD1330,2024-11-26,North,Clothing,2253.97,12,1279.8,Bob
+ORD1331,2024-11-27,North,Office Supplies,3954.57,14,70.99,Diana
+ORD1332,2024-11-28,West,Furniture,3216.05,13,84.0,Hannah
+ORD1333,2024-11-29,East,Electronics,3398.31,2,939.04,Alice
+ORD1334,2024-11-30,South,Food & Beverages,701.88,3,104.03,Hannah
+ORD1335,2024-12-01,West,Furniture,1209.21,10,493.67,Charlie
+ORD1336,2024-12-02,North,Furniture,3944.41,9,1012.41,Hannah
+ORD1337,2024-12-03,East,Electronics,4855.29,8,512.53,Hannah
+ORD1338,2024-12-04,West,Furniture,1350.24,10,277.6,Hannah
+ORD1339,2024-12-05,West,Food & Beverages,1394.27,19,429.21,Fiona
+ORD1340,2024-12-06,East,Furniture,2390.84,3,691.79,Fiona
+ORD1341,2024-12-07,West,Food & Beverages,4920.01,5,718.32,Ethan
+ORD1342,2024-12-08,East,Electronics,1381.35,3,1176.67,Ethan
+ORD1343,2024-12-09,South,Office Supplies,2064.51,16,1127.73,Alice
+ORD1344,2024-12-10,East,Furniture,4462.83,17,690.66,Diana
+ORD1345,2024-12-11,East,Office Supplies,64.46,15,1270.04,Bob
+ORD1346,2024-12-12,East,Food & Beverages,246.84,3,180.21,George
+ORD1347,2024-12-13,West,Furniture,3040.15,12,390.48,Diana
+ORD1348,2024-12-14,West,Clothing,4541.53,9,1243.68,Diana
+ORD1349,2024-12-15,East,Office Supplies,1232.34,12,573.21,Diana
+ORD1350,2024-12-16,West,Furniture,2374.73,15,1471.96,George
+ORD1351,2024-12-17,North,Office Supplies,2279.8,2,704.72,Alice
+ORD1352,2024-12-18,North,Furniture,2391.21,18,1189.98,George
+ORD1353,2024-12-19,West,Electronics,3131.47,12,609.44,Alice
+ORD1354,2024-12-20,West,Office Supplies,2375.23,4,643.18,George
+ORD1355,2024-12-21,East,Clothing,2264.97,16,580.5,Bob
+ORD1356,2024-12-22,South,Clothing,2397.73,16,1081.42,Hannah
+ORD1357,2024-12-23,West,Food & Beverages,2974.79,1,825.8,Diana
+ORD1358,2024-12-24,North,Furniture,2708.19,2,1416.23,Hannah
+ORD1359,2024-12-25,East,Office Supplies,4277.97,3,383.83,Alice
+ORD1360,2024-12-26,West,Food & Beverages,295.01,17,159.84,George
+ORD1361,2024-12-27,North,Office Supplies,4174.92,1,595.96,Bob
+ORD1362,2024-12-28,North,Furniture,4227.43,6,928.9,George
+ORD1363,2024-12-29,South,Clothing,1460.29,15,1292.59,Hannah
+ORD1364,2024-12-30,East,Electronics,2341.12,14,525.83,Fiona
+ORD1365,2024-12-31,East,Clothing,2220.77,15,984.14,Bob
+ORD1366,2025-01-01,South,Food & Beverages,1131.62,14,531.8,Diana
+ORD1367,2025-01-02,South,Electronics,2014.14,5,929.66,Charlie
+ORD1368,2025-01-03,East,Food & Beverages,269.72,6,1328.36,Diana
+ORD1369,2025-01-04,East,Furniture,1425.22,17,354.72,Charlie
+ORD1370,2025-01-05,West,Electronics,4092.58,11,612.32,Bob
+ORD1371,2025-01-06,West,Food & Beverages,1458.58,16,1489.97,Fiona
+ORD1372,2025-01-07,South,Furniture,4100.12,12,1304.15,Hannah
+ORD1373,2025-01-08,West,Clothing,2681.42,15,851.31,Fiona
+ORD1374,2025-01-09,North,Furniture,4405.32,4,779.78,Alice
+ORD1375,2025-01-10,West,Office Supplies,2895.16,18,434.05,Fiona
+ORD1376,2025-01-11,West,Furniture,196.86,3,780.64,Ethan
+ORD1377,2025-01-12,North,Furniture,3393.33,8,1273.79,Bob
+ORD1378,2025-01-13,South,Office Supplies,272.03,3,1030.91,Hannah
+ORD1379,2025-01-14,North,Food & Beverages,2280.46,8,442.17,Hannah
+ORD1380,2025-01-15,West,Food & Beverages,4650.66,18,310.18,Alice
+ORD1381,2025-01-16,South,Furniture,867.76,10,405.16,Hannah
+ORD1382,2025-01-17,West,Office Supplies,1979.87,17,262.94,Fiona
+ORD1383,2025-01-18,North,Office Supplies,3662.81,8,152.5,Bob
+ORD1384,2025-01-19,North,Clothing,4417.18,11,634.51,Diana
+ORD1385,2025-01-20,West,Food & Beverages,3371.17,5,178.82,Fiona
+ORD1386,2025-01-21,East,Electronics,1327.96,13,266.15,George
+ORD1387,2025-01-22,East,Food & Beverages,3389.31,5,825.51,Charlie
+ORD1388,2025-01-23,North,Food & Beverages,1518.8,13,255.25,Bob
+ORD1389,2025-01-24,North,Clothing,3606.22,6,105.18,Hannah
+ORD1390,2025-01-25,East,Electronics,4772.46,5,482.91,Alice
+ORD1391,2025-01-26,East,Clothing,3620.9,9,338.28,Diana
+ORD1392,2025-01-27,West,Electronics,4321.26,16,777.8,Ethan
+ORD1393,2025-01-28,West,Furniture,60.41,2,162.53,Diana
+ORD1394,2025-01-29,East,Electronics,3601.98,1,1130.14,Fiona
+ORD1395,2025-01-30,West,Clothing,4156.46,8,1360.29,Charlie
+ORD1396,2025-01-31,West,Food & Beverages,250.77,19,1117.72,Diana
+ORD1397,2025-02-01,South,Electronics,4364.41,11,803.91,Ethan
+ORD1398,2025-02-02,West,Electronics,1320.64,12,1292.4,George
+ORD1399,2025-02-03,North,Office Supplies,3343.2,12,1045.43,Alice
+ORD1400,2025-02-04,West,Food & Beverages,4011.76,7,25.72,Bob
+ORD1401,2025-02-05,West,Furniture,3330.19,13,597.19,Charlie
+ORD1402,2025-02-06,East,Clothing,506.81,8,1277.92,Ethan
+ORD1403,2025-02-07,North,Furniture,3001.79,9,525.33,Hannah
+ORD1404,2025-02-08,West,Food & Beverages,2770.44,7,62.47,Fiona
+ORD1405,2025-02-09,West,Electronics,4506.59,15,1121.81,Fiona
+ORD1406,2025-02-10,South,Electronics,2050.99,2,1205.04,Fiona
+ORD1407,2025-02-11,West,Food & Beverages,1639.35,12,249.28,Hannah
+ORD1408,2025-02-12,West,Electronics,3761.76,1,810.64,Hannah
+ORD1409,2025-02-13,South,Electronics,2092.74,8,296.01,Charlie
+ORD1410,2025-02-14,East,Electronics,3248.18,5,1081.66,Diana
+ORD1411,2025-02-15,West,Clothing,3249.93,15,414.61,Charlie
+ORD1412,2025-02-16,South,Clothing,4445.79,1,481.16,Fiona
+ORD1413,2025-02-17,North,Office Supplies,3013.53,1,1269.01,George
+ORD1414,2025-02-18,East,Furniture,2535.66,10,719.72,Ethan
+ORD1415,2025-02-19,North,Food & Beverages,737.41,10,1007.93,Bob
+ORD1416,2025-02-20,North,Food & Beverages,622.9,15,609.54,Bob
+ORD1417,2025-02-21,South,Food & Beverages,813.89,17,454.03,Charlie
+ORD1418,2025-02-22,West,Office Supplies,900.65,6,941.96,Fiona
+ORD1419,2025-02-23,South,Clothing,3207.49,3,240.74,Hannah
+ORD1420,2025-02-24,South,Office Supplies,3717.86,13,565.77,Alice
+ORD1421,2025-02-25,South,Food & Beverages,2673.46,16,321.47,George
+ORD1422,2025-02-26,South,Furniture,4153.64,8,1046.73,Charlie
+ORD1423,2025-02-27,East,Electronics,4956.75,15,1416.87,Fiona
+ORD1424,2025-02-28,West,Clothing,4109.06,17,1493.31,Diana
+ORD1425,2025-03-01,North,Clothing,3489.67,17,680.91,Bob
+ORD1426,2025-03-02,North,Office Supplies,2685.84,13,386.27,Bob
+ORD1427,2025-03-03,West,Clothing,2271.82,17,669.82,George
+ORD1428,2025-03-04,North,Food & Beverages,467.74,6,1272.43,Bob
+ORD1429,2025-03-05,West,Food & Beverages,2026.88,17,316.95,Alice
+ORD1430,2025-03-06,North,Office Supplies,4555.17,16,1428.62,Fiona
+ORD1431,2025-03-07,South,Food & Beverages,4049.71,14,519.38,Fiona
+ORD1432,2025-03-08,North,Furniture,1119.45,13,1478.85,George
+ORD1433,2025-03-09,West,Office Supplies,2359.71,6,1259.53,Fiona
+ORD1434,2025-03-10,West,Furniture,4092.78,3,1214.77,Hannah
+ORD1435,2025-03-11,West,Electronics,383.55,14,483.68,George
+ORD1436,2025-03-12,West,Furniture,1967.59,14,23.08,Fiona
+ORD1437,2025-03-13,West,Electronics,4266.61,15,579.38,Alice
+ORD1438,2025-03-14,East,Electronics,2049.29,8,459.7,Ethan
+ORD1439,2025-03-15,East,Furniture,434.19,15,65.72,Charlie
+ORD1440,2025-03-16,North,Office Supplies,2735.55,13,762.99,Charlie
+ORD1441,2025-03-17,West,Food & Beverages,4315.63,17,610.52,Fiona
+ORD1442,2025-03-18,North,Food & Beverages,2971.91,3,955.49,Diana
+ORD1443,2025-03-19,West,Electronics,1170.08,6,935.57,Bob
+ORD1444,2025-03-20,West,Electronics,1951.99,5,189.91,Alice
+ORD1445,2025-03-21,East,Office Supplies,2278.11,17,1465.68,Diana
+ORD1446,2025-03-22,East,Clothing,2917.37,2,288.53,Hannah
+ORD1447,2025-03-23,South,Furniture,3808.79,15,673.46,Diana
+ORD1448,2025-03-24,East,Electronics,539.42,5,737.3,Fiona
+ORD1449,2025-03-25,South,Food & Beverages,4453.78,6,1221.46,Alice
+ORD1450,2025-03-26,South,Office Supplies,110.93,6,157.85,Charlie
+ORD1451,2025-03-27,South,Furniture,1881.76,18,648.68,Bob
+ORD1452,2025-03-28,South,Office Supplies,185.73,18,946.47,Charlie
+ORD1453,2025-03-29,South,Furniture,1995.22,4,330.58,Diana
+ORD1454,2025-03-30,North,Furniture,2652.77,17,944.93,Hannah
+ORD1455,2025-03-31,East,Electronics,2582.82,14,1386.26,Bob
+ORD1456,2025-04-01,South,Office Supplies,869.86,14,1496.3,Ethan
+ORD1457,2025-04-02,West,Office Supplies,3246.42,13,58.35,Diana
+ORD1458,2025-04-03,East,Food & Beverages,271.65,7,361.03,Charlie
+ORD1459,2025-04-04,East,Food & Beverages,3821.44,12,472.36,Charlie
+ORD1460,2025-04-05,South,Electronics,4735.89,15,604.7,Fiona
+ORD1461,2025-04-06,North,Electronics,1731.86,19,370.96,Charlie
+ORD1462,2025-04-07,South,Clothing,2610.33,11,313.2,Alice
+ORD1463,2025-04-08,North,Food & Beverages,1925.61,15,1432.29,Diana
+ORD1464,2025-04-09,West,Furniture,83.22,12,1378.6,George
+ORD1465,2025-04-10,East,Office Supplies,1960.08,3,80.02,George
+ORD1466,2025-04-11,West,Electronics,3969.02,17,514.83,Hannah
+ORD1467,2025-04-12,North,Office Supplies,3000.14,3,613.67,Bob
+ORD1468,2025-04-13,North,Office Supplies,551.24,19,366.13,Charlie
+ORD1469,2025-04-14,West,Clothing,4243.34,4,947.02,Fiona
+ORD1470,2025-04-15,North,Food & Beverages,2678.87,3,964.17,Fiona
+ORD1471,2025-04-16,West,Electronics,4216.53,16,1277.25,Charlie
+ORD1472,2025-04-17,East,Office Supplies,2922.1,12,1113.9,Alice
+ORD1473,2025-04-18,West,Electronics,2820.46,8,818.43,Fiona
+ORD1474,2025-04-19,East,Furniture,571.03,17,983.84,George
+ORD1475,2025-04-20,West,Clothing,878.43,7,418.24,Bob
+ORD1476,2025-04-21,North,Furniture,4861.53,11,893.65,Diana
+ORD1477,2025-04-22,West,Electronics,1181.01,18,738.95,Ethan
+ORD1478,2025-04-23,North,Electronics,4888.39,1,208.68,Alice
+ORD1479,2025-04-24,West,Food & Beverages,2682.97,3,371.39,Hannah
+ORD1480,2025-04-25,West,Office Supplies,722.16,4,444.62,Hannah
+ORD1481,2025-04-26,South,Office Supplies,541.55,13,1387.22,Fiona
+ORD1482,2025-04-27,North,Furniture,1083.88,6,353.28,Diana
+ORD1483,2025-04-28,South,Clothing,4631.9,14,440.97,Ethan
+ORD1484,2025-04-29,North,Office Supplies,2100.04,5,560.34,Hannah
+ORD1485,2025-04-30,South,Food & Beverages,2007.4,16,998.98,Charlie
+ORD1486,2025-05-01,East,Furniture,1600.37,15,186.18,Charlie
+ORD1487,2025-05-02,West,Furniture,777.96,15,1431.38,Bob
+ORD1488,2025-05-03,North,Food & Beverages,2464.86,4,1299.7,Ethan
+ORD1489,2025-05-04,North,Clothing,693.74,8,870.05,Charlie
+ORD1490,2025-05-05,West,Food & Beverages,4185.63,16,1014.32,Hannah
+ORD1491,2025-05-06,North,Clothing,1883.47,16,34.82,Charlie
+ORD1492,2025-05-07,North,Food & Beverages,1905.28,4,515.03,George
+ORD1493,2025-05-08,South,Food & Beverages,2396.33,13,1195.53,Fiona
+ORD1494,2025-05-09,North,Electronics,2248.43,13,125.45,Hannah
+ORD1495,2025-05-10,East,Furniture,4974.55,2,430.65,Hannah
+ORD1496,2025-05-11,East,Food & Beverages,2749.64,3,882.09,Hannah
+ORD1497,2025-05-12,West,Food & Beverages,486.6,8,392.06,Bob
+ORD1498,2025-05-13,North,Office Supplies,3054.04,15,1401.63,Diana
+ORD1499,2025-05-14,West,Furniture,800.34,11,205.28,Hannah
+ORD1500,2025-05-15,East,Office Supplies,203.14,9,1198.12,Charlie
+ORD1501,2025-05-16,North,Furniture,4855.17,7,766.84,George
+ORD1502,2025-05-17,North,Office Supplies,3879.02,13,1127.99,Hannah
+ORD1503,2025-05-18,West,Food & Beverages,4901.54,2,472.97,Alice
+ORD1504,2025-05-19,East,Food & Beverages,2415.5,8,776.59,Alice
+ORD1505,2025-05-20,North,Electronics,2684.67,7,1286.68,Diana
+ORD1506,2025-05-21,West,Office Supplies,883.27,12,705.65,Ethan
+ORD1507,2025-05-22,East,Clothing,1272.19,19,545.98,Bob
+ORD1508,2025-05-23,West,Electronics,4200.82,7,808.87,George
+ORD1509,2025-05-24,South,Office Supplies,1813.12,10,1078.87,Fiona
+ORD1510,2025-05-25,North,Office Supplies,4142.73,16,670.91,George
+ORD1511,2025-05-26,South,Electronics,3559.62,3,1408.93,Alice
+ORD1512,2025-05-27,East,Food & Beverages,927.0,10,449.47,Alice
+ORD1513,2025-05-28,South,Office Supplies,2561.86,6,718.44,Diana
+ORD1514,2025-05-29,South,Food & Beverages,3403.07,18,1137.82,Ethan
+ORD1515,2025-05-30,East,Electronics,1213.43,18,1036.79,Ethan
+ORD1516,2025-05-31,West,Food & Beverages,4161.91,5,1296.83,Diana
+ORD1517,2025-06-01,South,Furniture,2746.9,7,1495.25,Hannah
+ORD1518,2025-06-02,West,Clothing,867.95,2,646.02,George
+ORD1519,2025-06-03,South,Office Supplies,2935.77,11,175.61,Alice
+ORD1520,2025-06-04,West,Clothing,4998.58,13,55.32,George
+ORD1521,2025-06-05,East,Food & Beverages,795.08,5,1093.05,George
+ORD1522,2025-06-06,South,Office Supplies,4092.95,6,1312.28,Bob
+ORD1523,2025-06-07,East,Food & Beverages,1076.18,14,338.86,Alice
+ORD1524,2025-06-08,South,Furniture,3922.82,12,246.09,Ethan
+ORD1525,2025-06-09,East,Electronics,3686.16,4,102.69,Fiona
+ORD1526,2025-06-10,East,Office Supplies,1537.42,6,1235.83,George
+ORD1527,2025-06-11,South,Furniture,1662.82,10,473.96,Alice
+ORD1528,2025-06-12,South,Furniture,3972.98,18,608.53,George
+ORD1529,2025-06-13,South,Office Supplies,2334.16,15,759.1,Bob
+ORD1530,2025-06-14,North,Food & Beverages,3667.55,8,1260.79,Hannah
+ORD1531,2025-06-15,West,Furniture,782.52,9,979.74,Charlie
+ORD1532,2025-06-16,North,Clothing,4270.16,5,926.45,Alice
+ORD1533,2025-06-17,North,Furniture,3568.88,10,271.75,Diana
+ORD1534,2025-06-18,East,Food & Beverages,4539.37,6,774.65,Charlie
+ORD1535,2025-06-19,South,Food & Beverages,705.24,16,1075.92,George
+ORD1536,2025-06-20,West,Clothing,2985.42,3,1460.16,Diana
+ORD1537,2025-06-21,East,Furniture,3015.65,10,310.1,Diana
+ORD1538,2025-06-22,North,Food & Beverages,1799.63,11,24.22,Diana
+ORD1539,2025-06-23,South,Office Supplies,2319.41,11,122.2,Alice
+ORD1540,2025-06-24,East,Electronics,238.01,17,570.02,Ethan
+ORD1541,2025-06-25,South,Electronics,3742.01,4,1232.61,George
+ORD1542,2025-06-26,East,Electronics,2769.15,4,20.64,Charlie
+ORD1543,2025-06-27,South,Furniture,335.82,17,690.53,Bob
+ORD1544,2025-06-28,North,Clothing,3419.74,9,500.55,Ethan
+ORD1545,2025-06-29,West,Food & Beverages,2360.57,19,88.2,George
+ORD1546,2025-06-30,North,Office Supplies,220.58,5,680.85,Hannah
+ORD1547,2025-07-01,West,Office Supplies,4849.56,6,389.58,Hannah
+ORD1548,2025-07-02,South,Furniture,4748.11,3,534.31,Alice
+ORD1549,2025-07-03,East,Electronics,2588.87,1,1061.37,Diana
+ORD1550,2025-07-04,North,Furniture,513.68,16,787.11,Bob
+ORD1551,2025-07-05,West,Clothing,3785.38,11,195.72,George
+ORD1552,2025-07-06,North,Clothing,2485.06,13,1442.51,Charlie
+ORD1553,2025-07-07,West,Food & Beverages,1547.12,10,957.51,George
+ORD1554,2025-07-08,North,Food & Beverages,2482.52,3,1151.14,Ethan
+ORD1555,2025-07-09,West,Clothing,2636.1,9,128.03,Hannah
+ORD1556,2025-07-10,West,Clothing,2835.42,12,80.12,Fiona
+ORD1557,2025-07-11,South,Clothing,2234.06,14,38.98,Ethan
+ORD1558,2025-07-12,West,Furniture,3048.49,1,291.3,George
+ORD1559,2025-07-13,South,Clothing,4597.74,18,627.47,Bob
+ORD1560,2025-07-14,West,Office Supplies,1843.23,17,1404.38,George
+ORD1561,2025-07-15,East,Electronics,3642.3,9,691.02,George
+ORD1562,2025-07-16,East,Clothing,4477.54,9,442.48,Alice
+ORD1563,2025-07-17,East,Electronics,2307.1,10,847.28,Charlie
+ORD1564,2025-07-18,West,Furniture,2245.11,19,176.78,Bob
+ORD1565,2025-07-19,South,Electronics,3030.48,15,918.16,George
+ORD1566,2025-07-20,South,Furniture,2977.46,5,856.96,Diana
+ORD1567,2025-07-21,West,Office Supplies,4042.62,15,1190.07,Charlie
+ORD1568,2025-07-22,East,Furniture,2408.59,2,1480.16,Ethan
+ORD1569,2025-07-23,East,Furniture,4980.81,13,383.8,Bob
+ORD1570,2025-07-24,South,Food & Beverages,344.38,16,769.39,Ethan
+ORD1571,2025-07-25,East,Clothing,65.68,15,1364.21,Hannah
+ORD1572,2025-07-26,North,Clothing,3218.98,10,1179.93,George
+ORD1573,2025-07-27,South,Office Supplies,1527.25,14,736.24,Ethan
+ORD1574,2025-07-28,East,Office Supplies,1239.89,10,1418.6,Ethan
+ORD1575,2025-07-29,South,Clothing,1593.9,14,95.28,Alice
+ORD1576,2025-07-30,North,Food & Beverages,1317.44,9,1397.19,Ethan
+ORD1577,2025-07-31,South,Clothing,202.41,14,85.26,Diana
+ORD1578,2025-08-01,South,Food & Beverages,4859.09,3,825.48,Diana
+ORD1579,2025-08-02,South,Office Supplies,1142.69,16,1336.76,Charlie
+ORD1580,2025-08-03,South,Electronics,3683.45,2,401.45,George
+ORD1581,2025-08-04,North,Office Supplies,3824.85,10,713.65,Fiona
+ORD1582,2025-08-05,West,Office Supplies,4649.82,3,493.25,Hannah
+ORD1583,2025-08-06,South,Furniture,201.22,11,1428.69,Ethan
+ORD1584,2025-08-07,South,Furniture,4366.64,11,1237.23,Ethan
+ORD1585,2025-08-08,East,Furniture,2659.77,13,1066.41,Bob
+ORD1586,2025-08-09,South,Furniture,3181.09,7,885.56,Alice
+ORD1587,2025-08-10,East,Food & Beverages,3240.13,17,1232.68,Fiona
+ORD1588,2025-08-11,West,Clothing,4108.0,2,594.48,Charlie
+ORD1589,2025-08-12,North,Electronics,1700.37,12,676.85,Hannah
+ORD1590,2025-08-13,North,Office Supplies,3678.6,10,1097.7,Fiona
+ORD1591,2025-08-14,West,Food & Beverages,2666.46,18,543.05,Ethan
+ORD1592,2025-08-15,North,Electronics,3977.3,11,105.21,Bob
+ORD1593,2025-08-16,West,Food & Beverages,4953.2,16,120.76,George
+ORD1594,2025-08-17,West,Food & Beverages,1043.22,17,181.89,Alice
+ORD1595,2025-08-18,West,Office Supplies,4973.51,19,1305.83,George
+ORD1596,2025-08-19,North,Clothing,494.57,18,713.62,Charlie
+ORD1597,2025-08-20,East,Furniture,61.47,3,1072.19,Fiona
+ORD1598,2025-08-21,West,Clothing,268.6,16,595.43,Charlie
+ORD1599,2025-08-22,South,Office Supplies,1741.82,6,395.48,Ethan
+ORD1600,2025-08-23,North,Office Supplies,3182.89,12,527.32,Charlie
+ORD1601,2025-08-24,West,Office Supplies,391.7,11,1193.33,George
+ORD1602,2025-08-25,West,Electronics,78.05,15,941.57,Bob
+ORD1603,2025-08-26,South,Clothing,4688.6,15,1407.08,Charlie
+ORD1604,2025-08-27,East,Clothing,4118.54,16,1022.76,Diana
+ORD1605,2025-08-28,East,Food & Beverages,4055.46,10,859.57,Bob
+ORD1606,2025-08-29,East,Food & Beverages,4427.9,12,919.19,Fiona
+ORD1607,2025-08-30,West,Food & Beverages,3515.17,13,1414.13,Alice
+ORD1608,2025-08-31,West,Office Supplies,566.8,4,1184.42,Alice
+ORD1609,2025-09-01,West,Clothing,2025.55,7,45.82,Ethan
+ORD1610,2025-09-02,North,Office Supplies,3629.59,2,805.87,Ethan
+ORD1611,2025-09-03,South,Electronics,1437.66,15,1035.62,Diana
+ORD1612,2025-09-04,West,Food & Beverages,3452.66,8,1125.56,Fiona
+ORD1613,2025-09-05,South,Office Supplies,171.27,7,327.58,George
+ORD1614,2025-09-06,South,Office Supplies,1565.38,15,1302.09,Alice
+ORD1615,2025-09-07,East,Electronics,2768.2,14,1434.21,Alice
+ORD1616,2025-09-08,North,Furniture,3178.84,8,362.71,Alice
+ORD1617,2025-09-09,West,Clothing,2906.35,12,1325.1,George
+ORD1618,2025-09-10,East,Furniture,3503.89,13,154.5,Alice
+ORD1619,2025-09-11,East,Food & Beverages,80.14,11,93.0,Charlie
+ORD1620,2025-09-12,West,Office Supplies,549.66,17,202.54,Fiona
+ORD1621,2025-09-13,South,Electronics,4351.27,17,96.03,Bob
+ORD1622,2025-09-14,East,Electronics,3424.66,4,1269.07,Bob
+ORD1623,2025-09-15,South,Clothing,609.01,8,97.98,Diana
+ORD1624,2025-09-16,North,Furniture,4218.27,5,414.78,Charlie
+ORD1625,2025-09-17,South,Clothing,1249.04,16,164.6,Alice
+ORD1626,2025-09-18,North,Office Supplies,2417.39,4,450.18,Alice
+ORD1627,2025-09-19,South,Clothing,768.72,15,144.93,Ethan
+ORD1628,2025-09-20,East,Electronics,3565.04,12,1005.32,Ethan
+ORD1629,2025-09-21,East,Electronics,3350.93,5,208.66,Diana
+ORD1630,2025-09-22,North,Food & Beverages,1095.01,16,1279.25,Alice
+ORD1631,2025-09-23,West,Food & Beverages,4323.83,14,1227.61,Diana
+ORD1632,2025-09-24,North,Office Supplies,2036.46,10,30.36,Charlie
+ORD1633,2025-09-25,North,Furniture,1497.95,7,1344.63,Bob
+ORD1634,2025-09-26,South,Clothing,804.03,13,53.13,Alice
+ORD1635,2025-09-27,South,Office Supplies,1367.53,5,367.07,Fiona
+ORD1636,2025-09-28,North,Food & Beverages,159.03,3,58.26,George
+ORD1637,2025-09-29,East,Clothing,2937.12,15,510.41,Charlie
+ORD1638,2025-09-30,South,Food & Beverages,4219.04,4,775.66,Alice
+ORD1639,2025-10-01,West,Clothing,2767.45,15,1197.0,George
+ORD1640,2025-10-02,South,Furniture,1135.41,14,513.59,Fiona
+ORD1641,2025-10-03,South,Office Supplies,216.66,19,1061.18,Ethan
+ORD1642,2025-10-04,West,Clothing,1112.41,13,289.38,Diana
+ORD1643,2025-10-05,North,Electronics,2109.8,10,1128.39,Ethan
+ORD1644,2025-10-06,West,Electronics,3810.08,5,361.63,Bob
+ORD1645,2025-10-07,North,Clothing,979.82,6,223.88,Ethan
+ORD1646,2025-10-08,North,Clothing,3612.97,4,286.26,Alice
+ORD1647,2025-10-09,North,Clothing,4341.32,2,281.27,Fiona
+ORD1648,2025-10-10,West,Electronics,2297.04,16,774.17,Ethan
+ORD1649,2025-10-11,North,Electronics,4116.09,18,1268.75,Alice
+ORD1650,2025-10-12,East,Clothing,2795.55,5,128.61,Bob
+ORD1651,2025-10-13,West,Food & Beverages,3203.6,4,1063.36,George
+ORD1652,2025-10-14,East,Food & Beverages,2655.08,13,984.98,Fiona
+ORD1653,2025-10-15,North,Furniture,2342.7,19,1310.05,Ethan
+ORD1654,2025-10-16,South,Office Supplies,1211.53,2,373.78,Diana
+ORD1655,2025-10-17,North,Food & Beverages,1550.81,13,680.66,Diana
+ORD1656,2025-10-18,East,Electronics,1485.35,11,1389.48,Fiona
+ORD1657,2025-10-19,East,Food & Beverages,2838.28,4,993.39,Diana
+ORD1658,2025-10-20,West,Furniture,643.77,15,589.26,Ethan
+ORD1659,2025-10-21,South,Furniture,4588.12,4,205.8,Ethan
+ORD1660,2025-10-22,West,Office Supplies,3617.24,9,401.1,Fiona
+ORD1661,2025-10-23,East,Food & Beverages,2037.16,7,876.01,Ethan
+ORD1662,2025-10-24,North,Electronics,835.19,19,1080.07,George
+ORD1663,2025-10-25,South,Electronics,4415.86,19,195.39,Alice
+ORD1664,2025-10-26,North,Clothing,4127.7,6,903.4,Bob
+ORD1665,2025-10-27,North,Electronics,3622.52,6,830.02,George
+ORD1666,2025-10-28,South,Office Supplies,1394.16,15,775.79,George
+ORD1667,2025-10-29,West,Office Supplies,2042.11,15,1038.28,Diana
+ORD1668,2025-10-30,North,Electronics,558.6,9,1257.8,Alice
+ORD1669,2025-10-31,East,Electronics,985.75,4,491.25,Fiona
+ORD1670,2025-11-01,North,Clothing,3925.93,18,1334.63,Hannah
+ORD1671,2025-11-02,South,Electronics,3589.44,18,249.34,Diana
+ORD1672,2025-11-03,South,Clothing,2987.75,5,267.81,Alice
+ORD1673,2025-11-04,South,Clothing,4483.85,11,407.49,Ethan
+ORD1674,2025-11-05,West,Electronics,2937.17,5,188.1,Fiona
+ORD1675,2025-11-06,North,Furniture,2361.49,4,353.18,Hannah
+ORD1676,2025-11-07,West,Furniture,1734.84,12,168.55,Fiona
+ORD1677,2025-11-08,West,Clothing,4705.22,2,1234.41,Hannah
+ORD1678,2025-11-09,South,Electronics,459.44,13,217.06,Hannah
+ORD1679,2025-11-10,South,Furniture,4657.89,10,1123.47,Diana
+ORD1680,2025-11-11,West,Electronics,4142.24,9,81.39,Ethan
+ORD1681,2025-11-12,North,Electronics,693.15,10,1423.3,Diana
+ORD1682,2025-11-13,East,Electronics,2846.67,7,1069.63,Hannah
+ORD1683,2025-11-14,West,Food & Beverages,4339.41,4,20.13,Hannah
+ORD1684,2025-11-15,North,Electronics,2880.46,19,1148.15,Charlie
+ORD1685,2025-11-16,South,Food & Beverages,4540.64,10,775.98,Alice
+ORD1686,2025-11-17,South,Clothing,4717.77,3,1171.25,Charlie
+ORD1687,2025-11-18,North,Furniture,2140.8,19,788.52,Alice
+ORD1688,2025-11-19,East,Furniture,1917.7,2,965.13,Bob
+ORD1689,2025-11-20,South,Furniture,4684.79,10,1181.63,George
+ORD1690,2025-11-21,South,Furniture,3391.94,2,613.61,Fiona
+ORD1691,2025-11-22,South,Furniture,624.31,2,14.04,Diana
+ORD1692,2025-11-23,North,Furniture,259.34,17,1276.42,Bob
+ORD1693,2025-11-24,West,Furniture,2844.91,16,577.53,Bob
+ORD1694,2025-11-25,South,Clothing,4654.35,16,749.1,Fiona
+ORD1695,2025-11-26,West,Electronics,4229.03,14,21.57,Fiona
+ORD1696,2025-11-27,East,Office Supplies,3395.45,7,743.22,Alice
+ORD1697,2025-11-28,South,Food & Beverages,738.62,11,1479.87,Charlie
+ORD1698,2025-11-29,South,Office Supplies,1308.45,1,424.62,Ethan
+ORD1699,2025-11-30,East,Office Supplies,4383.78,11,599.17,Alice
+ORD1700,2025-12-01,South,Electronics,954.9,4,1033.91,Ethan
+ORD1701,2025-12-02,West,Electronics,1428.28,7,1224.04,Bob
+ORD1702,2025-12-03,North,Electronics,691.52,15,631.91,Ethan
+ORD1703,2025-12-04,West,Furniture,3396.74,18,471.41,Charlie
+ORD1704,2025-12-05,North,Clothing,4722.71,12,1407.36,Alice
+ORD1705,2025-12-06,North,Furniture,1381.39,17,1018.95,Hannah
+ORD1706,2025-12-07,West,Clothing,2403.26,1,187.34,Fiona
+ORD1707,2025-12-08,West,Clothing,3189.98,11,112.7,Hannah
+ORD1708,2025-12-09,West,Office Supplies,4997.36,1,730.49,Charlie
+ORD1709,2025-12-10,West,Office Supplies,568.8,15,337.93,George
+ORD1710,2025-12-11,East,Clothing,2517.93,10,388.44,Charlie
+ORD1711,2025-12-12,South,Clothing,1956.34,7,1317.76,George
+ORD1712,2025-12-13,North,Furniture,4335.81,2,143.45,Alice
+ORD1713,2025-12-14,West,Furniture,2406.04,10,1075.89,Fiona
+ORD1714,2025-12-15,West,Office Supplies,599.34,4,414.0,Charlie
+ORD1715,2025-12-16,West,Electronics,3190.4,12,1142.89,Hannah
+ORD1716,2025-12-17,East,Clothing,3865.36,19,1086.39,George
+ORD1717,2025-12-18,West,Furniture,64.26,11,21.01,Fiona
+ORD1718,2025-12-19,West,Office Supplies,4301.84,8,768.61,Diana
+ORD1719,2025-12-20,West,Furniture,970.81,18,217.59,Diana
+ORD1720,2025-12-21,South,Clothing,2782.74,11,1300.68,Diana
+ORD1721,2025-12-22,East,Clothing,2108.2,11,1308.66,Ethan
+ORD1722,2025-12-23,West,Food & Beverages,3612.29,13,633.34,Charlie
+ORD1723,2025-12-24,North,Electronics,1887.25,3,672.15,Alice
+ORD1724,2025-12-25,North,Food & Beverages,4355.33,12,461.89,Hannah
+ORD1725,2025-12-26,North,Office Supplies,3665.96,3,1077.74,Alice
+ORD1726,2025-12-27,East,Furniture,3256.18,10,544.41,Ethan
+ORD1727,2025-12-28,East,Office Supplies,3991.39,17,409.01,Alice
+ORD1728,2025-12-29,North,Clothing,3782.41,2,654.02,George
+ORD1729,2025-12-30,West,Food & Beverages,227.9,17,146.32,Diana
+ORD1730,2025-12-31,East,Food & Beverages,2003.94,16,1122.44,Hannah
+ORD1731,2026-01-01,North,Food & Beverages,4657.5,2,28.77,Charlie
+ORD1732,2026-01-02,North,Office Supplies,672.34,6,970.28,Alice
+ORD1733,2026-01-03,West,Clothing,3698.63,10,282.47,Alice
+ORD1734,2026-01-04,South,Furniture,4874.23,10,356.28,Bob
+ORD1735,2026-01-05,East,Furniture,308.38,8,957.09,Bob
+ORD1736,2026-01-06,West,Office Supplies,3426.86,1,1489.49,Bob
+ORD1737,2026-01-07,North,Food & Beverages,2367.36,13,1168.8,Charlie
+ORD1738,2026-01-08,North,Electronics,2916.92,9,346.5,Diana
+ORD1739,2026-01-09,West,Office Supplies,472.44,10,272.28,Fiona
+ORD1740,2026-01-10,East,Office Supplies,262.88,15,1300.69,Diana
+ORD1741,2026-01-11,South,Clothing,3350.99,5,671.83,Hannah
+ORD1742,2026-01-12,South,Furniture,4125.38,16,214.21,Diana
+ORD1743,2026-01-13,North,Office Supplies,3920.98,13,1294.7,Charlie
+ORD1744,2026-01-14,East,Office Supplies,2741.84,18,1225.98,George
+ORD1745,2026-01-15,South,Food & Beverages,544.34,11,1476.02,George
+ORD1746,2026-01-16,East,Food & Beverages,3455.82,9,1365.52,Charlie
+ORD1747,2026-01-17,East,Electronics,1247.35,16,1279.17,Bob
+ORD1748,2026-01-18,North,Clothing,4559.79,2,88.34,Alice
+ORD1749,2026-01-19,South,Electronics,4199.41,2,165.58,Ethan
+ORD1750,2026-01-20,West,Food & Beverages,3561.45,12,857.78,Ethan
+ORD1751,2026-01-21,North,Furniture,4746.79,8,801.9,Fiona
+ORD1752,2026-01-22,South,Food & Beverages,205.54,9,692.37,Alice
+ORD1753,2026-01-23,South,Clothing,3694.19,12,601.22,Fiona
+ORD1754,2026-01-24,South,Food & Beverages,1684.7,9,652.5,Bob
+ORD1755,2026-01-25,South,Clothing,4535.03,10,858.25,Fiona
+ORD1756,2026-01-26,South,Clothing,1370.04,2,13.09,Alice
+ORD1757,2026-01-27,East,Clothing,3638.04,16,398.46,Hannah
+ORD1758,2026-01-28,North,Clothing,4394.35,7,782.24,Alice
+ORD1759,2026-01-29,East,Clothing,256.2,2,1086.1,Ethan
+ORD1760,2026-01-30,West,Furniture,2018.36,1,269.49,George
+ORD1761,2026-01-31,South,Electronics,3823.43,19,824.85,Bob
+ORD1762,2026-02-01,North,Office Supplies,2301.85,4,1074.54,Hannah
+ORD1763,2026-02-02,South,Electronics,1372.9,2,672.5,Charlie
+ORD1764,2026-02-03,North,Clothing,1138.04,14,50.35,Hannah
+ORD1765,2026-02-04,East,Furniture,701.02,2,679.41,Hannah
+ORD1766,2026-02-05,North,Food & Beverages,4292.79,15,451.7,Fiona
+ORD1767,2026-02-06,West,Furniture,2898.01,12,1395.18,Ethan
+ORD1768,2026-02-07,West,Clothing,428.11,5,195.67,Fiona
+ORD1769,2026-02-08,North,Furniture,1943.77,7,982.19,Fiona
+ORD1770,2026-02-09,North,Furniture,1870.28,10,88.55,Charlie
+ORD1771,2026-02-10,North,Clothing,949.61,14,674.79,Bob
+ORD1772,2026-02-11,North,Furniture,2205.76,14,835.43,Alice
+ORD1773,2026-02-12,West,Office Supplies,1693.89,5,453.95,Diana
+ORD1774,2026-02-13,South,Office Supplies,1741.93,18,688.06,Fiona
+ORD1775,2026-02-14,North,Furniture,3708.18,14,253.7,Diana
+ORD1776,2026-02-15,North,Food & Beverages,1155.15,2,463.14,Bob
+ORD1777,2026-02-16,West,Clothing,3227.21,12,935.45,Diana
+ORD1778,2026-02-17,West,Office Supplies,2874.72,6,459.68,Fiona
+ORD1779,2026-02-18,East,Food & Beverages,2862.06,4,1350.62,Charlie
+ORD1780,2026-02-19,North,Furniture,3331.89,13,946.33,Diana
+ORD1781,2026-02-20,East,Food & Beverages,2764.49,4,663.59,Bob
+ORD1782,2026-02-21,West,Electronics,4402.31,14,67.75,Bob
+ORD1783,2026-02-22,West,Office Supplies,3394.12,16,754.33,George
+ORD1784,2026-02-23,South,Furniture,2757.47,4,1149.52,George
+ORD1785,2026-02-24,North,Clothing,4157.33,1,405.68,Charlie
+ORD1786,2026-02-25,East,Furniture,3050.43,13,1212.09,Diana
+ORD1787,2026-02-26,West,Clothing,1491.16,4,385.19,Diana
+ORD1788,2026-02-27,West,Furniture,1075.12,18,1237.38,George
+ORD1789,2026-02-28,East,Food & Beverages,804.02,6,137.05,Alice
+ORD1790,2026-03-01,South,Food & Beverages,4502.3,3,1300.61,Ethan
+ORD1791,2026-03-02,West,Food & Beverages,3565.17,13,753.79,Bob
+ORD1792,2026-03-03,North,Electronics,4690.02,16,451.84,Alice
+ORD1793,2026-03-04,West,Clothing,3036.29,5,405.02,Bob
+ORD1794,2026-03-05,North,Food & Beverages,2393.33,4,653.7,Hannah
+ORD1795,2026-03-06,East,Electronics,345.6,8,1498.58,Hannah
+ORD1796,2026-03-07,North,Clothing,3374.63,19,338.29,Alice
+ORD1797,2026-03-08,East,Furniture,2931.93,14,163.79,Hannah
+ORD1798,2026-03-09,North,Electronics,4951.53,7,881.7,George
+ORD1799,2026-03-10,East,Office Supplies,1233.84,14,737.93,George
+ORD1800,2026-03-11,North,Electronics,2677.15,6,791.05,Ethan
+ORD1801,2026-03-12,South,Electronics,3272.24,12,1003.73,Alice
+ORD1802,2026-03-13,North,Clothing,3240.73,16,408.04,Bob
+ORD1803,2026-03-14,North,Furniture,2828.4,17,1366.89,Diana
+ORD1804,2026-03-15,South,Office Supplies,3895.79,13,659.15,Bob
+ORD1805,2026-03-16,West,Food & Beverages,1064.66,14,202.34,Fiona
+ORD1806,2026-03-17,West,Food & Beverages,3641.85,7,1116.03,George
+ORD1807,2026-03-18,North,Electronics,3117.69,14,968.23,Charlie
+ORD1808,2026-03-19,South,Clothing,4485.57,15,480.46,Charlie
+ORD1809,2026-03-20,North,Clothing,4243.61,12,936.06,George
+ORD1810,2026-03-21,East,Food & Beverages,1609.98,17,337.59,Fiona
+ORD1811,2026-03-22,East,Office Supplies,1417.37,9,672.81,Charlie
+ORD1812,2026-03-23,North,Furniture,4909.18,15,1350.12,Hannah
+ORD1813,2026-03-24,West,Office Supplies,2659.96,12,208.97,George
+ORD1814,2026-03-25,West,Furniture,4536.78,2,586.18,Charlie
+ORD1815,2026-03-26,North,Food & Beverages,861.21,5,1233.5,George
+ORD1816,2026-03-27,North,Furniture,3231.95,13,1454.54,Ethan
+ORD1817,2026-03-28,East,Clothing,4058.81,8,686.35,Diana
+ORD1818,2026-03-29,West,Electronics,4739.61,14,765.43,Diana
+ORD1819,2026-03-30,North,Electronics,1719.83,15,862.54,Bob
+ORD1820,2026-03-31,East,Food & Beverages,3638.66,11,1399.2,Fiona
+ORD1821,2026-04-01,West,Clothing,2717.12,1,1288.73,George
+ORD1822,2026-04-02,South,Office Supplies,350.11,3,264.2,Alice
+ORD1823,2026-04-03,East,Clothing,3465.5,17,660.77,Bob
+ORD1824,2026-04-04,West,Electronics,3465.98,19,701.36,Bob
+ORD1825,2026-04-05,West,Electronics,4656.5,14,1185.75,George
+ORD1826,2026-04-06,East,Clothing,2511.7,8,908.31,George
+ORD1827,2026-04-07,South,Clothing,1189.74,13,984.79,Bob
+ORD1828,2026-04-08,East,Electronics,270.59,3,1497.32,Bob
+ORD1829,2026-04-09,West,Office Supplies,2107.43,5,121.69,Diana
+ORD1830,2026-04-10,North,Food & Beverages,1544.49,9,342.28,Alice
+ORD1831,2026-04-11,North,Food & Beverages,3817.39,6,617.76,Hannah
+ORD1832,2026-04-12,East,Clothing,1803.63,2,528.2,Bob
+ORD1833,2026-04-13,West,Food & Beverages,4747.9,13,42.25,Hannah
+ORD1834,2026-04-14,North,Electronics,4813.44,5,146.75,Diana
+ORD1835,2026-04-15,West,Electronics,3123.5,8,1024.62,Bob
+ORD1836,2026-04-16,East,Clothing,4646.87,1,1320.19,Charlie
+ORD1837,2026-04-17,North,Clothing,3816.23,12,776.2,Bob
+ORD1838,2026-04-18,West,Clothing,2756.96,11,813.39,George
+ORD1839,2026-04-19,North,Office Supplies,942.52,7,390.09,Fiona
+ORD1840,2026-04-20,East,Food & Beverages,2320.06,15,1154.14,Fiona
+ORD1841,2026-04-21,West,Clothing,2826.33,11,1130.17,Bob
+ORD1842,2026-04-22,North,Furniture,4326.61,16,886.66,Ethan
+ORD1843,2026-04-23,East,Furniture,2432.6,3,326.87,Charlie
+ORD1844,2026-04-24,North,Electronics,4493.49,14,154.56,Alice
+ORD1845,2026-04-25,North,Food & Beverages,3388.03,3,105.72,Bob
+ORD1846,2026-04-26,South,Clothing,728.15,1,893.12,Hannah
+ORD1847,2026-04-27,South,Furniture,4975.16,15,1239.3,Alice
+ORD1848,2026-04-28,East,Food & Beverages,2659.8,1,1288.91,Charlie
+ORD1849,2026-04-29,South,Electronics,1989.7,17,700.8,Bob
+ORD1850,2026-04-30,East,Office Supplies,3312.61,2,1178.56,Ethan
+ORD1851,2026-05-01,South,Food & Beverages,589.02,6,1420.85,Diana
+ORD1852,2026-05-02,North,Food & Beverages,3200.87,8,420.0,Ethan
+ORD1853,2026-05-03,East,Office Supplies,2516.27,16,602.96,George
+ORD1854,2026-05-04,East,Food & Beverages,2063.04,19,1397.9,Ethan
+ORD1855,2026-05-05,North,Electronics,4767.45,1,513.96,Hannah
+ORD1856,2026-05-06,East,Electronics,2636.57,3,1371.68,Diana
+ORD1857,2026-05-07,East,Office Supplies,1134.63,3,1471.76,George
+ORD1858,2026-05-08,South,Clothing,2321.87,5,996.1,Diana
+ORD1859,2026-05-09,East,Furniture,4600.97,12,1227.17,Fiona
+ORD1860,2026-05-10,West,Clothing,921.67,12,1126.82,Diana
+ORD1861,2026-05-11,North,Food & Beverages,1109.09,13,1052.31,Bob
+ORD1862,2026-05-12,South,Furniture,114.5,9,467.33,Alice
+ORD1863,2026-05-13,South,Office Supplies,120.24,7,95.07,Fiona
+ORD1864,2026-05-14,West,Office Supplies,4155.49,4,521.15,Fiona
+ORD1865,2026-05-15,North,Furniture,3674.01,19,1003.73,Alice
+ORD1866,2026-05-16,North,Electronics,1807.45,19,162.77,Hannah
+ORD1867,2026-05-17,South,Furniture,3506.64,6,27.76,Fiona
+ORD1868,2026-05-18,East,Food & Beverages,2006.27,13,218.14,Diana
+ORD1869,2026-05-19,South,Electronics,4766.84,11,1076.45,Ethan
+ORD1870,2026-05-20,North,Office Supplies,4836.91,13,1459.46,Charlie
+ORD1871,2026-05-21,West,Furniture,1994.33,13,1474.77,Hannah
+ORD1872,2026-05-22,South,Clothing,4278.4,15,746.03,Diana
+ORD1873,2026-05-23,North,Clothing,3876.79,13,1305.33,George
+ORD1874,2026-05-24,South,Food & Beverages,1584.5,11,1107.87,George
+ORD1875,2026-05-25,East,Clothing,1198.6,19,756.55,Ethan
+ORD1876,2026-05-26,South,Furniture,2318.26,8,863.41,Hannah
+ORD1877,2026-05-27,South,Furniture,3917.68,8,214.47,Hannah
+ORD1878,2026-05-28,North,Clothing,4802.83,10,1407.12,Ethan
+ORD1879,2026-05-29,North,Furniture,3829.72,16,534.38,Hannah
+ORD1880,2026-05-30,North,Food & Beverages,4283.27,19,674.76,Fiona
+ORD1881,2026-05-31,South,Electronics,3035.17,11,1010.77,Bob
+ORD1882,2026-06-01,East,Food & Beverages,4185.27,13,507.51,Bob
+ORD1883,2026-06-02,West,Food & Beverages,3932.88,9,388.85,Hannah
+ORD1884,2026-06-03,West,Furniture,1916.08,19,950.26,Fiona
+ORD1885,2026-06-04,North,Electronics,2782.35,16,47.23,Fiona
+ORD1886,2026-06-05,North,Furniture,4033.53,7,1083.88,Alice
+ORD1887,2026-06-06,South,Office Supplies,277.98,19,775.89,Alice
+ORD1888,2026-06-07,West,Furniture,4049.99,12,912.57,Charlie
+ORD1889,2026-06-08,North,Furniture,930.55,15,951.5,Charlie
+ORD1890,2026-06-09,East,Furniture,2597.68,14,795.3,Charlie
+ORD1891,2026-06-10,East,Electronics,4050.96,11,877.98,Charlie
+ORD1892,2026-06-11,North,Furniture,1306.41,10,1028.84,Ethan
+ORD1893,2026-06-12,North,Electronics,1266.75,11,1132.15,Ethan
+ORD1894,2026-06-13,West,Clothing,2043.68,6,1093.9,Alice
+ORD1895,2026-06-14,West,Office Supplies,4478.48,2,1305.73,Bob
+ORD1896,2026-06-15,South,Electronics,52.19,11,292.27,Fiona
+ORD1897,2026-06-16,West,Clothing,4511.85,19,607.71,George
+ORD1898,2026-06-17,East,Electronics,811.34,6,1422.22,Bob
+ORD1899,2026-06-18,East,Electronics,4950.93,14,600.92,Diana
+ORD1900,2026-06-19,North,Office Supplies,4776.49,6,196.06,Ethan
+ORD1901,2026-06-20,West,Food & Beverages,2498.64,17,792.91,Charlie
+ORD1902,2026-06-21,South,Food & Beverages,2587.97,10,173.14,Charlie
+ORD1903,2026-06-22,East,Electronics,2433.67,1,312.25,Diana
+ORD1904,2026-06-23,East,Furniture,3195.45,3,1497.49,Bob
+ORD1905,2026-06-24,South,Clothing,499.07,8,816.63,Charlie
+ORD1906,2026-06-25,South,Furniture,211.46,8,433.25,Bob
+ORD1907,2026-06-26,East,Furniture,335.63,15,1492.21,Fiona
+ORD1908,2026-06-27,East,Electronics,2249.61,7,1450.17,Diana
+ORD1909,2026-06-28,South,Electronics,1413.96,11,666.7,George
+ORD1910,2026-06-29,East,Electronics,3129.1,7,398.0,Bob
+ORD1911,2026-06-30,North,Electronics,4962.59,4,1259.22,Fiona
+ORD1912,2026-07-01,North,Food & Beverages,1962.3,12,1076.27,Hannah
+ORD1913,2026-07-02,South,Electronics,2890.51,6,1033.54,Hannah
+ORD1914,2026-07-03,West,Food & Beverages,2107.24,14,1340.74,Bob
+ORD1915,2026-07-04,South,Food & Beverages,4243.99,12,1037.23,Hannah
+ORD1916,2026-07-05,South,Electronics,4516.07,11,432.86,Bob
+ORD1917,2026-07-06,West,Office Supplies,4392.91,19,1043.86,Charlie
+ORD1918,2026-07-07,West,Clothing,4873.14,5,465.66,Alice
+ORD1919,2026-07-08,West,Furniture,186.22,14,1141.27,Hannah
+ORD1920,2026-07-09,North,Food & Beverages,4207.09,16,933.42,Ethan
+ORD1921,2026-07-10,East,Clothing,3771.27,13,125.34,Bob
+ORD1922,2026-07-11,North,Office Supplies,1182.04,4,774.12,Bob
+ORD1923,2026-07-12,East,Furniture,4783.78,11,521.52,Bob
+ORD1924,2026-07-13,North,Furniture,783.48,17,499.57,Alice
+ORD1925,2026-07-14,East,Food & Beverages,3413.77,7,907.36,Fiona
+ORD1926,2026-07-15,North,Electronics,1163.21,14,490.26,Hannah
+ORD1927,2026-07-16,West,Office Supplies,2185.33,11,1167.57,George
+ORD1928,2026-07-17,South,Food & Beverages,3609.84,9,115.48,George
+ORD1929,2026-07-18,North,Office Supplies,2838.46,13,993.98,Diana
+ORD1930,2026-07-19,East,Electronics,2166.13,18,1215.7,Charlie
+ORD1931,2026-07-20,West,Electronics,1665.38,11,1012.52,Alice
+ORD1932,2026-07-21,North,Food & Beverages,4206.32,15,750.87,Fiona
+ORD1933,2026-07-22,North,Electronics,761.88,19,1425.96,Bob
+ORD1934,2026-07-23,West,Clothing,2179.01,1,456.91,Fiona
+ORD1935,2026-07-24,North,Furniture,4523.6,4,38.56,Alice
+ORD1936,2026-07-25,South,Food & Beverages,4236.96,14,653.66,Alice
+ORD1937,2026-07-26,North,Office Supplies,2034.66,14,59.19,Alice
+ORD1938,2026-07-27,South,Clothing,3827.39,3,1431.37,Diana
+ORD1939,2026-07-28,South,Food & Beverages,4124.65,17,322.78,Ethan
+ORD1940,2026-07-29,West,Electronics,4449.99,3,1185.5,Charlie
+ORD1941,2026-07-30,North,Electronics,2745.3,16,1164.11,Diana
+ORD1942,2026-07-31,West,Electronics,1062.08,14,334.42,Diana
+ORD1943,2026-08-01,North,Electronics,1313.78,13,935.63,Hannah
+ORD1944,2026-08-02,North,Office Supplies,1513.69,15,81.64,Ethan
+ORD1945,2026-08-03,East,Clothing,2989.32,14,730.53,Diana
+ORD1946,2026-08-04,North,Furniture,212.41,19,31.82,Alice
+ORD1947,2026-08-05,West,Office Supplies,3198.41,6,1382.5,Alice
+ORD1948,2026-08-06,South,Office Supplies,1853.55,10,1464.37,Hannah
+ORD1949,2026-08-07,North,Furniture,1511.45,15,341.2,Fiona
+ORD1950,2026-08-08,East,Furniture,4403.51,6,320.08,Bob
+ORD1951,2026-08-09,West,Electronics,2327.01,10,1133.04,Diana
+ORD1952,2026-08-10,North,Office Supplies,520.51,7,387.54,Bob
+ORD1953,2026-08-11,West,Food & Beverages,4142.4,17,1343.66,Charlie
+ORD1954,2026-08-12,East,Furniture,285.82,18,865.15,George
+ORD1955,2026-08-13,East,Furniture,3647.41,17,532.66,Alice
+ORD1956,2026-08-14,West,Clothing,3880.84,9,1250.71,Fiona
+ORD1957,2026-08-15,North,Food & Beverages,1795.38,10,745.18,Charlie
+ORD1958,2026-08-16,South,Food & Beverages,4132.7,10,1368.33,Hannah
+ORD1959,2026-08-17,East,Furniture,2602.51,7,1392.74,Fiona
+ORD1960,2026-08-18,North,Electronics,2343.3,16,256.48,George
+ORD1961,2026-08-19,North,Clothing,274.75,18,13.46,George
+ORD1962,2026-08-20,South,Food & Beverages,1485.64,6,1476.06,Hannah
+ORD1963,2026-08-21,East,Furniture,4658.5,1,1360.14,Ethan
+ORD1964,2026-08-22,East,Food & Beverages,1989.53,1,92.61,Hannah
+ORD1965,2026-08-23,North,Clothing,2756.17,12,1251.22,Alice
+ORD1966,2026-08-24,North,Clothing,2683.51,2,692.13,Charlie
+ORD1967,2026-08-25,South,Office Supplies,2972.63,4,395.85,Ethan
+ORD1968,2026-08-26,South,Furniture,353.59,17,1319.33,George
+ORD1969,2026-08-27,East,Clothing,1842.77,4,303.03,Charlie
+ORD1970,2026-08-28,West,Office Supplies,3629.48,11,1421.48,Fiona
+ORD1971,2026-08-29,East,Office Supplies,1042.77,4,316.38,Ethan
+ORD1972,2026-08-30,North,Food & Beverages,1057.71,1,924.39,Ethan
+ORD1973,2026-08-31,East,Food & Beverages,99.95,7,342.4,Alice
+ORD1974,2026-09-01,West,Office Supplies,2215.54,18,823.05,Hannah
+ORD1975,2026-09-02,South,Food & Beverages,4419.54,9,1029.12,Bob
+ORD1976,2026-09-03,West,Clothing,306.91,3,293.44,Fiona
+ORD1977,2026-09-04,West,Electronics,996.04,8,786.12,Fiona
+ORD1978,2026-09-05,West,Clothing,1584.92,19,708.9,Hannah
+ORD1979,2026-09-06,South,Office Supplies,3672.04,4,115.85,Ethan
+ORD1980,2026-09-07,West,Office Supplies,3221.15,18,1229.28,Ethan
+ORD1981,2026-09-08,West,Clothing,2108.92,11,510.17,Alice
+ORD1982,2026-09-09,West,Food & Beverages,3807.39,14,866.13,Bob
+ORD1983,2026-09-10,North,Food & Beverages,3067.67,18,777.03,Fiona
+ORD1984,2026-09-11,West,Office Supplies,4485.4,16,774.76,George
+ORD1985,2026-09-12,South,Furniture,4099.23,3,169.76,Diana
+ORD1986,2026-09-13,West,Food & Beverages,1301.43,15,640.99,Diana
+ORD1987,2026-09-14,West,Clothing,1393.62,4,684.03,Bob
+ORD1988,2026-09-15,South,Food & Beverages,670.51,5,1103.13,Charlie
+ORD1989,2026-09-16,West,Clothing,1717.98,17,1261.63,Alice
+ORD1990,2026-09-17,South,Office Supplies,4997.74,7,822.02,Bob
+ORD1991,2026-09-18,West,Food & Beverages,2058.47,16,139.31,Hannah
+ORD1992,2026-09-19,South,Clothing,1141.42,14,362.91,Hannah
+ORD1993,2026-09-20,West,Office Supplies,3824.29,16,255.75,Diana
+ORD1994,2026-09-21,West,Furniture,2735.23,7,195.68,Ethan
+ORD1995,2026-09-22,North,Clothing,790.53,9,555.19,Diana
+ORD1996,2026-09-23,North,Furniture,1934.41,4,351.8,Ethan
+ORD1997,2026-09-24,West,Furniture,2101.63,11,335.27,Alice
+ORD1998,2026-09-25,West,Electronics,3781.46,2,91.49,Ethan
+ORD1999,2026-09-26,East,Food & Beverages,152.32,12,36.33,Bob
+ORD2000,2026-09-27,South,Clothing,1381.65,12,163.12,Ethan
+ORD2001,2026-09-28,East,Furniture,2612.1,4,266.57,Charlie
+ORD2002,2026-09-29,North,Electronics,1380.79,18,652.17,Hannah
+ORD2003,2026-09-30,North,Office Supplies,3160.75,7,770.68,Bob
+ORD2004,2026-10-01,North,Clothing,2435.24,1,219.48,Hannah
+ORD2005,2026-10-02,North,Furniture,1840.47,13,642.93,Alice
+ORD2006,2026-10-03,West,Food & Beverages,4748.58,6,519.21,Bob
+ORD2007,2026-10-04,North,Electronics,3179.19,6,283.3,Charlie
+ORD2008,2026-10-05,West,Furniture,693.21,12,20.19,Alice
+ORD2009,2026-10-06,West,Food & Beverages,2822.45,8,705.86,Diana
+ORD2010,2026-10-07,North,Furniture,3914.62,19,1031.62,Charlie
+ORD2011,2026-10-08,North,Clothing,3557.02,5,347.15,Alice
+ORD2012,2026-10-09,South,Clothing,901.84,18,206.39,George
+ORD2013,2026-10-10,East,Clothing,4863.48,5,1331.69,Ethan
+ORD2014,2026-10-11,North,Electronics,2271.63,10,419.79,Bob
+ORD2015,2026-10-12,South,Clothing,837.17,1,343.18,Alice
+ORD2016,2026-10-13,South,Food & Beverages,941.97,10,1287.07,Bob
+ORD2017,2026-10-14,East,Furniture,536.26,5,1227.49,Ethan
+ORD2018,2026-10-15,West,Office Supplies,4027.41,12,678.04,Alice
+ORD2019,2026-10-16,North,Food & Beverages,654.05,7,738.97,Diana
+ORD2020,2026-10-17,East,Food & Beverages,669.37,9,334.45,George
+ORD2021,2026-10-18,North,Clothing,4259.83,12,126.67,George
+ORD2022,2026-10-19,South,Electronics,1755.79,1,864.41,Charlie
+ORD2023,2026-10-20,South,Furniture,202.75,11,156.53,Alice
+ORD2024,2026-10-21,West,Electronics,306.88,15,679.42,Ethan
+ORD2025,2026-10-22,South,Furniture,753.74,2,1411.34,Alice
+ORD2026,2026-10-23,South,Furniture,1106.3,7,1429.72,Bob
+ORD2027,2026-10-24,East,Electronics,3342.47,12,366.61,Fiona
+ORD2028,2026-10-25,North,Food & Beverages,828.77,18,939.93,Hannah
+ORD2029,2026-10-26,North,Furniture,638.43,3,716.37,Alice
+ORD2030,2026-10-27,East,Electronics,3835.36,7,1314.77,George
+ORD2031,2026-10-28,West,Furniture,3371.72,11,414.43,George
+ORD2032,2026-10-29,North,Office Supplies,2204.85,18,15.52,Hannah
+ORD2033,2026-10-30,South,Food & Beverages,2769.08,12,252.22,George
+ORD2034,2026-10-31,North,Clothing,1594.32,6,530.79,Diana
+ORD2035,2026-11-01,South,Furniture,2438.38,5,480.42,Alice
+ORD2036,2026-11-02,West,Office Supplies,2558.03,1,1189.13,Charlie
+ORD2037,2026-11-03,East,Clothing,1966.82,12,1024.04,Alice
+ORD2038,2026-11-04,North,Clothing,4537.53,11,456.34,Fiona
+ORD2039,2026-11-05,East,Furniture,129.51,4,692.04,George
+ORD2040,2026-11-06,North,Electronics,3921.75,18,152.38,Bob
+ORD2041,2026-11-07,South,Furniture,665.7,4,1348.24,George
+ORD2042,2026-11-08,East,Office Supplies,3997.86,17,1403.78,Alice
+ORD2043,2026-11-09,North,Clothing,3098.76,2,1469.91,Diana
+ORD2044,2026-11-10,South,Furniture,4224.23,2,1304.14,Ethan
+ORD2045,2026-11-11,East,Electronics,532.7,12,269.2,Alice
+ORD2046,2026-11-12,East,Furniture,2816.95,6,78.83,Alice
+ORD2047,2026-11-13,North,Food & Beverages,2530.39,10,873.6,Charlie
+ORD2048,2026-11-14,North,Electronics,3545.66,16,1369.78,Diana
+ORD2049,2026-11-15,North,Office Supplies,2694.74,14,274.25,Fiona
+ORD2050,2026-11-16,South,Clothing,2726.64,7,20.49,Ethan
+ORD2051,2026-11-17,North,Furniture,2176.5,19,1210.19,George
+ORD2052,2026-11-18,East,Electronics,1578.73,17,124.43,Bob
+ORD2053,2026-11-19,East,Food & Beverages,2437.21,9,626.42,Alice
+ORD2054,2026-11-20,North,Electronics,636.54,13,1021.54,Fiona
+ORD2055,2026-11-21,North,Food & Beverages,4809.49,5,362.83,Ethan
+ORD2056,2026-11-22,West,Office Supplies,3586.33,5,135.1,Bob
+ORD2057,2026-11-23,East,Clothing,4764.71,10,1157.33,Fiona
+ORD2058,2026-11-24,South,Office Supplies,1172.3,10,948.96,Diana
+ORD2059,2026-11-25,West,Furniture,4402.74,7,1482.85,Diana
+ORD2060,2026-11-26,North,Electronics,4053.51,15,523.02,Ethan
+ORD2061,2026-11-27,North,Food & Beverages,3401.9,7,102.03,George
+ORD2062,2026-11-28,East,Food & Beverages,3143.89,15,1104.18,Hannah
+ORD2063,2026-11-29,North,Electronics,1616.92,3,787.38,Bob
+ORD2064,2026-11-30,South,Electronics,4091.23,19,327.67,Diana
+ORD2065,2026-12-01,East,Furniture,2532.5,10,1174.78,Hannah
+ORD2066,2026-12-02,North,Office Supplies,400.91,15,313.6,Ethan
+ORD2067,2026-12-03,East,Food & Beverages,1598.67,3,398.39,Diana
+ORD2068,2026-12-04,North,Furniture,4679.72,6,147.87,Diana
+ORD2069,2026-12-05,North,Office Supplies,4260.87,12,605.15,Fiona
+ORD2070,2026-12-06,North,Furniture,4910.43,15,634.2,Hannah
+ORD2071,2026-12-07,South,Food & Beverages,3158.57,6,776.7,Fiona
+ORD2072,2026-12-08,South,Electronics,1275.17,13,1066.36,Diana
+ORD2073,2026-12-09,East,Electronics,855.93,19,1360.09,Hannah
+ORD2074,2026-12-10,North,Office Supplies,975.23,3,215.22,Charlie
+ORD2075,2026-12-11,North,Clothing,147.99,8,90.98,Hannah
+ORD2076,2026-12-12,South,Office Supplies,1983.88,8,37.61,Fiona
+ORD2077,2026-12-13,North,Clothing,997.57,15,224.0,Bob
+ORD2078,2026-12-14,South,Furniture,2087.69,4,990.34,Ethan
+ORD2079,2026-12-15,North,Furniture,4678.22,19,1093.94,Ethan
+ORD2080,2026-12-16,East,Food & Beverages,2181.17,3,1181.89,George
+ORD2081,2026-12-17,North,Clothing,4396.02,13,373.13,Bob
+ORD2082,2026-12-18,North,Food & Beverages,3047.25,8,465.78,Bob
+ORD2083,2026-12-19,West,Electronics,1273.3,16,729.87,Bob
+ORD2084,2026-12-20,South,Clothing,1811.48,13,104.14,George
+ORD2085,2026-12-21,North,Office Supplies,465.4,3,920.6,Bob
+ORD2086,2026-12-22,North,Electronics,1700.64,16,1475.77,Alice
+ORD2087,2026-12-23,West,Electronics,3403.83,9,547.6,George
+ORD2088,2026-12-24,West,Office Supplies,406.95,14,1131.74,Ethan
+ORD2089,2026-12-25,South,Electronics,1066.74,13,755.05,Alice
+ORD2090,2026-12-26,West,Clothing,1938.13,7,200.44,George
+ORD2091,2026-12-27,East,Food & Beverages,4911.15,15,877.53,Diana
+ORD2092,2026-12-28,West,Electronics,3935.07,7,456.81,Diana
+ORD2093,2026-12-29,East,Clothing,3680.76,6,61.26,Ethan
+ORD2094,2026-12-30,South,Furniture,625.15,2,956.05,Diana
+ORD2095,2026-12-31,South,Clothing,3915.93,9,1289.81,Bob
+ORD2096,2027-01-01,South,Food & Beverages,3937.08,17,523.71,George
+ORD2097,2027-01-02,South,Clothing,3025.46,5,591.54,Alice
+ORD2098,2027-01-03,South,Office Supplies,4952.29,12,1337.62,Bob
+ORD2099,2027-01-04,East,Food & Beverages,1660.01,1,1222.28,Diana
+ORD2100,2027-01-05,East,Furniture,4709.3,10,1075.28,Fiona
+ORD2101,2027-01-06,South,Office Supplies,4577.92,11,380.71,Hannah
+ORD2102,2027-01-07,West,Clothing,106.83,16,1366.22,Alice
+ORD2103,2027-01-08,North,Food & Beverages,2278.08,14,240.08,Bob
+ORD2104,2027-01-09,South,Furniture,4886.67,8,943.89,George
+ORD2105,2027-01-10,West,Office Supplies,560.45,17,52.91,Ethan
+ORD2106,2027-01-11,North,Furniture,2761.53,18,969.14,Bob
+ORD2107,2027-01-12,South,Clothing,4895.84,12,422.95,Fiona
+ORD2108,2027-01-13,South,Furniture,2799.7,17,680.02,Diana
+ORD2109,2027-01-14,East,Electronics,989.59,14,524.44,Alice
+ORD2110,2027-01-15,North,Office Supplies,2931.81,16,267.41,Ethan
+ORD2111,2027-01-16,North,Furniture,1061.98,14,936.75,Alice
+ORD2112,2027-01-17,West,Clothing,2622.54,9,1324.14,Ethan
+ORD2113,2027-01-18,East,Clothing,416.51,4,1439.04,Hannah
+ORD2114,2027-01-19,East,Furniture,3047.14,11,296.6,George
+ORD2115,2027-01-20,East,Clothing,2608.11,6,1078.89,Alice
+ORD2116,2027-01-21,East,Food & Beverages,3713.8,15,999.87,Diana
+ORD2117,2027-01-22,North,Food & Beverages,3171.97,5,521.63,George
+ORD2118,2027-01-23,North,Food & Beverages,2770.55,11,38.46,George
+ORD2119,2027-01-24,South,Electronics,3464.41,18,1037.79,Hannah
+ORD2120,2027-01-25,South,Furniture,762.51,13,1418.79,Ethan
+ORD2121,2027-01-26,East,Electronics,2997.03,11,951.86,Charlie
+ORD2122,2027-01-27,East,Clothing,901.95,14,658.59,Alice
+ORD2123,2027-01-28,East,Electronics,4631.33,18,792.48,Alice
+ORD2124,2027-01-29,South,Clothing,388.25,19,307.45,Bob
+ORD2125,2027-01-30,West,Clothing,2180.36,15,1128.31,Ethan
+ORD2126,2027-01-31,West,Office Supplies,3494.2,9,1122.17,Fiona
+ORD2127,2027-02-01,South,Food & Beverages,2317.21,8,226.82,Charlie
+ORD2128,2027-02-02,South,Clothing,505.87,1,1318.19,Diana
+ORD2129,2027-02-03,South,Office Supplies,2789.23,4,411.09,Bob
+ORD2130,2027-02-04,South,Food & Beverages,3226.08,14,1473.56,Hannah
+ORD2131,2027-02-05,South,Clothing,3533.77,2,580.53,Charlie
+ORD2132,2027-02-06,South,Clothing,1897.64,16,275.05,Ethan
+ORD2133,2027-02-07,East,Electronics,2840.12,3,534.06,Charlie
+ORD2134,2027-02-08,East,Electronics,2280.9,8,665.87,Hannah
+ORD2135,2027-02-09,East,Food & Beverages,3376.68,6,113.27,George
+ORD2136,2027-02-10,East,Clothing,2938.61,16,871.55,Alice
+ORD2137,2027-02-11,South,Furniture,2652.49,16,900.47,George
+ORD2138,2027-02-12,West,Electronics,1285.15,7,1111.01,Alice
+ORD2139,2027-02-13,North,Food & Beverages,59.99,13,53.46,Bob
+ORD2140,2027-02-14,South,Clothing,911.7,13,816.44,Hannah
+ORD2141,2027-02-15,North,Clothing,629.48,5,88.83,Ethan
+ORD2142,2027-02-16,West,Furniture,2272.97,18,1054.7,Ethan
+ORD2143,2027-02-17,East,Food & Beverages,3080.68,15,93.03,Charlie
+ORD2144,2027-02-18,West,Clothing,1104.77,18,1368.47,Bob
+ORD2145,2027-02-19,South,Electronics,4698.33,2,1056.1,Ethan
+ORD2146,2027-02-20,East,Furniture,83.08,10,766.01,Fiona
+ORD2147,2027-02-21,South,Food & Beverages,3872.89,13,667.84,Fiona
+ORD2148,2027-02-22,East,Furniture,3144.76,18,204.7,George
+ORD2149,2027-02-23,North,Electronics,1899.1,15,443.59,Alice
+ORD2150,2027-02-24,North,Food & Beverages,299.92,12,1304.75,Charlie
+ORD2151,2027-02-25,North,Furniture,3156.06,15,1357.63,Diana
+ORD2152,2027-02-26,West,Office Supplies,1958.79,13,11.11,Hannah
+ORD2153,2027-02-27,South,Electronics,4684.52,18,895.26,Alice
+ORD2154,2027-02-28,West,Electronics,2732.85,15,1081.76,Bob
+ORD2155,2027-03-01,North,Electronics,4701.27,11,931.93,Ethan
+ORD2156,2027-03-02,South,Office Supplies,1141.39,19,131.7,Alice
+ORD2157,2027-03-03,North,Office Supplies,3642.34,3,334.41,Diana
+ORD2158,2027-03-04,West,Clothing,3105.38,7,383.01,Diana
+ORD2159,2027-03-05,West,Furniture,3710.07,14,1249.27,Fiona
+ORD2160,2027-03-06,West,Clothing,1112.61,14,700.17,Bob
+ORD2161,2027-03-07,North,Furniture,3341.72,13,735.37,Alice
+ORD2162,2027-03-08,South,Office Supplies,2515.3,12,1402.99,Charlie
+ORD2163,2027-03-09,South,Office Supplies,3726.98,9,959.26,Alice
+ORD2164,2027-03-10,North,Clothing,1668.87,1,1349.01,Fiona
+ORD2165,2027-03-11,South,Food & Beverages,4455.78,19,690.2,George
+ORD2166,2027-03-12,North,Clothing,467.29,11,232.66,Diana
+ORD2167,2027-03-13,South,Furniture,4045.59,19,1395.6,Bob
+ORD2168,2027-03-14,East,Clothing,4313.53,18,693.47,Bob
+ORD2169,2027-03-15,East,Electronics,4095.4,12,280.63,Charlie
+ORD2170,2027-03-16,West,Furniture,2588.0,1,460.57,Bob
+ORD2171,2027-03-17,East,Furniture,2220.01,19,85.7,Fiona
+ORD2172,2027-03-18,East,Food & Beverages,4981.5,17,707.77,Fiona
+ORD2173,2027-03-19,East,Office Supplies,1184.4,5,1281.16,Fiona
+ORD2174,2027-03-20,North,Furniture,2757.04,3,1401.03,Bob
+ORD2175,2027-03-21,East,Office Supplies,3369.84,2,1399.58,Bob
+ORD2176,2027-03-22,East,Clothing,3519.29,3,196.59,Fiona
+ORD2177,2027-03-23,West,Electronics,1059.92,8,579.26,Bob
+ORD2178,2027-03-24,East,Food & Beverages,3287.27,16,52.06,Hannah
+ORD2179,2027-03-25,East,Office Supplies,4100.93,6,1284.2,Bob
+ORD2180,2027-03-26,South,Furniture,297.59,13,544.55,Hannah
+ORD2181,2027-03-27,West,Office Supplies,4562.03,16,950.36,Diana
+ORD2182,2027-03-28,West,Furniture,196.05,16,1075.2,Alice
+ORD2183,2027-03-29,West,Office Supplies,1812.06,3,650.47,Ethan
+ORD2184,2027-03-30,West,Furniture,128.28,13,466.6,Hannah
+ORD2185,2027-03-31,West,Clothing,431.87,14,1443.7,Hannah
+ORD2186,2027-04-01,West,Furniture,4560.28,8,1447.09,Bob
+ORD2187,2027-04-02,North,Furniture,1806.56,12,441.26,Ethan
+ORD2188,2027-04-03,East,Electronics,2152.62,8,724.64,George
+ORD2189,2027-04-04,West,Furniture,1115.95,9,1459.54,Ethan
+ORD2190,2027-04-05,East,Electronics,3005.62,1,17.25,Diana
+ORD2191,2027-04-06,East,Food & Beverages,2994.28,6,624.89,Hannah
+ORD2192,2027-04-07,North,Electronics,1892.39,19,159.68,Bob
+ORD2193,2027-04-08,West,Clothing,1698.52,11,768.65,Fiona
+ORD2194,2027-04-09,South,Electronics,4430.57,11,46.76,Ethan
+ORD2195,2027-04-10,North,Food & Beverages,1947.26,13,616.28,Bob
+ORD2196,2027-04-11,South,Clothing,2492.83,11,338.84,Charlie
+ORD2197,2027-04-12,East,Office Supplies,1452.36,18,804.63,George
+ORD2198,2027-04-13,East,Office Supplies,3944.51,15,1494.03,Fiona
+ORD2199,2027-04-14,North,Electronics,2017.37,1,1202.8,Charlie
+ORD2200,2027-04-15,North,Electronics,2592.37,7,1270.01,Charlie
+ORD2201,2027-04-16,South,Food & Beverages,1304.12,13,956.54,Ethan
+ORD2202,2027-04-17,West,Food & Beverages,4938.91,12,71.92,Charlie
+ORD2203,2027-04-18,South,Furniture,1492.9,18,318.13,Diana
+ORD2204,2027-04-19,North,Food & Beverages,3865.18,19,1388.35,Diana
+ORD2205,2027-04-20,South,Furniture,2166.1,15,555.51,Ethan
+ORD2206,2027-04-21,North,Clothing,1070.78,8,164.42,Bob
+ORD2207,2027-04-22,South,Electronics,4008.61,19,1056.58,Alice
+ORD2208,2027-04-23,North,Clothing,1701.35,10,456.19,Bob
+ORD2209,2027-04-24,North,Food & Beverages,4332.71,7,410.6,Bob
+ORD2210,2027-04-25,North,Clothing,4580.52,18,1496.99,Bob
+ORD2211,2027-04-26,West,Clothing,4306.13,16,1288.63,Bob
+ORD2212,2027-04-27,South,Clothing,223.29,6,617.83,Fiona
+ORD2213,2027-04-28,South,Food & Beverages,3947.5,9,1470.59,Alice
+ORD2214,2027-04-29,South,Clothing,2086.13,13,978.67,Fiona
+ORD2215,2027-04-30,North,Furniture,4374.93,8,1115.61,Charlie
+ORD2216,2027-05-01,South,Food & Beverages,3207.87,16,56.95,George
+ORD2217,2027-05-02,South,Clothing,4176.53,13,191.19,Bob
+ORD2218,2027-05-03,North,Food & Beverages,2522.19,13,953.3,George
+ORD2219,2027-05-04,East,Office Supplies,2698.38,17,1349.55,Diana
+ORD2220,2027-05-05,North,Furniture,764.72,5,939.38,Ethan
+ORD2221,2027-05-06,South,Clothing,3930.74,17,209.7,Ethan
+ORD2222,2027-05-07,North,Office Supplies,2125.98,9,182.48,Fiona
+ORD2223,2027-05-08,East,Office Supplies,2525.4,2,1267.84,Fiona
+ORD2224,2027-05-09,North,Food & Beverages,3936.23,18,217.56,Diana
+ORD2225,2027-05-10,South,Office Supplies,3014.28,9,785.15,Bob
+ORD2226,2027-05-11,East,Furniture,1045.44,6,65.3,George
+ORD2227,2027-05-12,West,Furniture,2971.65,11,130.2,Hannah
+ORD2228,2027-05-13,South,Electronics,2067.78,6,1011.8,George
+ORD2229,2027-05-14,East,Furniture,2374.15,6,1036.88,Alice
+ORD2230,2027-05-15,East,Office Supplies,190.14,13,518.79,Charlie
+ORD2231,2027-05-16,West,Furniture,1089.65,11,331.26,Ethan
+ORD2232,2027-05-17,North,Food & Beverages,1441.14,14,1222.43,Charlie
+ORD2233,2027-05-18,North,Electronics,3579.15,2,333.48,Alice
+ORD2234,2027-05-19,South,Office Supplies,106.89,8,817.62,Fiona
+ORD2235,2027-05-20,West,Electronics,2073.45,3,1452.63,George
+ORD2236,2027-05-21,North,Office Supplies,4623.93,3,230.3,Ethan
+ORD2237,2027-05-22,West,Food & Beverages,603.81,1,1411.91,Charlie
+ORD2238,2027-05-23,North,Electronics,2606.3,19,282.51,Hannah
+ORD2239,2027-05-24,East,Clothing,3943.29,18,855.49,Fiona
+ORD2240,2027-05-25,North,Office Supplies,4715.53,17,571.74,Alice
+ORD2241,2027-05-26,West,Clothing,3746.54,13,1447.74,Hannah
+ORD2242,2027-05-27,East,Electronics,3616.8,3,417.58,Charlie
+ORD2243,2027-05-28,East,Clothing,4141.12,1,605.49,Hannah
+ORD2244,2027-05-29,East,Clothing,2258.7,4,1474.46,George
+ORD2245,2027-05-30,West,Electronics,4038.93,13,809.34,Bob
+ORD2246,2027-05-31,South,Food & Beverages,89.42,17,758.92,Hannah
+ORD2247,2027-06-01,South,Clothing,4626.58,11,394.09,Fiona
+ORD2248,2027-06-02,South,Clothing,2244.37,2,1055.03,Alice
+ORD2249,2027-06-03,West,Food & Beverages,2789.23,16,31.42,Charlie
+ORD2250,2027-06-04,East,Clothing,1311.67,2,83.77,George
+ORD2251,2027-06-05,South,Clothing,3725.53,19,903.04,Bob
+ORD2252,2027-06-06,West,Clothing,429.35,19,519.1,Bob
+ORD2253,2027-06-07,South,Furniture,4369.55,16,1430.44,Alice
+ORD2254,2027-06-08,North,Food & Beverages,4149.18,19,1355.75,Diana
+ORD2255,2027-06-09,South,Clothing,1119.5,9,1073.42,George
+ORD2256,2027-06-10,South,Food & Beverages,4056.16,1,1229.04,George
+ORD2257,2027-06-11,East,Office Supplies,3942.47,10,1004.32,Ethan
+ORD2258,2027-06-12,West,Office Supplies,3179.47,19,197.12,Alice
+ORD2259,2027-06-13,East,Clothing,1898.92,1,1150.66,Bob
+ORD2260,2027-06-14,East,Food & Beverages,1393.92,2,323.19,Bob
+ORD2261,2027-06-15,East,Food & Beverages,1197.33,16,491.93,Hannah
+ORD2262,2027-06-16,East,Food & Beverages,1627.11,12,1230.66,Alice
+ORD2263,2027-06-17,East,Furniture,4522.61,8,809.42,Diana
+ORD2264,2027-06-18,South,Office Supplies,434.32,18,1291.31,Ethan
+ORD2265,2027-06-19,East,Food & Beverages,4152.91,2,327.42,Charlie
+ORD2266,2027-06-20,East,Food & Beverages,1777.01,13,915.59,Alice
+ORD2267,2027-06-21,West,Furniture,2631.92,6,134.85,Ethan
+ORD2268,2027-06-22,North,Furniture,3982.7,6,968.16,George
+ORD2269,2027-06-23,South,Food & Beverages,4427.66,9,1146.18,Ethan
+ORD2270,2027-06-24,South,Electronics,1756.67,16,881.55,Hannah
+ORD2271,2027-06-25,South,Food & Beverages,2336.13,11,406.68,Fiona
+ORD2272,2027-06-26,East,Food & Beverages,2101.85,7,56.7,Bob
+ORD2273,2027-06-27,East,Furniture,115.59,10,187.98,Hannah
+ORD2274,2027-06-28,East,Furniture,1514.92,10,937.23,Charlie
+ORD2275,2027-06-29,West,Food & Beverages,2322.99,18,1402.29,Alice
+ORD2276,2027-06-30,North,Food & Beverages,2084.91,9,317.74,Hannah
+ORD2277,2027-07-01,East,Food & Beverages,3623.55,15,1105.19,Bob
+ORD2278,2027-07-02,North,Furniture,1954.78,4,1301.01,Fiona
+ORD2279,2027-07-03,West,Food & Beverages,2472.41,8,786.11,Hannah
+ORD2280,2027-07-04,South,Food & Beverages,2176.56,9,1007.21,Fiona
+ORD2281,2027-07-05,East,Clothing,3716.1,13,1224.37,Hannah
+ORD2282,2027-07-06,North,Electronics,4321.71,9,398.41,Bob
+ORD2283,2027-07-07,North,Office Supplies,2682.85,4,452.37,Diana
+ORD2284,2027-07-08,East,Electronics,3957.69,17,10.93,Ethan
+ORD2285,2027-07-09,South,Clothing,1519.09,16,1445.01,Alice
+ORD2286,2027-07-10,South,Office Supplies,2729.78,15,1377.14,Alice
+ORD2287,2027-07-11,South,Food & Beverages,1758.89,3,1149.21,Alice
+ORD2288,2027-07-12,West,Clothing,2100.29,5,127.82,Bob
+ORD2289,2027-07-13,North,Food & Beverages,3675.45,5,676.78,George
+ORD2290,2027-07-14,North,Furniture,4414.23,15,161.82,Diana
+ORD2291,2027-07-15,North,Clothing,651.4,18,33.72,Charlie
+ORD2292,2027-07-16,West,Furniture,3191.46,15,928.11,Fiona
+ORD2293,2027-07-17,North,Clothing,2931.61,2,1441.64,Bob
+ORD2294,2027-07-18,West,Clothing,636.15,13,1355.27,George
+ORD2295,2027-07-19,South,Furniture,1098.88,4,1048.16,Charlie
+ORD2296,2027-07-20,East,Office Supplies,1589.46,10,153.99,Fiona
+ORD2297,2027-07-21,North,Electronics,876.31,13,418.5,Fiona
+ORD2298,2027-07-22,North,Food & Beverages,1256.46,10,486.88,Diana
+ORD2299,2027-07-23,South,Clothing,1374.62,9,1147.09,Ethan
+ORD2300,2027-07-24,East,Food & Beverages,1711.59,8,1205.35,Alice
+ORD2301,2027-07-25,West,Furniture,3759.48,3,583.81,Hannah
+ORD2302,2027-07-26,East,Food & Beverages,2880.97,16,632.65,Charlie
+ORD2303,2027-07-27,South,Furniture,4931.92,14,76.32,Bob
+ORD2304,2027-07-28,South,Food & Beverages,2102.94,9,440.81,Charlie
+ORD2305,2027-07-29,East,Electronics,3781.63,11,682.41,Ethan
+ORD2306,2027-07-30,West,Electronics,4363.77,3,184.3,Alice
+ORD2307,2027-07-31,West,Electronics,3410.94,5,685.37,Charlie
+ORD2308,2027-08-01,North,Electronics,2088.73,10,1281.23,Ethan
+ORD2309,2027-08-02,West,Electronics,3780.29,13,876.17,Bob
+ORD2310,2027-08-03,East,Electronics,1058.15,4,127.61,Diana
+ORD2311,2027-08-04,South,Furniture,1671.38,13,295.59,George
+ORD2312,2027-08-05,North,Clothing,2756.09,12,717.07,Fiona
+ORD2313,2027-08-06,North,Food & Beverages,2898.28,5,548.62,Bob
+ORD2314,2027-08-07,South,Electronics,159.6,10,544.5,Alice
+ORD2315,2027-08-08,West,Furniture,4728.32,9,798.61,Fiona
+ORD2316,2027-08-09,South,Furniture,3498.3,7,880.75,George
+ORD2317,2027-08-10,West,Furniture,2503.73,2,1197.32,Bob
+ORD2318,2027-08-11,South,Clothing,4668.98,7,518.04,Hannah
+ORD2319,2027-08-12,East,Food & Beverages,2223.52,8,1210.14,Bob
+ORD2320,2027-08-13,West,Clothing,4903.16,7,514.53,Bob
+ORD2321,2027-08-14,East,Office Supplies,2585.81,14,92.6,Hannah
+ORD2322,2027-08-15,North,Furniture,615.71,19,835.74,Bob
+ORD2323,2027-08-16,South,Office Supplies,3835.76,5,885.97,Fiona
+ORD2324,2027-08-17,North,Electronics,3410.54,18,1402.46,Alice
+ORD2325,2027-08-18,North,Electronics,3876.28,12,1091.83,George
+ORD2326,2027-08-19,North,Clothing,4759.64,17,1377.48,Ethan
+ORD2327,2027-08-20,North,Food & Beverages,3893.62,13,1363.44,Charlie
+ORD2328,2027-08-21,South,Office Supplies,3076.12,2,910.82,Hannah
+ORD2329,2027-08-22,North,Food & Beverages,4293.68,13,796.37,Diana
+ORD2330,2027-08-23,South,Clothing,3382.57,7,840.59,Hannah
+ORD2331,2027-08-24,South,Electronics,2070.19,10,1467.71,George
+ORD2332,2027-08-25,East,Food & Beverages,4433.82,6,1162.02,Charlie
+ORD2333,2027-08-26,West,Food & Beverages,1148.41,3,168.34,Charlie
+ORD2334,2027-08-27,West,Electronics,3587.47,3,1169.86,Diana
+ORD2335,2027-08-28,South,Office Supplies,4413.74,18,264.1,George
+ORD2336,2027-08-29,East,Electronics,3670.02,11,676.55,Fiona
+ORD2337,2027-08-30,South,Food & Beverages,3501.51,5,323.58,Alice
+ORD2338,2027-08-31,South,Office Supplies,3775.56,19,1037.48,Diana
+ORD2339,2027-09-01,South,Office Supplies,2352.02,19,1317.19,Alice
+ORD2340,2027-09-02,East,Electronics,4377.14,15,442.64,Fiona
+ORD2341,2027-09-03,West,Food & Beverages,1057.01,16,132.2,Charlie
+ORD2342,2027-09-04,East,Clothing,680.56,9,454.75,Alice
+ORD2343,2027-09-05,North,Food & Beverages,1463.27,4,1011.82,Fiona
+ORD2344,2027-09-06,East,Furniture,2681.31,15,499.85,Fiona
+ORD2345,2027-09-07,East,Clothing,2577.28,12,424.39,Ethan
+ORD2346,2027-09-08,East,Office Supplies,4111.96,3,284.81,Diana
+ORD2347,2027-09-09,East,Clothing,2052.61,14,751.3,Ethan
+ORD2348,2027-09-10,West,Office Supplies,2447.5,17,421.16,Hannah
+ORD2349,2027-09-11,North,Office Supplies,116.17,19,1099.21,Charlie
+ORD2350,2027-09-12,West,Clothing,2078.21,6,124.17,Diana
+ORD2351,2027-09-13,West,Office Supplies,3256.48,4,999.41,Charlie
+ORD2352,2027-09-14,East,Office Supplies,126.77,7,363.96,Ethan
+ORD2353,2027-09-15,South,Furniture,1440.37,19,739.03,George
+ORD2354,2027-09-16,South,Food & Beverages,1079.38,17,436.27,Fiona
+ORD2355,2027-09-17,West,Food & Beverages,257.83,16,1086.93,Charlie
+ORD2356,2027-09-18,West,Furniture,2422.34,15,1418.51,Diana
+ORD2357,2027-09-19,East,Clothing,949.53,8,1376.44,Hannah
+ORD2358,2027-09-20,West,Electronics,3728.25,19,879.31,Diana
+ORD2359,2027-09-21,East,Electronics,4247.24,8,699.29,Charlie
+ORD2360,2027-09-22,South,Electronics,2750.65,18,1229.27,Diana
+ORD2361,2027-09-23,South,Furniture,4909.45,16,1028.16,Hannah
+ORD2362,2027-09-24,North,Furniture,2279.87,19,283.51,Fiona
+ORD2363,2027-09-25,South,Office Supplies,2591.17,10,1233.17,George
+ORD2364,2027-09-26,West,Electronics,4946.63,17,649.04,Fiona
+ORD2365,2027-09-27,South,Clothing,1196.16,13,291.59,Diana
+ORD2366,2027-09-28,East,Clothing,4715.6,13,429.88,Hannah
+ORD2367,2027-09-29,South,Electronics,262.05,7,408.62,Hannah
+ORD2368,2027-09-30,North,Electronics,2259.62,10,783.62,Charlie
+ORD2369,2027-10-01,South,Electronics,396.52,2,359.21,Ethan
+ORD2370,2027-10-02,East,Furniture,3659.71,4,194.11,Diana
+ORD2371,2027-10-03,East,Furniture,3061.62,6,194.3,Diana
+ORD2372,2027-10-04,West,Furniture,3547.84,18,879.08,Diana
+ORD2373,2027-10-05,South,Food & Beverages,1903.68,6,1104.79,Diana
+ORD2374,2027-10-06,East,Clothing,1878.94,17,489.08,Charlie
+ORD2375,2027-10-07,North,Clothing,274.33,14,61.63,Ethan
+ORD2376,2027-10-08,West,Office Supplies,1782.23,11,199.57,Ethan
+ORD2377,2027-10-09,North,Furniture,4649.98,19,1372.89,Alice
+ORD2378,2027-10-10,South,Food & Beverages,1927.17,2,745.38,Diana
+ORD2379,2027-10-11,South,Food & Beverages,4165.27,3,685.82,Diana
+ORD2380,2027-10-12,South,Clothing,4219.51,11,66.69,Alice
+ORD2381,2027-10-13,West,Furniture,1897.54,6,1095.67,Ethan
+ORD2382,2027-10-14,East,Office Supplies,3178.34,14,796.82,Hannah
+ORD2383,2027-10-15,West,Furniture,522.09,19,311.1,Hannah
+ORD2384,2027-10-16,North,Electronics,563.21,16,174.01,Bob
+ORD2385,2027-10-17,West,Furniture,290.86,7,581.25,Fiona
+ORD2386,2027-10-18,North,Electronics,2926.02,8,1257.37,Bob
+ORD2387,2027-10-19,West,Electronics,2159.05,19,1299.29,Ethan
+ORD2388,2027-10-20,East,Office Supplies,2762.76,16,908.24,George
+ORD2389,2027-10-21,North,Clothing,2629.31,7,1094.03,Diana
+ORD2390,2027-10-22,South,Furniture,1783.5,9,181.58,Bob
+ORD2391,2027-10-23,South,Electronics,3403.49,13,886.31,Charlie
+ORD2392,2027-10-24,West,Furniture,3804.58,1,1003.78,Hannah
+ORD2393,2027-10-25,South,Clothing,122.41,8,309.06,Charlie
+ORD2394,2027-10-26,North,Clothing,1075.85,4,1321.43,Alice
+ORD2395,2027-10-27,South,Food & Beverages,3580.52,3,300.55,Ethan
+ORD2396,2027-10-28,East,Clothing,1963.77,3,477.08,Ethan
+ORD2397,2027-10-29,East,Office Supplies,3329.3,13,934.63,Bob
+ORD2398,2027-10-30,West,Electronics,1767.47,8,961.14,Diana
+ORD2399,2027-10-31,North,Food & Beverages,1984.24,7,1052.08,Ethan
+ORD2400,2027-11-01,East,Office Supplies,835.46,1,176.9,Bob
+ORD2401,2027-11-02,East,Furniture,1328.24,16,1275.7,Bob
+ORD2402,2027-11-03,North,Electronics,3046.79,6,803.94,Fiona
+ORD2403,2027-11-04,South,Clothing,2194.16,7,712.27,Fiona
+ORD2404,2027-11-05,South,Electronics,3882.8,12,1471.84,Ethan
+ORD2405,2027-11-06,West,Furniture,4270.3,9,1113.16,Bob
+ORD2406,2027-11-07,South,Food & Beverages,2731.15,11,185.83,Alice
+ORD2407,2027-11-08,North,Food & Beverages,3803.42,10,1137.24,Alice
+ORD2408,2027-11-09,East,Food & Beverages,1569.18,1,151.92,Fiona
+ORD2409,2027-11-10,South,Clothing,2104.11,18,50.93,Ethan
+ORD2410,2027-11-11,West,Office Supplies,3578.25,4,611.4,Hannah
+ORD2411,2027-11-12,South,Office Supplies,1961.75,5,1490.43,Diana
+ORD2412,2027-11-13,North,Electronics,2963.1,9,270.58,George
+ORD2413,2027-11-14,West,Clothing,967.6,17,1012.24,Hannah
+ORD2414,2027-11-15,South,Food & Beverages,3018.87,3,268.36,Alice
+ORD2415,2027-11-16,West,Food & Beverages,4314.49,16,1089.93,Alice
+ORD2416,2027-11-17,North,Furniture,4349.77,5,762.98,Hannah
+ORD2417,2027-11-18,East,Furniture,3635.5,16,1023.16,Fiona
+ORD2418,2027-11-19,North,Food & Beverages,3741.48,3,312.28,Fiona
+ORD2419,2027-11-20,North,Food & Beverages,2811.74,15,1120.99,Ethan
+ORD2420,2027-11-21,North,Clothing,2944.11,3,1493.47,Fiona
+ORD2421,2027-11-22,North,Office Supplies,711.57,14,1001.82,Charlie
+ORD2422,2027-11-23,East,Furniture,2247.1,16,745.29,George
+ORD2423,2027-11-24,East,Office Supplies,2281.34,17,1385.53,Hannah
+ORD2424,2027-11-25,West,Clothing,4794.56,18,33.62,Hannah
+ORD2425,2027-11-26,South,Food & Beverages,2183.88,18,1097.59,Bob
+ORD2426,2027-11-27,East,Office Supplies,2769.25,14,1334.23,Alice
+ORD2427,2027-11-28,East,Food & Beverages,2689.59,18,101.9,Hannah
+ORD2428,2027-11-29,South,Food & Beverages,3201.97,15,680.6,Charlie
+ORD2429,2027-11-30,East,Electronics,3753.75,15,315.03,Hannah
+ORD2430,2027-12-01,North,Office Supplies,1163.96,6,854.11,Diana
+ORD2431,2027-12-02,North,Office Supplies,2667.19,15,977.82,Charlie
+ORD2432,2027-12-03,South,Food & Beverages,4138.29,18,460.91,Ethan
+ORD2433,2027-12-04,West,Clothing,2342.42,4,695.37,Diana
+ORD2434,2027-12-05,West,Electronics,1428.36,8,426.22,Diana
+ORD2435,2027-12-06,South,Food & Beverages,3290.81,15,560.39,Hannah
+ORD2436,2027-12-07,South,Furniture,4127.65,3,247.71,Fiona
+ORD2437,2027-12-08,North,Furniture,362.54,15,1329.48,Hannah
+ORD2438,2027-12-09,West,Electronics,3895.11,13,24.92,Charlie
+ORD2439,2027-12-10,East,Clothing,4117.16,9,1324.79,Ethan
+ORD2440,2027-12-11,North,Food & Beverages,2334.54,2,861.8,Alice
+ORD2441,2027-12-12,South,Office Supplies,4917.36,8,504.17,George
+ORD2442,2027-12-13,West,Electronics,3944.21,17,1087.36,Fiona
+ORD2443,2027-12-14,East,Clothing,3879.63,13,766.55,Charlie
+ORD2444,2027-12-15,East,Office Supplies,3751.8,1,753.67,Alice
+ORD2445,2027-12-16,North,Furniture,795.51,2,174.11,Charlie
+ORD2446,2027-12-17,West,Furniture,1125.29,15,590.38,Fiona
+ORD2447,2027-12-18,West,Office Supplies,2346.75,12,369.19,Alice
+ORD2448,2027-12-19,South,Electronics,1356.82,14,33.39,Fiona
+ORD2449,2027-12-20,West,Furniture,2105.44,2,546.55,Charlie
+ORD2450,2027-12-21,West,Food & Beverages,4447.9,18,143.83,Diana
+ORD2451,2027-12-22,North,Office Supplies,4130.42,7,392.68,George
+ORD2452,2027-12-23,West,Office Supplies,3168.7,6,147.85,Bob
+ORD2453,2027-12-24,East,Furniture,4297.7,14,160.4,George
+ORD2454,2027-12-25,North,Electronics,3929.67,8,306.53,Diana
+ORD2455,2027-12-26,North,Food & Beverages,2173.48,2,1499.78,Fiona
+ORD2456,2027-12-27,South,Electronics,1045.27,17,13.25,George
+ORD2457,2027-12-28,West,Clothing,2595.3,5,961.62,Fiona
+ORD2458,2027-12-29,South,Clothing,3694.33,14,220.45,Fiona
+ORD2459,2027-12-30,East,Furniture,2210.28,3,1381.74,Alice
+ORD2460,2027-12-31,North,Furniture,3350.52,5,149.51,Ethan
+ORD2461,2028-01-01,North,Furniture,516.92,16,1433.04,Fiona
+ORD2462,2028-01-02,North,Clothing,3752.62,18,920.28,George
+ORD2463,2028-01-03,East,Electronics,4072.93,17,11.89,George
+ORD2464,2028-01-04,East,Electronics,3548.85,11,1342.07,George
+ORD2465,2028-01-05,South,Furniture,4837.95,17,787.35,Diana
+ORD2466,2028-01-06,South,Food & Beverages,4141.93,16,401.38,Bob
+ORD2467,2028-01-07,South,Electronics,4520.31,2,1153.25,Fiona
+ORD2468,2028-01-08,West,Clothing,4671.18,4,1390.73,Hannah
+ORD2469,2028-01-09,North,Office Supplies,4016.67,7,730.7,Fiona
+ORD2470,2028-01-10,North,Office Supplies,3387.58,2,480.17,Fiona
+ORD2471,2028-01-11,South,Office Supplies,78.31,6,1185.53,Hannah
+ORD2472,2028-01-12,North,Food & Beverages,2355.84,17,1025.86,Alice
+ORD2473,2028-01-13,South,Furniture,2877.25,7,1334.24,Fiona
+ORD2474,2028-01-14,West,Clothing,1554.95,5,1041.85,Diana
+ORD2475,2028-01-15,West,Food & Beverages,1624.62,5,372.86,Charlie
+ORD2476,2028-01-16,East,Clothing,4807.74,16,1398.17,Ethan
+ORD2477,2028-01-17,West,Clothing,4463.97,19,166.21,George
+ORD2478,2028-01-18,South,Furniture,4253.44,9,409.23,Fiona
+ORD2479,2028-01-19,West,Office Supplies,2059.76,5,785.09,Alice
+ORD2480,2028-01-20,East,Furniture,117.81,8,852.96,Diana
+ORD2481,2028-01-21,North,Food & Beverages,447.1,9,32.81,Fiona
+ORD2482,2028-01-22,South,Food & Beverages,1595.37,5,1173.05,Hannah
+ORD2483,2028-01-23,North,Food & Beverages,127.93,10,548.79,Alice
+ORD2484,2028-01-24,East,Furniture,134.89,2,615.56,Charlie
+ORD2485,2028-01-25,East,Clothing,4587.19,9,1215.96,Bob
+ORD2486,2028-01-26,East,Clothing,3545.48,11,575.13,Fiona
+ORD2487,2028-01-27,North,Electronics,1579.33,4,80.37,Diana
+ORD2488,2028-01-28,North,Food & Beverages,706.59,2,272.9,Alice
+ORD2489,2028-01-29,North,Clothing,2582.6,6,1434.3,Hannah
+ORD2490,2028-01-30,North,Electronics,76.46,14,114.9,Alice
+ORD2491,2028-01-31,East,Clothing,4695.15,1,538.85,Fiona
+ORD2492,2028-02-01,East,Food & Beverages,2103.33,18,759.74,Alice
+ORD2493,2028-02-02,South,Office Supplies,2041.56,7,744.99,Bob
+ORD2494,2028-02-03,South,Food & Beverages,1983.44,1,15.9,Alice
+ORD2495,2028-02-04,North,Furniture,393.18,1,756.73,George
+ORD2496,2028-02-05,West,Clothing,3209.7,1,581.82,Ethan
+ORD2497,2028-02-06,West,Clothing,3678.37,4,1458.4,George
+ORD2498,2028-02-07,East,Furniture,3396.82,4,247.15,Ethan
+ORD2499,2028-02-08,East,Furniture,735.26,18,537.69,Alice
