@@ -1,0 +1,1001 @@
+transaction_id,customer_id,date,category,amount,merchant,city,payment_method
+1,1081,2024-05-20,Dining,504.89,KFC,San Fernando,Credit Card
+2,1086,2024-01-17,Dining,79.0,Mario's,San Fernando,Debit Card
+3,1064,2024-04-11,Groceries,1437.72,Xtra Foods,Tobago,Mobile Payment
+4,1028,2024-05-22,Fuel,1622.67,Sol Gas,Port of Spain,Debit Card
+5,1089,2024-05-22,Health,327.85,HealthNet,Chaguanas,Credit Card
+6,1011,2024-07-02,Health,1698.04,St. Clair Medical,Point Fortin,Bank Transfer
+7,1005,2024-03-04,Fuel,1946.77,Sol Gas,Arima,Credit Card
+8,1070,2024-11-12,Travel,1773.19,Hyatt,Chaguanas,Debit Card
+9,1090,2024-12-04,Dining,471.24,KFC,Chaguanas,Credit Card
+10,1029,2024-05-22,Dining,917.75,Mario's,Chaguanas,Debit Card
+11,1047,2024-12-09,Shopping,548.62,Excellent Stores,Tobago,Credit Card
+12,1077,2024-05-05,Entertainment,343.54,TriniCinema,Arima,Bank Transfer
+13,1081,2024-06-15,Utilities,1688.85,Flow,Port of Spain,Debit Card
+14,1004,2024-05-17,Shopping,151.05,Courts,Point Fortin,Bank Transfer
+15,1027,2024-11-25,Fuel,928.53,Unipet,Chaguanas,Debit Card
+16,1031,2024-10-26,Travel,868.3,Hyatt,Point Fortin,Mobile Payment
+17,1046,2024-09-17,Utilities,997.16,T&TEC,Port of Spain,Credit Card
+18,1019,2024-08-04,Entertainment,1200.89,TriniCinema,Arima,Mobile Payment
+19,1076,2024-05-08,Fuel,1942.74,Sol Gas,Port of Spain,Credit Card
+20,1087,2024-06-23,Travel,240.87,Hyatt,Arima,Debit Card
+21,1058,2024-05-14,Groceries,1944.34,Xtra Foods,San Fernando,Credit Card
+22,1080,2024-09-16,Travel,1225.76,Hyatt,San Fernando,Bank Transfer
+23,1097,2024-09-28,Entertainment,1838.62,TriniCinema,Point Fortin,Bank Transfer
+24,1062,2024-07-04,Groceries,1759.87,Massy Stores,Chaguanas,Debit Card
+25,1007,2024-02-10,Utilities,189.59,Flow,Arima,Credit Card
+26,1097,2024-12-03,Entertainment,961.06,MovieTowne,Point Fortin,Debit Card
+27,1033,2024-10-03,Health,1515.43,St. Clair Medical,Tobago,Debit Card
+28,1091,2024-12-09,Travel,1306.76,Uber,Arima,Mobile Payment
+29,1015,2024-02-02,Utilities,689.41,T&TEC,Point Fortin,Debit Card
+30,1075,2024-02-06,Utilities,1421.53,T&TEC,Port of Spain,Debit Card
+31,1008,2024-02-06,Groceries,1038.03,Tru Valu,Chaguanas,Mobile Payment
+32,1027,2024-10-19,Entertainment,1160.9,TriniCinema,San Fernando,Mobile Payment
+33,1052,2024-02-19,Utilities,1324.79,T&TEC,Chaguanas,Mobile Payment
+34,1052,2024-01-28,Fuel,1353.26,Sol Gas,Tobago,Credit Card
+35,1007,2024-06-22,Health,1605.17,Trincity Medical,Port of Spain,Debit Card
+36,1024,2024-08-17,Utilities,297.56,Flow,San Fernando,Bank Transfer
+37,1059,2024-08-14,Utilities,1619.88,T&TEC,Point Fortin,Credit Card
+38,1006,2024-05-01,Groceries,349.3,Massy Stores,Arima,Mobile Payment
+39,1027,2024-03-25,Health,770.37,St. Clair Medical,Arima,Bank Transfer
+40,1100,2024-08-04,Fuel,1399.25,Unipet,Tobago,Mobile Payment
+41,1019,2024-04-21,Utilities,1938.04,WASA,Point Fortin,Credit Card
+42,1095,2024-01-26,Shopping,1176.67,Excellent Stores,Point Fortin,Debit Card
+43,1007,2024-02-05,Dining,1198.17,Royal Castle,Tobago,Debit Card
+44,1051,2024-10-23,Dining,1197.15,Royal Castle,Point Fortin,Credit Card
+45,1053,2024-04-14,Shopping,1346.06,Courts,Chaguanas,Debit Card
+46,1033,2024-12-09,Health,1298.09,St. Clair Medical,Arima,Bank Transfer
+47,1096,2024-08-22,Dining,1249.9,KFC,Point Fortin,Credit Card
+48,1009,2024-05-15,Utilities,282.26,Flow,Chaguanas,Credit Card
+49,1031,2024-03-21,Shopping,887.61,Courts,Point Fortin,Bank Transfer
+50,1078,2024-10-10,Groceries,612.77,Xtra Foods,Tobago,Credit Card
+51,1017,2024-02-24,Travel,1489.99,Caribbean Airlines,San Fernando,Bank Transfer
+52,1036,2024-06-24,Utilities,423.12,Flow,Tobago,Bank Transfer
+53,1064,2024-01-27,Fuel,202.75,Unipet,Arima,Bank Transfer
+54,1005,2024-03-07,Groceries,1281.48,Tru Valu,Chaguanas,Debit Card
+55,1094,2024-12-27,Fuel,866.82,Sol Gas,Port of Spain,Credit Card
+56,1009,2024-01-19,Entertainment,1672.5,TriniCinema,Point Fortin,Debit Card
+57,1055,2024-06-06,Entertainment,742.01,MovieTowne,Port of Spain,Bank Transfer
+58,1026,2024-02-22,Utilities,720.28,Flow,Point Fortin,Mobile Payment
+59,1079,2024-03-24,Entertainment,1952.89,MovieTowne,San Fernando,Mobile Payment
+60,1003,2024-06-19,Entertainment,1569.13,TriniCinema,Arima,Debit Card
+61,1034,2024-02-25,Entertainment,777.43,TriniCinema,Port of Spain,Mobile Payment
+62,1028,2024-06-28,Utilities,624.28,WASA,San Fernando,Debit Card
+63,1003,2024-06-17,Utilities,571.63,WASA,Port of Spain,Bank Transfer
+64,1044,2024-10-01,Health,675.68,Trincity Medical,Port of Spain,Credit Card
+65,1033,2024-05-15,Entertainment,95.75,TriniCinema,Point Fortin,Mobile Payment
+66,1044,2024-11-06,Shopping,1968.79,Courts,Port of Spain,Mobile Payment
+67,1073,2024-01-23,Utilities,1423.39,WASA,Port of Spain,Debit Card
+68,1046,2024-12-06,Health,1843.13,St. Clair Medical,Point Fortin,Bank Transfer
+69,1084,2024-09-16,Dining,632.38,Starbucks,Arima,Bank Transfer
+70,1051,2024-03-06,Travel,399.84,Hyatt,Tobago,Mobile Payment
+71,1086,2024-10-18,Entertainment,615.88,TriniCinema,Point Fortin,Credit Card
+72,1038,2024-08-08,Travel,1575.8,Caribbean Airlines,Point Fortin,Bank Transfer
+73,1059,2024-12-11,Fuel,443.13,Unipet,Arima,Debit Card
+74,1084,2024-09-20,Dining,1334.43,Starbucks,Point Fortin,Bank Transfer
+75,1011,2024-06-07,Utilities,464.79,Flow,San Fernando,Debit Card
+76,1003,2024-08-31,Groceries,1230.32,Massy Stores,Port of Spain,Mobile Payment
+77,1053,2024-12-22,Utilities,780.28,Flow,Arima,Debit Card
+78,1018,2024-08-05,Groceries,453.31,Massy Stores,Tobago,Mobile Payment
+79,1006,2024-08-21,Utilities,284.01,T&TEC,Arima,Bank Transfer
+80,1096,2024-09-15,Fuel,864.95,Sol Gas,Point Fortin,Mobile Payment
+81,1020,2024-05-12,Fuel,1508.52,Unipet,Tobago,Bank Transfer
+82,1098,2024-05-02,Fuel,563.7,Sol Gas,Port of Spain,Bank Transfer
+83,1030,2024-06-12,Travel,1788.19,Uber,Port of Spain,Debit Card
+84,1019,2024-12-21,Utilities,322.55,WASA,San Fernando,Credit Card
+85,1053,2024-10-04,Health,942.53,HealthNet,Port of Spain,Debit Card
+86,1053,2024-12-22,Health,58.67,Trincity Medical,Point Fortin,Mobile Payment
+87,1061,2024-06-01,Groceries,1511.88,Tru Valu,Arima,Debit Card
+88,1062,2024-08-11,Utilities,981.57,WASA,Arima,Bank Transfer
+89,1085,2024-03-25,Health,1684.2,Trincity Medical,San Fernando,Credit Card
+90,1050,2024-11-25,Groceries,868.65,Massy Stores,Arima,Debit Card
+91,1006,2024-06-16,Travel,439.09,Uber,Chaguanas,Bank Transfer
+92,1097,2024-08-03,Health,519.5,HealthNet,Port of Spain,Mobile Payment
+93,1002,2024-04-24,Groceries,1307.29,Tru Valu,Tobago,Credit Card
+94,1096,2024-04-12,Groceries,1681.67,Massy Stores,Point Fortin,Debit Card
+95,1030,2024-12-08,Entertainment,246.49,Cinemax,San Fernando,Mobile Payment
+96,1089,2024-03-26,Travel,1219.67,Uber,Tobago,Credit Card
+97,1099,2024-02-25,Entertainment,1165.8,Cinemax,Chaguanas,Mobile Payment
+98,1050,2024-10-30,Utilities,1387.42,T&TEC,Tobago,Debit Card
+99,1013,2024-11-03,Travel,1614.95,Hyatt,Point Fortin,Credit Card
+100,1044,2024-07-08,Health,156.53,Trincity Medical,Tobago,Bank Transfer
+101,1001,2024-02-24,Health,878.38,HealthNet,Chaguanas,Mobile Payment
+102,1090,2024-03-31,Entertainment,1472.91,Cinemax,Tobago,Bank Transfer
+103,1078,2024-08-11,Fuel,1654.95,Unipet,Point Fortin,Bank Transfer
+104,1041,2024-05-22,Utilities,1765.63,T&TEC,San Fernando,Mobile Payment
+105,1072,2024-01-15,Health,998.73,HealthNet,Chaguanas,Debit Card
+106,1062,2024-05-12,Utilities,693.87,WASA,Point Fortin,Bank Transfer
+107,1071,2024-04-07,Groceries,189.51,Xtra Foods,Tobago,Mobile Payment
+108,1062,2024-08-31,Utilities,1298.89,Flow,Arima,Mobile Payment
+109,1002,2024-04-23,Dining,820.71,Starbucks,San Fernando,Bank Transfer
+110,1084,2024-10-10,Shopping,1071.23,Courts,Arima,Bank Transfer
+111,1045,2024-06-05,Fuel,517.78,Unipet,Port of Spain,Debit Card
+112,1040,2024-04-08,Dining,448.44,Royal Castle,Arima,Bank Transfer
+113,1092,2024-04-09,Travel,606.57,Caribbean Airlines,Chaguanas,Debit Card
+114,1038,2024-09-30,Groceries,270.63,Xtra Foods,Port of Spain,Credit Card
+115,1070,2024-03-05,Travel,1282.98,Hyatt,Arima,Credit Card
+116,1001,2024-09-02,Travel,892.13,Uber,San Fernando,Credit Card
+117,1032,2024-02-03,Fuel,813.4,NP Gas Station,Port of Spain,Credit Card
+118,1019,2024-06-04,Entertainment,188.66,TriniCinema,San Fernando,Credit Card
+119,1071,2024-11-01,Health,1585.67,Trincity Medical,San Fernando,Mobile Payment
+120,1057,2024-10-28,Fuel,1980.26,Unipet,Chaguanas,Credit Card
+121,1078,2024-11-16,Dining,437.83,Royal Castle,Tobago,Credit Card
+122,1020,2024-10-09,Utilities,168.63,T&TEC,Port of Spain,Mobile Payment
+123,1057,2024-01-17,Fuel,478.32,Unipet,Tobago,Bank Transfer
+124,1089,2024-12-17,Fuel,482.18,NP Gas Station,Chaguanas,Debit Card
+125,1054,2024-11-27,Dining,315.0,Royal Castle,Chaguanas,Debit Card
+126,1009,2024-06-06,Groceries,1198.19,Massy Stores,Point Fortin,Bank Transfer
+127,1056,2024-12-18,Dining,622.1,Mario's,Arima,Bank Transfer
+128,1064,2024-02-11,Fuel,1204.11,Unipet,Arima,Bank Transfer
+129,1077,2024-02-16,Travel,473.27,Caribbean Airlines,Tobago,Credit Card
+130,1097,2024-01-21,Travel,1530.96,Hyatt,San Fernando,Mobile Payment
+131,1066,2024-04-02,Fuel,1993.95,Unipet,Arima,Mobile Payment
+132,1011,2024-07-28,Fuel,679.95,Unipet,Tobago,Credit Card
+133,1020,2024-12-21,Shopping,1001.03,Courts,Tobago,Mobile Payment
+134,1097,2024-02-15,Groceries,642.74,Tru Valu,Chaguanas,Credit Card
+135,1098,2024-01-01,Health,1322.17,Trincity Medical,Point Fortin,Mobile Payment
+136,1052,2024-09-22,Groceries,736.32,Massy Stores,Arima,Mobile Payment
+137,1097,2024-05-16,Groceries,1107.45,Massy Stores,Chaguanas,Mobile Payment
+138,1089,2024-01-15,Fuel,1946.83,NP Gas Station,Point Fortin,Debit Card
+139,1090,2024-10-09,Entertainment,47.08,Cinemax,Arima,Credit Card
+140,1028,2024-03-01,Dining,1302.47,Mario's,San Fernando,Mobile Payment
+141,1091,2024-12-27,Travel,561.38,Hyatt,Arima,Mobile Payment
+142,1031,2024-03-15,Fuel,779.5,Sol Gas,Point Fortin,Debit Card
+143,1008,2024-06-23,Travel,1869.81,Uber,Point Fortin,Bank Transfer
+144,1000,2024-06-01,Travel,1678.2,Hyatt,Point Fortin,Mobile Payment
+145,1019,2024-09-04,Fuel,703.35,Sol Gas,Point Fortin,Mobile Payment
+146,1058,2024-12-23,Shopping,492.83,Excellent Stores,Arima,Debit Card
+147,1099,2024-06-11,Health,1494.52,St. Clair Medical,Tobago,Mobile Payment
+148,1049,2024-01-19,Entertainment,269.97,Cinemax,Point Fortin,Bank Transfer
+149,1012,2024-09-26,Fuel,1822.67,NP Gas Station,Port of Spain,Debit Card
+150,1052,2024-08-28,Entertainment,1567.42,MovieTowne,Chaguanas,Bank Transfer
+151,1079,2024-02-11,Health,1706.5,Trincity Medical,Tobago,Mobile Payment
+152,1040,2024-01-19,Fuel,1242.57,Sol Gas,San Fernando,Bank Transfer
+153,1029,2024-02-20,Dining,1525.53,Mario's,Tobago,Credit Card
+154,1056,2024-06-02,Entertainment,1808.78,TriniCinema,Port of Spain,Bank Transfer
+155,1007,2024-07-10,Travel,872.76,Uber,San Fernando,Mobile Payment
+156,1072,2024-03-30,Entertainment,176.36,MovieTowne,Arima,Debit Card
+157,1063,2024-08-24,Entertainment,1283.05,MovieTowne,Arima,Bank Transfer
+158,1085,2024-05-27,Groceries,1361.67,Tru Valu,San Fernando,Credit Card
+159,1056,2024-06-02,Shopping,1285.1,PriceSmart,Arima,Bank Transfer
+160,1058,2024-07-15,Travel,1709.6,Caribbean Airlines,Port of Spain,Debit Card
+161,1048,2024-05-31,Shopping,1985.53,PriceSmart,Chaguanas,Credit Card
+162,1084,2024-01-05,Health,1140.54,HealthNet,Tobago,Credit Card
+163,1077,2024-04-27,Fuel,1221.99,Unipet,Chaguanas,Debit Card
+164,1081,2024-05-08,Utilities,1361.97,Flow,Tobago,Debit Card
+165,1080,2024-06-07,Dining,1581.45,KFC,Port of Spain,Bank Transfer
+166,1093,2024-05-31,Entertainment,666.9,MovieTowne,Arima,Debit Card
+167,1025,2024-07-06,Entertainment,1071.09,TriniCinema,Chaguanas,Debit Card
+168,1032,2024-06-22,Fuel,1612.38,Unipet,Arima,Credit Card
+169,1018,2024-12-11,Utilities,1960.29,Flow,Point Fortin,Bank Transfer
+170,1011,2024-05-15,Health,1082.41,St. Clair Medical,Arima,Bank Transfer
+171,1086,2024-07-14,Travel,1648.39,Hyatt,Chaguanas,Credit Card
+172,1086,2024-01-13,Utilities,1246.7,WASA,Point Fortin,Bank Transfer
+173,1078,2024-02-02,Utilities,1278.1,Flow,Arima,Bank Transfer
+174,1083,2024-03-12,Health,109.79,St. Clair Medical,Port of Spain,Bank Transfer
+175,1063,2024-04-30,Dining,1776.77,KFC,San Fernando,Mobile Payment
+176,1058,2024-12-22,Shopping,1893.03,PriceSmart,Arima,Debit Card
+177,1053,2024-11-11,Dining,828.07,Mario's,Chaguanas,Credit Card
+178,1088,2024-08-15,Shopping,900.5,Excellent Stores,San Fernando,Bank Transfer
+179,1012,2024-11-26,Shopping,730.17,PriceSmart,Arima,Bank Transfer
+180,1024,2024-02-16,Dining,1332.28,Mario's,Tobago,Credit Card
+181,1006,2024-03-05,Shopping,1578.22,Excellent Stores,San Fernando,Credit Card
+182,1097,2024-04-20,Utilities,1629.84,Flow,San Fernando,Bank Transfer
+183,1099,2024-01-02,Entertainment,569.0,TriniCinema,San Fernando,Debit Card
+184,1069,2024-02-26,Travel,1328.89,Caribbean Airlines,Port of Spain,Debit Card
+185,1001,2024-10-28,Shopping,661.07,Excellent Stores,San Fernando,Bank Transfer
+186,1006,2024-08-03,Entertainment,1061.65,TriniCinema,Tobago,Credit Card
+187,1060,2024-09-19,Fuel,1195.46,Unipet,Arima,Debit Card
+188,1078,2024-12-03,Groceries,1052.47,Xtra Foods,Arima,Credit Card
+189,1007,2024-08-06,Fuel,1378.47,Unipet,Arima,Mobile Payment
+190,1009,2024-11-07,Dining,313.7,Starbucks,San Fernando,Bank Transfer
+191,1079,2024-11-01,Shopping,1070.5,Courts,Arima,Mobile Payment
+192,1012,2024-08-08,Dining,914.08,Royal Castle,San Fernando,Mobile Payment
+193,1043,2024-07-31,Fuel,1464.63,Unipet,Chaguanas,Mobile Payment
+194,1040,2024-03-19,Travel,1379.91,Uber,Arima,Credit Card
+195,1011,2024-08-09,Dining,211.2,KFC,Tobago,Bank Transfer
+196,1016,2024-10-14,Groceries,1132.13,Xtra Foods,Tobago,Credit Card
+197,1052,2024-08-04,Shopping,1738.82,PriceSmart,Tobago,Credit Card
+198,1036,2024-02-23,Travel,1164.28,Uber,San Fernando,Debit Card
+199,1084,2024-02-25,Fuel,713.23,NP Gas Station,Point Fortin,Bank Transfer
+200,1014,2024-04-25,Travel,1618.3,Hyatt,Point Fortin,Credit Card
+201,1077,2024-04-02,Travel,561.08,Caribbean Airlines,Chaguanas,Bank Transfer
+202,1044,2024-03-14,Groceries,1141.32,Massy Stores,Arima,Credit Card
+203,1018,2024-09-28,Groceries,445.96,Massy Stores,Arima,Mobile Payment
+204,1043,2024-06-08,Entertainment,1448.76,Cinemax,Point Fortin,Credit Card
+205,1006,2024-11-12,Entertainment,118.53,MovieTowne,Port of Spain,Bank Transfer
+206,1056,2024-11-06,Health,895.25,HealthNet,Chaguanas,Debit Card
+207,1096,2024-08-08,Dining,239.56,Starbucks,Tobago,Mobile Payment
+208,1067,2024-04-22,Travel,802.62,Caribbean Airlines,Point Fortin,Credit Card
+209,1000,2024-04-18,Utilities,1539.35,WASA,Chaguanas,Bank Transfer
+210,1041,2024-09-11,Dining,1499.09,KFC,San Fernando,Debit Card
+211,1048,2024-10-13,Utilities,1670.04,Flow,Chaguanas,Credit Card
+212,1050,2024-01-10,Groceries,930.31,Tru Valu,Port of Spain,Bank Transfer
+213,1073,2024-07-26,Health,1424.81,Trincity Medical,Arima,Bank Transfer
+214,1014,2024-06-15,Health,360.31,St. Clair Medical,Point Fortin,Mobile Payment
+215,1088,2024-08-11,Shopping,1692.08,Excellent Stores,San Fernando,Mobile Payment
+216,1075,2024-02-10,Health,803.62,Trincity Medical,Chaguanas,Bank Transfer
+217,1028,2024-02-09,Shopping,1030.76,Excellent Stores,Port of Spain,Debit Card
+218,1099,2024-11-26,Shopping,1633.77,Courts,San Fernando,Credit Card
+219,1018,2024-03-29,Travel,1212.75,Caribbean Airlines,Tobago,Credit Card
+220,1022,2024-10-15,Fuel,1524.56,Unipet,Arima,Bank Transfer
+221,1080,2024-08-13,Shopping,155.21,Excellent Stores,Arima,Bank Transfer
+222,1035,2024-09-16,Groceries,166.9,Tru Valu,Arima,Mobile Payment
+223,1004,2024-05-26,Groceries,171.93,Tru Valu,Port of Spain,Mobile Payment
+224,1059,2024-10-19,Groceries,1310.64,Tru Valu,Chaguanas,Mobile Payment
+225,1064,2024-08-18,Entertainment,224.93,MovieTowne,Chaguanas,Credit Card
+226,1064,2024-05-06,Entertainment,1421.09,MovieTowne,Arima,Debit Card
+227,1046,2024-07-17,Shopping,829.36,Courts,Chaguanas,Credit Card
+228,1080,2024-06-17,Shopping,207.12,Excellent Stores,Tobago,Mobile Payment
+229,1036,2024-12-02,Travel,1929.53,Hyatt,Point Fortin,Debit Card
+230,1042,2024-06-28,Dining,634.26,Royal Castle,Tobago,Mobile Payment
+231,1016,2024-10-13,Dining,765.83,Starbucks,Chaguanas,Debit Card
+232,1085,2024-09-17,Dining,736.42,Mario's,Chaguanas,Bank Transfer
+233,1023,2024-09-05,Utilities,400.17,WASA,San Fernando,Debit Card
+234,1009,2024-09-16,Travel,1546.33,Caribbean Airlines,Tobago,Credit Card
+235,1084,2024-03-08,Shopping,1202.55,PriceSmart,San Fernando,Debit Card
+236,1023,2024-08-12,Entertainment,106.51,TriniCinema,Chaguanas,Debit Card
+237,1056,2024-08-17,Travel,483.33,Hyatt,San Fernando,Bank Transfer
+238,1100,2024-07-07,Fuel,1363.05,NP Gas Station,Point Fortin,Mobile Payment
+239,1059,2024-09-14,Travel,1064.37,Uber,San Fernando,Debit Card
+240,1077,2024-01-27,Entertainment,1289.53,Cinemax,Chaguanas,Credit Card
+241,1091,2024-02-12,Dining,1530.97,Starbucks,Chaguanas,Mobile Payment
+242,1065,2024-02-16,Entertainment,1893.9,Cinemax,San Fernando,Mobile Payment
+243,1044,2024-01-28,Groceries,804.98,Tru Valu,Chaguanas,Debit Card
+244,1049,2024-04-24,Dining,75.81,Starbucks,Port of Spain,Bank Transfer
+245,1018,2024-05-26,Entertainment,1836.44,MovieTowne,Arima,Debit Card
+246,1097,2024-11-11,Fuel,30.4,Unipet,Port of Spain,Credit Card
+247,1032,2024-10-07,Utilities,1881.65,T&TEC,Point Fortin,Mobile Payment
+248,1014,2024-06-03,Travel,261.26,Caribbean Airlines,San Fernando,Mobile Payment
+249,1081,2024-02-26,Fuel,1676.64,NP Gas Station,Arima,Credit Card
+250,1080,2024-03-14,Utilities,596.72,Flow,Port of Spain,Bank Transfer
+251,1030,2024-12-06,Health,1343.07,St. Clair Medical,Point Fortin,Bank Transfer
+252,1008,2024-08-28,Groceries,106.2,Tru Valu,Arima,Bank Transfer
+253,1032,2024-02-04,Groceries,702.71,Tru Valu,Tobago,Credit Card
+254,1098,2024-01-23,Shopping,717.55,Excellent Stores,Chaguanas,Debit Card
+255,1099,2024-09-02,Fuel,1270.84,Sol Gas,San Fernando,Credit Card
+256,1091,2024-05-30,Fuel,419.15,NP Gas Station,San Fernando,Credit Card
+257,1040,2024-07-22,Travel,1978.46,Hyatt,Point Fortin,Mobile Payment
+258,1032,2024-04-07,Groceries,586.5,Xtra Foods,Port of Spain,Bank Transfer
+259,1034,2024-08-11,Dining,1781.18,Starbucks,Tobago,Mobile Payment
+260,1049,2024-09-11,Shopping,1390.3,Excellent Stores,Chaguanas,Bank Transfer
+261,1010,2024-08-08,Health,1212.86,St. Clair Medical,San Fernando,Bank Transfer
+262,1041,2024-06-16,Dining,1328.62,KFC,Chaguanas,Mobile Payment
+263,1077,2024-12-19,Health,898.94,St. Clair Medical,Arima,Credit Card
+264,1093,2024-08-10,Shopping,563.62,PriceSmart,Port of Spain,Credit Card
+265,1085,2024-09-19,Health,1606.17,HealthNet,Tobago,Debit Card
+266,1003,2024-12-13,Entertainment,1567.0,TriniCinema,Port of Spain,Debit Card
+267,1008,2024-07-06,Utilities,737.06,Flow,Point Fortin,Credit Card
+268,1077,2024-08-18,Entertainment,1898.67,TriniCinema,Chaguanas,Mobile Payment
+269,1097,2024-09-28,Dining,746.56,Royal Castle,Chaguanas,Bank Transfer
+270,1031,2024-04-05,Dining,1008.11,KFC,Arima,Credit Card
+271,1033,2024-08-16,Travel,444.85,Hyatt,Point Fortin,Bank Transfer
+272,1088,2024-03-03,Fuel,288.74,NP Gas Station,Port of Spain,Mobile Payment
+273,1022,2024-12-15,Fuel,1935.77,NP Gas Station,Chaguanas,Bank Transfer
+274,1090,2024-06-02,Dining,1705.7,Starbucks,Tobago,Debit Card
+275,1046,2024-04-12,Utilities,1588.29,T&TEC,San Fernando,Mobile Payment
+276,1003,2024-10-20,Shopping,750.44,PriceSmart,Point Fortin,Debit Card
+277,1078,2024-06-07,Dining,808.36,KFC,Tobago,Mobile Payment
+278,1067,2024-10-21,Health,166.03,HealthNet,Chaguanas,Credit Card
+279,1057,2024-09-21,Fuel,702.14,Sol Gas,Point Fortin,Debit Card
+280,1098,2024-09-14,Entertainment,1823.21,Cinemax,Port of Spain,Credit Card
+281,1066,2024-03-25,Entertainment,340.69,Cinemax,Tobago,Debit Card
+282,1044,2024-05-08,Travel,408.68,Caribbean Airlines,Point Fortin,Bank Transfer
+283,1016,2024-09-30,Travel,204.99,Hyatt,Tobago,Debit Card
+284,1075,2024-12-03,Entertainment,1256.47,MovieTowne,Point Fortin,Bank Transfer
+285,1072,2024-02-11,Groceries,110.01,Massy Stores,Tobago,Bank Transfer
+286,1083,2024-08-01,Utilities,1243.85,Flow,Port of Spain,Mobile Payment
+287,1080,2024-06-03,Travel,976.23,Hyatt,Tobago,Mobile Payment
+288,1038,2024-12-18,Fuel,138.63,NP Gas Station,Arima,Mobile Payment
+289,1061,2024-06-23,Fuel,1221.19,NP Gas Station,Chaguanas,Bank Transfer
+290,1093,2024-03-07,Shopping,1526.12,Courts,Point Fortin,Credit Card
+291,1040,2024-03-03,Utilities,549.59,WASA,San Fernando,Debit Card
+292,1012,2024-07-15,Groceries,1731.04,Tru Valu,Arima,Debit Card
+293,1020,2024-06-09,Shopping,395.87,PriceSmart,San Fernando,Mobile Payment
+294,1065,2024-06-06,Fuel,1004.79,Unipet,Port of Spain,Mobile Payment
+295,1064,2024-04-20,Fuel,1175.02,NP Gas Station,Port of Spain,Credit Card
+296,1036,2024-11-30,Fuel,1351.59,Sol Gas,Chaguanas,Credit Card
+297,1013,2024-05-15,Health,1460.47,St. Clair Medical,Arima,Bank Transfer
+298,1005,2024-10-18,Health,1132.4,St. Clair Medical,Chaguanas,Bank Transfer
+299,1009,2024-08-18,Health,1533.52,Trincity Medical,Chaguanas,Credit Card
+300,1016,2024-07-10,Dining,1593.9,Mario's,Chaguanas,Bank Transfer
+301,1096,2024-11-04,Entertainment,1028.06,MovieTowne,Point Fortin,Credit Card
+302,1005,2024-12-31,Groceries,679.42,Massy Stores,Arima,Mobile Payment
+303,1019,2024-11-09,Entertainment,650.69,Cinemax,Arima,Bank Transfer
+304,1075,2024-09-17,Shopping,1074.03,PriceSmart,Tobago,Bank Transfer
+305,1060,2024-06-18,Groceries,1354.14,Tru Valu,Arima,Bank Transfer
+306,1092,2024-08-30,Groceries,545.75,Xtra Foods,Tobago,Debit Card
+307,1092,2024-09-02,Groceries,357.61,Xtra Foods,Tobago,Mobile Payment
+308,1018,2024-10-20,Utilities,1897.45,T&TEC,Port of Spain,Debit Card
+309,1002,2024-08-02,Fuel,319.83,Unipet,Tobago,Debit Card
+310,1052,2024-02-01,Fuel,1417.43,Sol Gas,Point Fortin,Debit Card
+311,1071,2024-09-01,Shopping,1060.44,PriceSmart,Chaguanas,Debit Card
+312,1058,2024-06-30,Shopping,1358.22,PriceSmart,Tobago,Bank Transfer
+313,1078,2024-05-06,Fuel,572.43,NP Gas Station,Chaguanas,Debit Card
+314,1038,2024-04-16,Travel,1386.68,Hyatt,Arima,Bank Transfer
+315,1061,2024-05-20,Shopping,589.82,PriceSmart,Point Fortin,Mobile Payment
+316,1050,2024-05-28,Shopping,103.29,Excellent Stores,Tobago,Credit Card
+317,1044,2024-05-11,Fuel,1499.73,Sol Gas,San Fernando,Debit Card
+318,1068,2024-12-22,Travel,557.81,Hyatt,Port of Spain,Debit Card
+319,1031,2024-09-28,Groceries,466.83,Xtra Foods,San Fernando,Credit Card
+320,1012,2024-08-29,Health,219.08,HealthNet,San Fernando,Credit Card
+321,1070,2024-11-30,Entertainment,1871.36,Cinemax,Arima,Mobile Payment
+322,1083,2024-06-13,Utilities,585.12,WASA,Port of Spain,Credit Card
+323,1083,2024-01-20,Utilities,1828.19,Flow,San Fernando,Mobile Payment
+324,1022,2024-09-10,Groceries,388.9,Tru Valu,Tobago,Bank Transfer
+325,1004,2024-10-17,Groceries,1213.51,Tru Valu,Chaguanas,Bank Transfer
+326,1058,2024-09-15,Fuel,946.68,NP Gas Station,San Fernando,Credit Card
+327,1042,2024-08-22,Entertainment,1303.6,TriniCinema,Tobago,Debit Card
+328,1001,2024-10-17,Shopping,1355.31,Courts,San Fernando,Debit Card
+329,1078,2024-09-20,Health,669.29,HealthNet,Arima,Credit Card
+330,1023,2024-06-14,Entertainment,1872.93,Cinemax,Port of Spain,Bank Transfer
+331,1049,2024-05-16,Utilities,1908.99,WASA,Chaguanas,Credit Card
+332,1033,2024-04-30,Shopping,143.01,PriceSmart,Port of Spain,Mobile Payment
+333,1039,2024-12-17,Entertainment,1014.99,Cinemax,Tobago,Bank Transfer
+334,1088,2024-07-07,Dining,1236.96,Starbucks,San Fernando,Debit Card
+335,1061,2024-11-06,Entertainment,759.78,Cinemax,Tobago,Mobile Payment
+336,1096,2024-12-14,Utilities,1514.38,T&TEC,Port of Spain,Mobile Payment
+337,1067,2024-10-15,Shopping,242.17,Excellent Stores,Point Fortin,Debit Card
+338,1073,2024-06-16,Entertainment,1711.88,MovieTowne,Arima,Credit Card
+339,1087,2024-10-25,Utilities,987.88,Flow,Point Fortin,Mobile Payment
+340,1007,2024-09-19,Fuel,842.54,NP Gas Station,Point Fortin,Credit Card
+341,1071,2024-06-06,Fuel,1452.09,Sol Gas,Arima,Bank Transfer
+342,1000,2024-02-07,Utilities,109.67,Flow,Chaguanas,Credit Card
+343,1069,2024-08-29,Groceries,82.84,Massy Stores,Arima,Debit Card
+344,1098,2024-11-26,Entertainment,1928.29,TriniCinema,Chaguanas,Mobile Payment
+345,1057,2024-02-11,Health,1371.81,HealthNet,Tobago,Debit Card
+346,1083,2024-04-01,Shopping,1985.84,Excellent Stores,Arima,Debit Card
+347,1093,2024-01-12,Utilities,1957.41,T&TEC,Arima,Mobile Payment
+348,1068,2024-05-06,Health,932.04,St. Clair Medical,San Fernando,Bank Transfer
+349,1024,2024-12-04,Dining,850.1,KFC,Port of Spain,Debit Card
+350,1026,2024-10-31,Dining,86.48,KFC,Point Fortin,Credit Card
+351,1031,2024-08-12,Groceries,483.99,Tru Valu,San Fernando,Credit Card
+352,1017,2024-10-21,Travel,651.43,Caribbean Airlines,Point Fortin,Bank Transfer
+353,1030,2024-12-04,Travel,1052.08,Caribbean Airlines,Arima,Bank Transfer
+354,1035,2024-10-29,Groceries,1761.83,Xtra Foods,San Fernando,Mobile Payment
+355,1071,2024-06-25,Fuel,1884.34,NP Gas Station,Tobago,Mobile Payment
+356,1100,2024-08-01,Shopping,828.35,PriceSmart,Chaguanas,Mobile Payment
+357,1023,2024-04-25,Fuel,615.46,NP Gas Station,Tobago,Debit Card
+358,1059,2024-07-30,Groceries,1936.22,Xtra Foods,Point Fortin,Debit Card
+359,1049,2024-04-14,Utilities,673.92,WASA,Port of Spain,Mobile Payment
+360,1047,2024-01-27,Dining,551.55,Royal Castle,Tobago,Credit Card
+361,1009,2024-12-09,Utilities,1126.52,Flow,Arima,Debit Card
+362,1042,2024-04-18,Travel,1875.58,Caribbean Airlines,Tobago,Credit Card
+363,1095,2024-12-22,Fuel,1216.72,NP Gas Station,San Fernando,Mobile Payment
+364,1030,2024-07-13,Shopping,943.18,Courts,Tobago,Bank Transfer
+365,1039,2024-09-19,Travel,1767.97,Uber,Arima,Credit Card
+366,1092,2024-04-14,Fuel,754.0,Unipet,Arima,Credit Card
+367,1072,2024-03-15,Utilities,52.12,Flow,Point Fortin,Mobile Payment
+368,1037,2024-06-17,Entertainment,475.44,MovieTowne,Point Fortin,Debit Card
+369,1063,2024-09-07,Shopping,1933.69,Courts,Tobago,Mobile Payment
+370,1058,2024-06-29,Entertainment,355.15,TriniCinema,Tobago,Mobile Payment
+371,1023,2024-01-18,Groceries,1681.36,Xtra Foods,Port of Spain,Credit Card
+372,1097,2024-03-11,Groceries,1688.24,Tru Valu,San Fernando,Credit Card
+373,1090,2024-04-21,Entertainment,1021.35,MovieTowne,Chaguanas,Credit Card
+374,1079,2024-09-06,Fuel,51.15,Sol Gas,Point Fortin,Mobile Payment
+375,1001,2024-05-20,Groceries,1080.76,Xtra Foods,Chaguanas,Credit Card
+376,1064,2024-02-24,Health,1837.74,St. Clair Medical,Point Fortin,Debit Card
+377,1030,2024-09-26,Utilities,519.79,Flow,Chaguanas,Bank Transfer
+378,1050,2024-07-26,Dining,928.82,Starbucks,San Fernando,Debit Card
+379,1038,2024-02-17,Dining,822.45,KFC,Arima,Mobile Payment
+380,1007,2024-03-28,Groceries,183.72,Xtra Foods,Arima,Bank Transfer
+381,1072,2024-04-27,Dining,438.61,KFC,Tobago,Mobile Payment
+382,1034,2024-12-16,Groceries,1852.66,Massy Stores,Point Fortin,Credit Card
+383,1022,2024-04-16,Shopping,1182.33,Excellent Stores,Tobago,Mobile Payment
+384,1009,2024-10-15,Travel,496.13,Caribbean Airlines,Arima,Bank Transfer
+385,1049,2024-02-10,Entertainment,1011.57,TriniCinema,Chaguanas,Credit Card
+386,1012,2024-02-08,Health,694.37,St. Clair Medical,Point Fortin,Mobile Payment
+387,1099,2024-11-20,Shopping,561.19,Excellent Stores,Arima,Mobile Payment
+388,1029,2024-07-11,Shopping,875.06,PriceSmart,Tobago,Mobile Payment
+389,1010,2024-12-31,Travel,165.54,Caribbean Airlines,Chaguanas,Debit Card
+390,1048,2024-07-18,Entertainment,647.02,TriniCinema,Port of Spain,Credit Card
+391,1000,2024-07-03,Travel,1527.47,Uber,Port of Spain,Debit Card
+392,1011,2024-08-17,Entertainment,1122.83,Cinemax,Point Fortin,Mobile Payment
+393,1013,2024-06-30,Groceries,1117.36,Massy Stores,Point Fortin,Bank Transfer
+394,1049,2024-07-30,Groceries,787.84,Tru Valu,Port of Spain,Debit Card
+395,1073,2024-07-13,Entertainment,355.61,TriniCinema,Chaguanas,Bank Transfer
+396,1034,2024-02-02,Fuel,351.07,NP Gas Station,Chaguanas,Mobile Payment
+397,1038,2024-07-03,Fuel,518.37,NP Gas Station,San Fernando,Mobile Payment
+398,1076,2024-02-24,Utilities,288.27,WASA,Port of Spain,Mobile Payment
+399,1042,2024-08-13,Health,682.78,HealthNet,Tobago,Debit Card
+400,1038,2024-12-21,Shopping,417.69,PriceSmart,Chaguanas,Debit Card
+401,1050,2024-12-21,Shopping,1273.15,Courts,Point Fortin,Debit Card
+402,1041,2024-07-20,Health,742.73,HealthNet,Point Fortin,Debit Card
+403,1075,2024-10-08,Entertainment,73.29,TriniCinema,Tobago,Mobile Payment
+404,1090,2024-05-29,Utilities,1665.94,WASA,Port of Spain,Mobile Payment
+405,1086,2024-11-20,Fuel,619.61,NP Gas Station,Chaguanas,Debit Card
+406,1091,2024-02-07,Health,909.15,HealthNet,Point Fortin,Mobile Payment
+407,1074,2024-09-16,Health,1848.52,Trincity Medical,Tobago,Mobile Payment
+408,1069,2024-12-25,Groceries,1793.09,Tru Valu,Point Fortin,Credit Card
+409,1013,2024-12-06,Utilities,722.92,Flow,Tobago,Credit Card
+410,1072,2024-08-08,Health,229.77,HealthNet,Port of Spain,Bank Transfer
+411,1028,2024-07-10,Utilities,794.45,WASA,Tobago,Debit Card
+412,1044,2024-02-23,Groceries,604.96,Tru Valu,Port of Spain,Credit Card
+413,1093,2024-06-08,Entertainment,699.27,Cinemax,San Fernando,Mobile Payment
+414,1044,2024-08-12,Fuel,1449.55,NP Gas Station,Arima,Bank Transfer
+415,1008,2024-12-29,Travel,247.87,Caribbean Airlines,Chaguanas,Credit Card
+416,1086,2024-05-04,Entertainment,1041.67,TriniCinema,Point Fortin,Debit Card
+417,1042,2024-04-28,Health,1599.56,HealthNet,Tobago,Debit Card
+418,1023,2024-01-15,Health,1480.03,HealthNet,San Fernando,Mobile Payment
+419,1075,2024-01-03,Health,1415.38,HealthNet,San Fernando,Bank Transfer
+420,1096,2024-10-01,Dining,390.18,KFC,Chaguanas,Debit Card
+421,1058,2024-12-09,Dining,1728.02,Starbucks,Point Fortin,Bank Transfer
+422,1076,2024-07-19,Health,1182.27,Trincity Medical,Chaguanas,Bank Transfer
+423,1058,2024-12-27,Entertainment,1605.21,TriniCinema,Point Fortin,Credit Card
+424,1086,2024-03-01,Entertainment,492.37,Cinemax,Port of Spain,Debit Card
+425,1047,2024-07-17,Entertainment,848.11,TriniCinema,San Fernando,Mobile Payment
+426,1054,2024-11-21,Entertainment,1084.01,Cinemax,Tobago,Debit Card
+427,1071,2024-05-27,Entertainment,297.79,Cinemax,Chaguanas,Mobile Payment
+428,1079,2024-01-05,Groceries,979.53,Tru Valu,San Fernando,Mobile Payment
+429,1071,2024-12-16,Fuel,993.62,Unipet,Tobago,Mobile Payment
+430,1062,2024-10-16,Entertainment,81.1,MovieTowne,San Fernando,Bank Transfer
+431,1004,2024-10-02,Travel,591.57,Caribbean Airlines,Arima,Mobile Payment
+432,1070,2024-05-17,Dining,1554.72,KFC,Chaguanas,Credit Card
+433,1097,2024-04-21,Fuel,1979.76,Sol Gas,Port of Spain,Debit Card
+434,1038,2024-05-14,Groceries,710.18,Tru Valu,Port of Spain,Mobile Payment
+435,1015,2024-10-28,Utilities,1384.48,T&TEC,Tobago,Mobile Payment
+436,1021,2024-04-15,Entertainment,1614.77,MovieTowne,Point Fortin,Bank Transfer
+437,1068,2024-10-02,Travel,353.39,Hyatt,Tobago,Bank Transfer
+438,1037,2024-12-13,Travel,1634.06,Hyatt,San Fernando,Mobile Payment
+439,1007,2024-03-05,Travel,1408.82,Hyatt,San Fernando,Debit Card
+440,1018,2024-12-12,Shopping,797.55,Excellent Stores,San Fernando,Bank Transfer
+441,1080,2024-08-19,Health,169.52,HealthNet,Port of Spain,Mobile Payment
+442,1065,2024-07-07,Travel,920.3,Hyatt,Arima,Bank Transfer
+443,1074,2024-02-17,Groceries,1467.25,Xtra Foods,Arima,Bank Transfer
+444,1008,2024-08-07,Health,1653.2,St. Clair Medical,Arima,Bank Transfer
+445,1041,2024-10-07,Travel,1164.31,Uber,Point Fortin,Mobile Payment
+446,1100,2024-01-25,Shopping,110.97,PriceSmart,Tobago,Mobile Payment
+447,1002,2024-08-13,Dining,923.91,Royal Castle,Arima,Debit Card
+448,1088,2024-06-03,Entertainment,334.78,TriniCinema,Chaguanas,Credit Card
+449,1083,2024-02-12,Shopping,756.25,Courts,Tobago,Debit Card
+450,1006,2024-06-05,Health,1457.46,Trincity Medical,San Fernando,Mobile Payment
+451,1083,2024-01-01,Dining,442.57,KFC,Port of Spain,Debit Card
+452,1075,2024-12-14,Utilities,901.23,Flow,Port of Spain,Bank Transfer
+453,1015,2024-03-08,Health,965.85,Trincity Medical,San Fernando,Mobile Payment
+454,1011,2024-06-09,Dining,747.77,KFC,Chaguanas,Debit Card
+455,1048,2024-12-12,Entertainment,302.85,TriniCinema,Point Fortin,Credit Card
+456,1078,2024-06-28,Entertainment,1450.42,Cinemax,Tobago,Debit Card
+457,1052,2024-02-14,Fuel,1795.25,NP Gas Station,San Fernando,Credit Card
+458,1075,2024-08-07,Health,642.72,HealthNet,San Fernando,Debit Card
+459,1035,2024-10-10,Dining,1209.98,Royal Castle,Tobago,Bank Transfer
+460,1099,2024-06-03,Groceries,426.78,Xtra Foods,Point Fortin,Debit Card
+461,1095,2024-11-26,Health,128.05,HealthNet,San Fernando,Mobile Payment
+462,1049,2024-09-12,Dining,1283.4,Royal Castle,Port of Spain,Credit Card
+463,1046,2024-07-17,Shopping,1724.41,Excellent Stores,Point Fortin,Mobile Payment
+464,1046,2024-02-07,Entertainment,53.05,Cinemax,Port of Spain,Credit Card
+465,1033,2024-01-31,Utilities,1898.39,T&TEC,Arima,Bank Transfer
+466,1080,2024-12-25,Health,816.51,HealthNet,Tobago,Debit Card
+467,1035,2024-02-10,Dining,1032.38,Starbucks,San Fernando,Debit Card
+468,1068,2024-10-27,Shopping,1275.9,Courts,Tobago,Credit Card
+469,1039,2024-05-02,Health,134.65,Trincity Medical,Port of Spain,Mobile Payment
+470,1014,2024-11-07,Fuel,128.96,Sol Gas,Tobago,Debit Card
+471,1015,2024-03-11,Groceries,1408.97,Xtra Foods,San Fernando,Mobile Payment
+472,1044,2024-07-09,Travel,271.32,Caribbean Airlines,Chaguanas,Credit Card
+473,1098,2024-08-07,Groceries,558.52,Tru Valu,Port of Spain,Bank Transfer
+474,1091,2024-08-21,Dining,1031.35,Mario's,Port of Spain,Mobile Payment
+475,1072,2024-03-21,Entertainment,525.13,Cinemax,Port of Spain,Credit Card
+476,1029,2024-01-07,Groceries,504.21,Massy Stores,Arima,Bank Transfer
+477,1049,2024-01-19,Entertainment,1114.67,MovieTowne,Tobago,Mobile Payment
+478,1028,2024-08-01,Shopping,1833.39,Excellent Stores,Chaguanas,Bank Transfer
+479,1009,2024-09-14,Shopping,1353.18,Excellent Stores,Port of Spain,Debit Card
+480,1028,2024-02-05,Groceries,1756.44,Tru Valu,Chaguanas,Bank Transfer
+481,1041,2024-01-05,Dining,750.46,Mario's,Chaguanas,Bank Transfer
+482,1094,2024-07-07,Utilities,1191.55,WASA,Arima,Debit Card
+483,1093,2024-01-04,Utilities,1866.15,T&TEC,Port of Spain,Debit Card
+484,1069,2024-12-21,Shopping,1756.85,PriceSmart,Chaguanas,Credit Card
+485,1097,2024-06-06,Health,225.82,Trincity Medical,Point Fortin,Debit Card
+486,1053,2024-03-13,Fuel,1429.07,NP Gas Station,Port of Spain,Credit Card
+487,1029,2024-07-09,Health,927.75,Trincity Medical,Tobago,Credit Card
+488,1074,2024-11-22,Dining,1643.53,Royal Castle,Port of Spain,Credit Card
+489,1055,2024-05-29,Entertainment,536.76,MovieTowne,Chaguanas,Mobile Payment
+490,1089,2024-08-19,Shopping,558.47,Courts,Port of Spain,Debit Card
+491,1017,2024-02-24,Dining,345.46,Royal Castle,Arima,Bank Transfer
+492,1052,2024-04-16,Dining,914.8,Starbucks,Arima,Bank Transfer
+493,1015,2024-12-17,Dining,622.35,Royal Castle,Tobago,Credit Card
+494,1027,2024-02-16,Shopping,1428.09,Excellent Stores,Chaguanas,Mobile Payment
+495,1065,2024-06-02,Groceries,535.13,Xtra Foods,San Fernando,Credit Card
+496,1051,2024-10-08,Fuel,514.71,Sol Gas,Arima,Credit Card
+497,1017,2024-02-01,Dining,1664.14,KFC,San Fernando,Debit Card
+498,1025,2024-12-17,Health,1267.99,HealthNet,Tobago,Credit Card
+499,1074,2024-01-12,Travel,1994.38,Caribbean Airlines,San Fernando,Mobile Payment
+500,1016,2024-03-03,Dining,104.54,Starbucks,Arima,Credit Card
+501,1021,2024-07-21,Health,1002.33,Trincity Medical,Arima,Mobile Payment
+502,1022,2024-04-05,Shopping,564.46,Excellent Stores,Arima,Debit Card
+503,1004,2024-05-31,Utilities,1007.81,Flow,Point Fortin,Mobile Payment
+504,1007,2024-07-15,Dining,291.73,Starbucks,San Fernando,Debit Card
+505,1080,2024-12-31,Groceries,731.04,Tru Valu,Point Fortin,Mobile Payment
+506,1044,2024-05-18,Shopping,376.04,Courts,Chaguanas,Debit Card
+507,1003,2024-08-29,Travel,1068.28,Caribbean Airlines,Point Fortin,Debit Card
+508,1020,2024-12-02,Dining,497.48,Royal Castle,Point Fortin,Credit Card
+509,1097,2024-07-17,Utilities,722.51,Flow,San Fernando,Debit Card
+510,1030,2024-12-23,Shopping,730.39,PriceSmart,Point Fortin,Credit Card
+511,1090,2024-10-15,Shopping,301.36,PriceSmart,San Fernando,Mobile Payment
+512,1069,2024-09-08,Travel,95.17,Caribbean Airlines,Port of Spain,Debit Card
+513,1077,2024-09-26,Utilities,966.42,T&TEC,Chaguanas,Debit Card
+514,1016,2024-03-31,Shopping,1839.19,PriceSmart,Chaguanas,Credit Card
+515,1002,2024-12-26,Entertainment,1836.1,TriniCinema,Port of Spain,Bank Transfer
+516,1009,2024-12-05,Shopping,803.28,PriceSmart,Port of Spain,Bank Transfer
+517,1038,2024-03-21,Shopping,1470.06,Excellent Stores,Arima,Mobile Payment
+518,1083,2024-12-28,Shopping,1938.11,Excellent Stores,Tobago,Bank Transfer
+519,1028,2024-06-06,Entertainment,1473.31,Cinemax,Chaguanas,Debit Card
+520,1022,2024-10-20,Groceries,795.37,Xtra Foods,Point Fortin,Credit Card
+521,1023,2024-04-23,Shopping,1286.5,PriceSmart,Port of Spain,Mobile Payment
+522,1018,2024-02-09,Shopping,491.23,PriceSmart,Chaguanas,Debit Card
+523,1081,2024-08-16,Dining,42.56,Starbucks,San Fernando,Debit Card
+524,1088,2024-05-11,Dining,1578.3,Starbucks,Tobago,Credit Card
+525,1006,2024-08-02,Health,1938.82,HealthNet,Arima,Mobile Payment
+526,1048,2024-07-11,Shopping,220.83,PriceSmart,Arima,Debit Card
+527,1020,2024-01-18,Fuel,603.92,NP Gas Station,Chaguanas,Bank Transfer
+528,1013,2024-03-28,Dining,1778.1,Starbucks,San Fernando,Credit Card
+529,1070,2024-10-31,Dining,1970.85,Starbucks,Arima,Credit Card
+530,1055,2024-08-10,Entertainment,331.07,TriniCinema,Port of Spain,Bank Transfer
+531,1026,2024-12-22,Utilities,1117.14,WASA,Tobago,Bank Transfer
+532,1084,2024-05-01,Travel,209.91,Uber,Arima,Mobile Payment
+533,1019,2024-01-02,Groceries,866.66,Tru Valu,Chaguanas,Mobile Payment
+534,1025,2024-04-15,Dining,358.25,KFC,Chaguanas,Credit Card
+535,1060,2024-07-22,Dining,952.47,Starbucks,Tobago,Bank Transfer
+536,1011,2024-07-08,Health,1773.28,St. Clair Medical,Chaguanas,Debit Card
+537,1057,2024-08-13,Groceries,940.81,Tru Valu,San Fernando,Bank Transfer
+538,1072,2024-12-22,Groceries,1341.59,Massy Stores,Port of Spain,Bank Transfer
+539,1069,2024-04-26,Health,1116.13,Trincity Medical,Arima,Mobile Payment
+540,1068,2024-04-30,Fuel,963.0,Sol Gas,Port of Spain,Mobile Payment
+541,1091,2024-10-19,Groceries,1802.9,Xtra Foods,Point Fortin,Debit Card
+542,1015,2024-03-26,Fuel,1944.89,NP Gas Station,San Fernando,Debit Card
+543,1005,2024-12-15,Health,882.08,St. Clair Medical,Tobago,Debit Card
+544,1076,2024-02-04,Travel,192.31,Uber,Point Fortin,Mobile Payment
+545,1070,2024-09-23,Shopping,927.15,Courts,Port of Spain,Mobile Payment
+546,1014,2024-03-16,Health,1141.86,St. Clair Medical,Point Fortin,Credit Card
+547,1013,2024-10-01,Dining,1762.67,Starbucks,Arima,Bank Transfer
+548,1049,2024-11-07,Fuel,956.63,Sol Gas,San Fernando,Bank Transfer
+549,1051,2024-11-07,Entertainment,1368.01,TriniCinema,Arima,Credit Card
+550,1050,2024-05-01,Shopping,117.6,PriceSmart,Arima,Bank Transfer
+551,1047,2024-06-04,Groceries,635.68,Tru Valu,Arima,Credit Card
+552,1029,2024-08-14,Entertainment,1552.58,Cinemax,Chaguanas,Bank Transfer
+553,1093,2024-11-26,Health,196.79,Trincity Medical,Arima,Debit Card
+554,1052,2024-07-10,Fuel,1645.61,Sol Gas,Point Fortin,Debit Card
+555,1008,2024-09-16,Travel,818.7,Hyatt,Point Fortin,Credit Card
+556,1022,2024-01-30,Utilities,513.99,T&TEC,Arima,Credit Card
+557,1046,2024-07-07,Utilities,1650.54,WASA,Point Fortin,Mobile Payment
+558,1081,2024-05-03,Dining,757.48,KFC,Point Fortin,Mobile Payment
+559,1022,2024-10-09,Fuel,712.52,Sol Gas,San Fernando,Bank Transfer
+560,1095,2024-01-15,Dining,785.4,Starbucks,San Fernando,Debit Card
+561,1028,2024-04-15,Utilities,552.79,Flow,Arima,Credit Card
+562,1099,2024-03-08,Groceries,1301.8,Tru Valu,Point Fortin,Credit Card
+563,1028,2024-06-05,Travel,1431.23,Hyatt,Tobago,Bank Transfer
+564,1054,2024-08-23,Health,518.96,HealthNet,Arima,Bank Transfer
+565,1086,2024-02-22,Health,34.55,Trincity Medical,Tobago,Bank Transfer
+566,1071,2024-12-16,Travel,234.05,Uber,Port of Spain,Bank Transfer
+567,1035,2024-05-13,Shopping,1319.12,Courts,Tobago,Bank Transfer
+568,1024,2024-05-03,Entertainment,1801.38,TriniCinema,Point Fortin,Mobile Payment
+569,1084,2024-03-12,Shopping,1448.14,PriceSmart,Tobago,Mobile Payment
+570,1037,2024-07-26,Travel,788.78,Uber,Port of Spain,Debit Card
+571,1043,2024-09-30,Utilities,1283.86,Flow,Arima,Bank Transfer
+572,1064,2024-12-02,Travel,1755.46,Caribbean Airlines,San Fernando,Bank Transfer
+573,1012,2024-05-12,Fuel,1455.87,NP Gas Station,Point Fortin,Debit Card
+574,1087,2024-02-15,Shopping,460.06,PriceSmart,San Fernando,Bank Transfer
+575,1053,2024-05-13,Shopping,1179.43,Courts,Arima,Credit Card
+576,1060,2024-10-25,Groceries,1169.02,Xtra Foods,Point Fortin,Credit Card
+577,1060,2024-03-02,Utilities,1737.65,Flow,Arima,Bank Transfer
+578,1052,2024-03-11,Groceries,1984.85,Massy Stores,Chaguanas,Mobile Payment
+579,1072,2024-06-10,Fuel,1727.54,NP Gas Station,San Fernando,Credit Card
+580,1062,2024-03-31,Shopping,640.56,PriceSmart,Port of Spain,Credit Card
+581,1057,2024-03-27,Travel,1161.03,Caribbean Airlines,San Fernando,Mobile Payment
+582,1100,2024-11-10,Dining,878.75,Royal Castle,Arima,Mobile Payment
+583,1054,2024-01-03,Fuel,94.7,Unipet,San Fernando,Bank Transfer
+584,1001,2024-04-07,Shopping,55.47,PriceSmart,Port of Spain,Debit Card
+585,1028,2024-03-07,Shopping,223.36,Courts,Point Fortin,Bank Transfer
+586,1021,2024-06-01,Dining,1897.96,KFC,Arima,Bank Transfer
+587,1055,2024-09-07,Entertainment,731.32,Cinemax,San Fernando,Debit Card
+588,1051,2024-04-24,Groceries,1459.79,Massy Stores,San Fernando,Debit Card
+589,1093,2024-09-15,Groceries,354.59,Xtra Foods,Chaguanas,Credit Card
+590,1048,2024-11-15,Travel,116.2,Hyatt,Port of Spain,Credit Card
+591,1083,2024-12-19,Groceries,249.26,Massy Stores,Arima,Mobile Payment
+592,1015,2024-12-25,Travel,323.19,Uber,Tobago,Credit Card
+593,1038,2024-02-21,Health,1331.72,Trincity Medical,Chaguanas,Debit Card
+594,1053,2024-05-24,Dining,245.74,KFC,Port of Spain,Mobile Payment
+595,1025,2024-09-24,Utilities,1946.78,WASA,Chaguanas,Mobile Payment
+596,1037,2024-10-07,Entertainment,1002.78,MovieTowne,San Fernando,Mobile Payment
+597,1042,2024-01-07,Utilities,1349.83,T&TEC,Port of Spain,Mobile Payment
+598,1019,2024-02-21,Dining,1811.46,KFC,Tobago,Debit Card
+599,1058,2024-08-25,Travel,119.16,Uber,San Fernando,Credit Card
+600,1037,2024-06-09,Shopping,863.47,PriceSmart,Port of Spain,Credit Card
+601,1097,2024-03-11,Groceries,1333.44,Massy Stores,San Fernando,Bank Transfer
+602,1045,2024-05-17,Fuel,1759.38,Sol Gas,Port of Spain,Bank Transfer
+603,1043,2024-07-24,Entertainment,812.5,MovieTowne,Arima,Bank Transfer
+604,1049,2024-11-28,Fuel,1774.53,Unipet,San Fernando,Credit Card
+605,1016,2024-02-23,Groceries,843.73,Massy Stores,Point Fortin,Mobile Payment
+606,1072,2024-11-08,Fuel,771.91,NP Gas Station,Chaguanas,Credit Card
+607,1087,2024-09-06,Entertainment,243.62,Cinemax,Arima,Mobile Payment
+608,1005,2024-12-01,Dining,642.19,Starbucks,Tobago,Debit Card
+609,1085,2024-09-24,Shopping,1382.72,PriceSmart,Point Fortin,Credit Card
+610,1055,2024-06-26,Utilities,1334.15,WASA,Tobago,Mobile Payment
+611,1019,2024-11-25,Groceries,1870.06,Massy Stores,Point Fortin,Mobile Payment
+612,1063,2024-09-08,Entertainment,654.85,MovieTowne,Chaguanas,Bank Transfer
+613,1006,2024-11-25,Utilities,769.7,Flow,San Fernando,Credit Card
+614,1058,2024-08-17,Fuel,194.28,Sol Gas,Arima,Mobile Payment
+615,1040,2024-11-30,Dining,55.18,Mario's,Arima,Mobile Payment
+616,1004,2024-11-05,Groceries,1927.08,Massy Stores,Tobago,Bank Transfer
+617,1065,2024-12-09,Utilities,923.29,Flow,Chaguanas,Bank Transfer
+618,1006,2024-06-18,Utilities,1129.1,WASA,Point Fortin,Mobile Payment
+619,1091,2024-08-19,Shopping,245.77,PriceSmart,Tobago,Debit Card
+620,1000,2024-11-20,Shopping,1929.58,Courts,Chaguanas,Bank Transfer
+621,1089,2024-03-25,Dining,995.0,KFC,Tobago,Mobile Payment
+622,1013,2024-04-10,Travel,391.34,Hyatt,Arima,Debit Card
+623,1058,2024-06-22,Utilities,233.38,Flow,Arima,Credit Card
+624,1081,2024-08-22,Dining,1323.74,Mario's,Point Fortin,Debit Card
+625,1063,2024-01-25,Groceries,1115.39,Xtra Foods,Arima,Mobile Payment
+626,1065,2024-10-23,Entertainment,363.83,TriniCinema,San Fernando,Credit Card
+627,1049,2024-07-15,Shopping,848.96,PriceSmart,Point Fortin,Debit Card
+628,1035,2024-05-30,Health,916.63,HealthNet,San Fernando,Debit Card
+629,1052,2024-10-07,Travel,1724.2,Hyatt,Tobago,Debit Card
+630,1025,2024-12-31,Utilities,595.35,Flow,Chaguanas,Debit Card
+631,1090,2024-10-04,Entertainment,1394.74,TriniCinema,Chaguanas,Credit Card
+632,1097,2024-09-02,Shopping,1173.96,PriceSmart,Tobago,Mobile Payment
+633,1086,2024-01-07,Travel,1055.01,Uber,Port of Spain,Mobile Payment
+634,1018,2024-01-29,Groceries,415.81,Xtra Foods,San Fernando,Bank Transfer
+635,1087,2024-02-01,Travel,1387.38,Caribbean Airlines,Chaguanas,Debit Card
+636,1096,2024-08-19,Groceries,222.91,Tru Valu,Tobago,Debit Card
+637,1095,2024-09-18,Health,1572.93,St. Clair Medical,Tobago,Bank Transfer
+638,1088,2024-07-17,Groceries,844.8,Tru Valu,Tobago,Bank Transfer
+639,1070,2024-05-08,Groceries,422.11,Massy Stores,Arima,Debit Card
+640,1081,2024-10-06,Shopping,1482.13,PriceSmart,San Fernando,Debit Card
+641,1037,2024-12-15,Fuel,167.45,NP Gas Station,San Fernando,Credit Card
+642,1048,2024-05-22,Groceries,1122.07,Tru Valu,San Fernando,Debit Card
+643,1074,2024-06-18,Travel,943.34,Caribbean Airlines,San Fernando,Credit Card
+644,1019,2024-01-27,Shopping,1551.85,PriceSmart,Tobago,Bank Transfer
+645,1062,2024-12-28,Shopping,649.36,Excellent Stores,San Fernando,Debit Card
+646,1066,2024-07-31,Dining,1095.3,Royal Castle,Arima,Credit Card
+647,1044,2024-12-05,Utilities,677.13,T&TEC,Chaguanas,Bank Transfer
+648,1027,2024-11-28,Fuel,37.43,Sol Gas,Tobago,Bank Transfer
+649,1057,2024-11-10,Utilities,1838.84,Flow,San Fernando,Credit Card
+650,1087,2024-02-28,Shopping,784.03,Courts,Point Fortin,Bank Transfer
+651,1003,2024-09-17,Shopping,902.2,PriceSmart,Port of Spain,Bank Transfer
+652,1083,2024-09-20,Utilities,183.04,WASA,Port of Spain,Debit Card
+653,1098,2024-02-03,Groceries,437.35,Xtra Foods,Tobago,Debit Card
+654,1087,2024-04-15,Health,1084.75,St. Clair Medical,Tobago,Mobile Payment
+655,1082,2024-01-13,Dining,929.27,Royal Castle,Chaguanas,Credit Card
+656,1011,2024-04-01,Dining,1592.55,KFC,Point Fortin,Credit Card
+657,1073,2024-07-27,Utilities,788.3,WASA,Tobago,Mobile Payment
+658,1055,2024-07-18,Shopping,1353.13,Excellent Stores,Point Fortin,Credit Card
+659,1082,2024-12-24,Dining,1699.54,KFC,Chaguanas,Credit Card
+660,1037,2024-02-14,Travel,577.4,Hyatt,Arima,Mobile Payment
+661,1050,2024-03-21,Groceries,1076.27,Tru Valu,San Fernando,Mobile Payment
+662,1069,2024-03-14,Travel,610.15,Hyatt,Tobago,Bank Transfer
+663,1001,2024-01-22,Entertainment,29.96,MovieTowne,Point Fortin,Mobile Payment
+664,1068,2024-04-17,Dining,1501.63,Starbucks,Tobago,Bank Transfer
+665,1027,2024-09-19,Health,302.06,Trincity Medical,San Fernando,Debit Card
+666,1078,2024-02-28,Travel,379.09,Caribbean Airlines,Point Fortin,Credit Card
+667,1096,2024-10-08,Fuel,164.83,Sol Gas,Tobago,Credit Card
+668,1032,2024-10-24,Dining,984.64,Royal Castle,Chaguanas,Bank Transfer
+669,1016,2024-05-25,Utilities,1246.64,T&TEC,San Fernando,Bank Transfer
+670,1062,2024-11-11,Fuel,1325.66,Unipet,Tobago,Debit Card
+671,1072,2024-08-07,Shopping,353.91,Courts,Chaguanas,Debit Card
+672,1100,2024-11-24,Utilities,883.53,Flow,Chaguanas,Debit Card
+673,1086,2024-08-24,Shopping,901.81,Courts,Chaguanas,Mobile Payment
+674,1070,2024-11-26,Dining,1221.12,Royal Castle,Chaguanas,Debit Card
+675,1068,2024-11-16,Utilities,171.4,WASA,Port of Spain,Credit Card
+676,1064,2024-10-23,Groceries,822.17,Xtra Foods,Point Fortin,Debit Card
+677,1004,2024-10-03,Travel,954.77,Hyatt,San Fernando,Bank Transfer
+678,1050,2024-05-28,Utilities,285.08,Flow,Point Fortin,Credit Card
+679,1050,2024-01-06,Shopping,1332.1,PriceSmart,Point Fortin,Debit Card
+680,1096,2024-03-22,Entertainment,374.71,Cinemax,Point Fortin,Debit Card
+681,1094,2024-01-21,Fuel,453.26,Unipet,Arima,Debit Card
+682,1008,2024-04-29,Travel,104.76,Uber,San Fernando,Bank Transfer
+683,1049,2024-01-24,Fuel,99.01,Unipet,Tobago,Bank Transfer
+684,1013,2024-05-14,Travel,1165.69,Hyatt,Point Fortin,Debit Card
+685,1048,2024-10-27,Health,1313.61,HealthNet,Port of Spain,Bank Transfer
+686,1048,2024-07-26,Utilities,718.74,Flow,Chaguanas,Mobile Payment
+687,1061,2024-03-12,Groceries,891.0,Xtra Foods,San Fernando,Credit Card
+688,1065,2024-03-17,Travel,390.07,Caribbean Airlines,Chaguanas,Credit Card
+689,1084,2024-06-18,Utilities,1446.11,WASA,Arima,Mobile Payment
+690,1061,2024-03-23,Utilities,1301.57,Flow,Arima,Credit Card
+691,1031,2024-10-20,Groceries,1192.85,Massy Stores,San Fernando,Credit Card
+692,1073,2024-03-26,Entertainment,531.35,MovieTowne,San Fernando,Mobile Payment
+693,1076,2024-12-04,Groceries,1646.18,Xtra Foods,Port of Spain,Debit Card
+694,1057,2024-03-28,Fuel,454.34,Unipet,Arima,Debit Card
+695,1074,2024-12-03,Entertainment,1031.39,TriniCinema,San Fernando,Bank Transfer
+696,1058,2024-07-12,Dining,783.21,Royal Castle,Port of Spain,Credit Card
+697,1025,2024-11-06,Health,210.67,St. Clair Medical,Arima,Credit Card
+698,1100,2024-09-03,Dining,1325.6,KFC,Point Fortin,Credit Card
+699,1099,2024-08-03,Health,753.35,Trincity Medical,Port of Spain,Mobile Payment
+700,1029,2024-06-28,Fuel,1186.32,Unipet,Tobago,Credit Card
+701,1054,2024-09-01,Entertainment,1536.4,Cinemax,Port of Spain,Bank Transfer
+702,1076,2024-04-06,Health,30.83,HealthNet,Tobago,Credit Card
+703,1073,2024-07-11,Dining,1316.0,KFC,Tobago,Bank Transfer
+704,1052,2024-03-20,Shopping,863.62,Excellent Stores,Point Fortin,Bank Transfer
+705,1033,2024-07-06,Health,1231.52,Trincity Medical,Tobago,Mobile Payment
+706,1096,2024-10-09,Utilities,1571.9,WASA,Arima,Debit Card
+707,1047,2024-06-06,Fuel,1163.75,Unipet,Tobago,Mobile Payment
+708,1094,2024-03-01,Entertainment,1500.67,TriniCinema,Arima,Debit Card
+709,1012,2024-07-24,Utilities,1576.44,Flow,Point Fortin,Credit Card
+710,1020,2024-01-03,Health,1612.65,Trincity Medical,San Fernando,Mobile Payment
+711,1076,2024-02-02,Health,540.92,St. Clair Medical,Chaguanas,Credit Card
+712,1077,2024-07-15,Groceries,1862.76,Xtra Foods,Arima,Bank Transfer
+713,1091,2024-11-23,Groceries,998.85,Massy Stores,Port of Spain,Debit Card
+714,1084,2024-01-18,Travel,1572.24,Caribbean Airlines,Point Fortin,Debit Card
+715,1078,2024-01-19,Entertainment,732.29,TriniCinema,Tobago,Credit Card
+716,1020,2024-07-23,Dining,719.19,Starbucks,Arima,Mobile Payment
+717,1075,2024-01-08,Utilities,1479.11,Flow,Port of Spain,Credit Card
+718,1070,2024-10-13,Travel,1831.72,Hyatt,Chaguanas,Bank Transfer
+719,1035,2024-04-09,Utilities,920.42,Flow,Arima,Credit Card
+720,1033,2024-09-16,Entertainment,230.8,Cinemax,Port of Spain,Bank Transfer
+721,1043,2024-10-02,Dining,1630.03,Starbucks,Point Fortin,Bank Transfer
+722,1088,2024-10-15,Fuel,977.59,Unipet,San Fernando,Bank Transfer
+723,1099,2024-08-23,Fuel,1795.12,Sol Gas,Port of Spain,Mobile Payment
+724,1014,2024-07-14,Travel,1274.65,Caribbean Airlines,San Fernando,Debit Card
+725,1040,2024-09-21,Health,1080.59,HealthNet,Tobago,Bank Transfer
+726,1031,2024-07-23,Travel,1353.92,Caribbean Airlines,Chaguanas,Credit Card
+727,1070,2024-06-09,Entertainment,720.01,Cinemax,Point Fortin,Bank Transfer
+728,1023,2024-04-12,Utilities,485.03,WASA,San Fernando,Bank Transfer
+729,1026,2024-05-07,Utilities,1675.94,T&TEC,Chaguanas,Debit Card
+730,1099,2024-02-10,Dining,1358.11,KFC,Tobago,Mobile Payment
+731,1078,2024-01-22,Groceries,1699.06,Xtra Foods,Chaguanas,Bank Transfer
+732,1063,2024-04-03,Travel,1969.1,Uber,Point Fortin,Bank Transfer
+733,1050,2024-03-06,Utilities,127.21,Flow,Arima,Mobile Payment
+734,1069,2024-06-26,Groceries,799.56,Xtra Foods,Tobago,Debit Card
+735,1058,2024-06-10,Dining,1384.64,Mario's,Port of Spain,Debit Card
+736,1048,2024-07-04,Dining,1233.3,Starbucks,Chaguanas,Debit Card
+737,1070,2024-05-17,Travel,953.26,Caribbean Airlines,Point Fortin,Bank Transfer
+738,1046,2024-08-05,Entertainment,436.85,Cinemax,Tobago,Bank Transfer
+739,1046,2024-08-18,Health,376.18,HealthNet,San Fernando,Debit Card
+740,1012,2024-10-11,Travel,875.79,Caribbean Airlines,Arima,Debit Card
+741,1018,2024-01-05,Entertainment,369.68,Cinemax,Arima,Debit Card
+742,1080,2024-06-02,Shopping,516.93,Courts,Point Fortin,Credit Card
+743,1050,2024-01-31,Dining,446.63,Royal Castle,Chaguanas,Mobile Payment
+744,1080,2024-06-20,Dining,534.34,Mario's,Chaguanas,Bank Transfer
+745,1044,2024-03-03,Groceries,715.16,Tru Valu,Tobago,Debit Card
+746,1073,2024-06-30,Entertainment,663.68,Cinemax,Point Fortin,Mobile Payment
+747,1099,2024-07-14,Fuel,1235.05,NP Gas Station,Arima,Debit Card
+748,1021,2024-11-19,Shopping,1232.37,Courts,Arima,Credit Card
+749,1010,2024-04-26,Entertainment,640.69,Cinemax,Tobago,Bank Transfer
+750,1090,2024-11-26,Travel,803.0,Hyatt,Arima,Bank Transfer
+751,1095,2024-03-26,Fuel,384.09,Unipet,Port of Spain,Debit Card
+752,1093,2024-05-08,Utilities,1882.07,Flow,Tobago,Credit Card
+753,1026,2024-02-22,Entertainment,209.2,Cinemax,Arima,Credit Card
+754,1003,2024-02-12,Health,225.78,Trincity Medical,Point Fortin,Debit Card
+755,1010,2024-04-27,Health,509.85,HealthNet,Chaguanas,Mobile Payment
+756,1080,2024-09-26,Entertainment,1680.27,MovieTowne,Port of Spain,Credit Card
+757,1084,2024-08-31,Shopping,945.04,Courts,Point Fortin,Bank Transfer
+758,1070,2024-12-23,Fuel,1087.79,NP Gas Station,Point Fortin,Mobile Payment
+759,1080,2024-11-23,Health,1286.27,Trincity Medical,Chaguanas,Bank Transfer
+760,1061,2024-08-14,Utilities,629.58,T&TEC,Arima,Bank Transfer
+761,1019,2024-01-01,Travel,1056.17,Caribbean Airlines,San Fernando,Bank Transfer
+762,1036,2024-01-05,Fuel,1381.78,Sol Gas,Arima,Mobile Payment
+763,1038,2024-05-29,Groceries,1202.07,Tru Valu,Port of Spain,Bank Transfer
+764,1024,2024-08-11,Health,801.61,Trincity Medical,San Fernando,Mobile Payment
+765,1048,2024-02-10,Utilities,856.03,WASA,San Fernando,Bank Transfer
+766,1036,2024-04-06,Travel,1709.89,Uber,San Fernando,Debit Card
+767,1037,2024-11-12,Dining,916.48,Mario's,Tobago,Mobile Payment
+768,1024,2024-03-18,Shopping,118.27,Excellent Stores,Point Fortin,Credit Card
+769,1023,2024-05-17,Dining,267.58,Starbucks,Arima,Credit Card
+770,1029,2024-01-08,Dining,997.29,Royal Castle,Chaguanas,Mobile Payment
+771,1039,2024-08-25,Fuel,1399.93,Unipet,Port of Spain,Bank Transfer
+772,1010,2024-05-16,Entertainment,1555.79,MovieTowne,Port of Spain,Mobile Payment
+773,1023,2024-07-14,Utilities,1659.94,WASA,Port of Spain,Debit Card
+774,1049,2024-01-18,Fuel,414.38,NP Gas Station,Tobago,Credit Card
+775,1066,2024-07-18,Utilities,1369.26,WASA,Chaguanas,Bank Transfer
+776,1020,2024-10-08,Groceries,1051.43,Xtra Foods,Chaguanas,Mobile Payment
+777,1081,2024-07-03,Travel,1777.29,Caribbean Airlines,Tobago,Debit Card
+778,1014,2024-08-10,Utilities,662.54,Flow,San Fernando,Bank Transfer
+779,1074,2024-05-04,Dining,37.68,Mario's,Port of Spain,Mobile Payment
+780,1088,2024-02-15,Entertainment,512.47,Cinemax,Arima,Credit Card
+781,1087,2024-01-31,Shopping,138.35,PriceSmart,Tobago,Debit Card
+782,1089,2024-09-06,Dining,480.7,Royal Castle,Point Fortin,Bank Transfer
+783,1056,2024-12-18,Utilities,767.98,T&TEC,Tobago,Debit Card
+784,1032,2024-12-27,Groceries,886.25,Tru Valu,Chaguanas,Mobile Payment
+785,1024,2024-06-27,Entertainment,660.89,TriniCinema,Arima,Bank Transfer
+786,1076,2024-09-28,Entertainment,326.95,MovieTowne,Chaguanas,Bank Transfer
+787,1069,2024-01-01,Shopping,1556.32,Courts,Point Fortin,Mobile Payment
+788,1093,2024-11-13,Entertainment,1716.52,MovieTowne,Point Fortin,Debit Card
+789,1041,2024-04-07,Dining,1057.66,Mario's,Arima,Debit Card
+790,1078,2024-07-28,Travel,1288.99,Uber,Port of Spain,Credit Card
+791,1066,2024-03-07,Dining,373.7,KFC,Port of Spain,Debit Card
+792,1013,2024-02-20,Fuel,83.0,NP Gas Station,Tobago,Mobile Payment
+793,1084,2024-11-15,Fuel,1408.6,Sol Gas,Chaguanas,Credit Card
+794,1046,2024-02-06,Utilities,45.91,Flow,San Fernando,Mobile Payment
+795,1010,2024-02-01,Fuel,734.63,Sol Gas,Tobago,Mobile Payment
+796,1047,2024-05-16,Groceries,1067.46,Xtra Foods,Tobago,Credit Card
+797,1038,2024-09-22,Dining,212.3,Royal Castle,Tobago,Debit Card
+798,1068,2024-04-08,Health,1061.86,St. Clair Medical,San Fernando,Debit Card
+799,1071,2024-02-24,Health,1537.24,Trincity Medical,Point Fortin,Bank Transfer
+800,1086,2024-12-06,Fuel,865.61,Sol Gas,Port of Spain,Debit Card
+801,1023,2024-06-21,Health,1321.91,Trincity Medical,Point Fortin,Mobile Payment
+802,1045,2024-06-15,Shopping,1692.81,PriceSmart,Arima,Mobile Payment
+803,1092,2024-05-03,Shopping,1135.03,PriceSmart,San Fernando,Mobile Payment
+804,1098,2024-08-19,Travel,906.05,Uber,Arima,Credit Card
+805,1092,2024-11-01,Groceries,52.28,Tru Valu,San Fernando,Bank Transfer
+806,1000,2024-04-19,Travel,1714.33,Caribbean Airlines,Port of Spain,Bank Transfer
+807,1070,2024-01-20,Entertainment,931.53,MovieTowne,San Fernando,Debit Card
+808,1033,2024-05-07,Shopping,481.33,PriceSmart,Chaguanas,Credit Card
+809,1073,2024-04-21,Health,1473.85,Trincity Medical,Tobago,Bank Transfer
+810,1061,2024-12-19,Entertainment,1411.64,Cinemax,Port of Spain,Bank Transfer
+811,1004,2024-01-29,Health,1845.31,St. Clair Medical,Chaguanas,Bank Transfer
+812,1055,2024-04-26,Health,1500.4,St. Clair Medical,Point Fortin,Credit Card
+813,1081,2024-06-05,Health,1058.28,St. Clair Medical,Chaguanas,Debit Card
+814,1041,2024-01-26,Utilities,1353.8,T&TEC,Arima,Mobile Payment
+815,1096,2024-08-09,Dining,593.77,Royal Castle,Arima,Debit Card
+816,1016,2024-08-31,Shopping,1151.45,Excellent Stores,Port of Spain,Mobile Payment
+817,1033,2024-09-13,Dining,880.29,Mario's,Tobago,Debit Card
+818,1097,2024-10-13,Entertainment,412.25,Cinemax,Arima,Debit Card
+819,1071,2024-02-06,Utilities,547.19,T&TEC,Arima,Bank Transfer
+820,1087,2024-12-09,Dining,838.89,KFC,Chaguanas,Bank Transfer
+821,1024,2024-10-31,Shopping,1317.71,Courts,Chaguanas,Debit Card
+822,1044,2024-03-15,Fuel,892.12,Sol Gas,San Fernando,Debit Card
+823,1087,2024-02-13,Shopping,242.5,Excellent Stores,Port of Spain,Debit Card
+824,1079,2024-01-08,Entertainment,699.68,Cinemax,Port of Spain,Bank Transfer
+825,1057,2024-06-18,Fuel,433.84,NP Gas Station,Point Fortin,Debit Card
+826,1026,2024-09-04,Travel,1253.62,Hyatt,San Fernando,Credit Card
+827,1048,2024-03-28,Groceries,139.02,Tru Valu,San Fernando,Bank Transfer
+828,1006,2024-01-05,Fuel,151.86,Sol Gas,Tobago,Bank Transfer
+829,1084,2024-01-10,Shopping,599.14,Excellent Stores,Tobago,Mobile Payment
+830,1029,2024-12-29,Health,217.22,Trincity Medical,Chaguanas,Mobile Payment
+831,1076,2024-04-11,Dining,1011.29,Royal Castle,Arima,Credit Card
+832,1005,2024-06-05,Utilities,680.47,Flow,Arima,Debit Card
+833,1002,2024-06-29,Shopping,723.65,PriceSmart,Chaguanas,Debit Card
+834,1064,2024-11-16,Travel,530.21,Caribbean Airlines,Arima,Credit Card
+835,1071,2024-03-18,Travel,696.74,Caribbean Airlines,Arima,Debit Card
+836,1011,2024-12-13,Health,1232.65,Trincity Medical,Tobago,Debit Card
+837,1053,2024-03-19,Utilities,864.4,Flow,Chaguanas,Bank Transfer
+838,1057,2024-11-30,Entertainment,294.38,MovieTowne,Point Fortin,Debit Card
+839,1017,2024-12-27,Travel,1799.31,Hyatt,San Fernando,Mobile Payment
+840,1098,2024-10-16,Entertainment,1835.88,TriniCinema,Chaguanas,Credit Card
+841,1071,2024-06-11,Dining,1682.25,Royal Castle,San Fernando,Credit Card
+842,1097,2024-07-29,Shopping,620.63,Courts,Tobago,Bank Transfer
+843,1019,2024-03-08,Utilities,385.8,T&TEC,Point Fortin,Bank Transfer
+844,1077,2024-04-28,Utilities,477.21,Flow,Port of Spain,Bank Transfer
+845,1010,2024-09-14,Fuel,1695.35,NP Gas Station,Arima,Bank Transfer
+846,1023,2024-08-30,Health,292.28,HealthNet,San Fernando,Debit Card
+847,1004,2024-05-18,Health,1901.39,St. Clair Medical,San Fernando,Debit Card
+848,1096,2024-03-31,Utilities,1855.66,T&TEC,Arima,Mobile Payment
+849,1088,2024-05-06,Shopping,866.56,Courts,Port of Spain,Mobile Payment
+850,1092,2024-11-09,Shopping,1879.5,Courts,Point Fortin,Credit Card
+851,1066,2024-08-21,Dining,1657.48,Mario's,Port of Spain,Debit Card
+852,1066,2024-01-21,Health,1124.25,Trincity Medical,Point Fortin,Credit Card
+853,1024,2024-07-22,Travel,1771.11,Uber,Chaguanas,Mobile Payment
+854,1021,2024-11-09,Health,1839.68,HealthNet,Tobago,Debit Card
+855,1059,2024-09-13,Fuel,244.08,NP Gas Station,Point Fortin,Debit Card
+856,1050,2024-08-18,Health,69.33,HealthNet,Arima,Debit Card
+857,1058,2024-06-14,Dining,1389.6,Starbucks,Tobago,Debit Card
+858,1091,2024-02-28,Dining,1418.33,KFC,Tobago,Bank Transfer
+859,1010,2024-09-18,Health,1231.9,Trincity Medical,San Fernando,Mobile Payment
+860,1070,2024-03-28,Health,1826.26,St. Clair Medical,Point Fortin,Debit Card
+861,1020,2024-12-30,Entertainment,121.59,MovieTowne,Chaguanas,Bank Transfer
+862,1093,2024-11-16,Fuel,377.78,Unipet,San Fernando,Debit Card
+863,1000,2024-08-22,Travel,1005.3,Caribbean Airlines,Arima,Credit Card
+864,1077,2024-04-21,Fuel,1185.95,NP Gas Station,Arima,Mobile Payment
+865,1052,2024-11-03,Fuel,1208.2,NP Gas Station,San Fernando,Bank Transfer
+866,1079,2024-04-04,Utilities,313.55,T&TEC,Tobago,Bank Transfer
+867,1004,2024-12-07,Entertainment,1164.62,MovieTowne,Point Fortin,Bank Transfer
+868,1042,2024-02-25,Dining,845.57,KFC,San Fernando,Debit Card
+869,1086,2024-12-04,Travel,1389.2,Hyatt,Point Fortin,Debit Card
+870,1058,2024-02-17,Shopping,1541.65,Excellent Stores,Chaguanas,Bank Transfer
+871,1048,2024-10-08,Dining,148.55,Mario's,Arima,Debit Card
+872,1015,2024-09-26,Travel,839.24,Uber,San Fernando,Debit Card
+873,1078,2024-10-19,Groceries,1464.86,Massy Stores,Tobago,Credit Card
+874,1061,2024-11-07,Travel,1698.64,Uber,Chaguanas,Bank Transfer
+875,1016,2024-11-19,Fuel,1005.53,Sol Gas,San Fernando,Debit Card
+876,1090,2024-01-01,Travel,254.05,Caribbean Airlines,Arima,Credit Card
+877,1094,2024-07-31,Utilities,839.8,Flow,Chaguanas,Bank Transfer
+878,1071,2024-11-23,Utilities,418.35,T&TEC,Chaguanas,Bank Transfer
+879,1008,2024-09-16,Travel,1108.99,Uber,Port of Spain,Credit Card
+880,1087,2024-07-21,Shopping,1454.31,Courts,Point Fortin,Credit Card
+881,1022,2024-06-22,Utilities,1846.11,WASA,Arima,Mobile Payment
+882,1004,2024-03-20,Entertainment,1261.86,Cinemax,Point Fortin,Bank Transfer
+883,1059,2024-01-29,Health,1673.51,Trincity Medical,Chaguanas,Bank Transfer
+884,1071,2024-10-22,Groceries,1377.28,Massy Stores,Chaguanas,Credit Card
+885,1019,2024-06-22,Travel,1967.57,Caribbean Airlines,Tobago,Debit Card
+886,1073,2024-10-31,Health,251.35,St. Clair Medical,Chaguanas,Bank Transfer
+887,1090,2024-07-30,Groceries,191.86,Tru Valu,San Fernando,Bank Transfer
+888,1057,2024-09-25,Travel,618.59,Caribbean Airlines,Port of Spain,Bank Transfer
+889,1100,2024-02-17,Groceries,898.67,Massy Stores,Port of Spain,Mobile Payment
+890,1064,2024-06-23,Entertainment,1848.8,MovieTowne,Tobago,Bank Transfer
+891,1099,2024-02-20,Shopping,1647.83,Excellent Stores,Point Fortin,Debit Card
+892,1026,2024-07-17,Groceries,1433.08,Tru Valu,Point Fortin,Credit Card
+893,1000,2024-12-17,Travel,1699.29,Caribbean Airlines,Port of Spain,Bank Transfer
+894,1059,2024-09-23,Groceries,1537.04,Massy Stores,Tobago,Bank Transfer
+895,1002,2024-04-17,Travel,655.34,Hyatt,San Fernando,Bank Transfer
+896,1035,2024-12-09,Shopping,252.95,Courts,San Fernando,Debit Card
+897,1035,2024-11-14,Dining,1128.06,KFC,Port of Spain,Debit Card
+898,1069,2024-06-12,Shopping,556.68,PriceSmart,Tobago,Bank Transfer
+899,1073,2024-02-06,Utilities,636.53,T&TEC,Chaguanas,Mobile Payment
+900,1006,2024-08-29,Entertainment,1808.52,MovieTowne,Port of Spain,Credit Card
+901,1049,2024-08-06,Groceries,796.0,Massy Stores,Tobago,Mobile Payment
+902,1078,2024-06-19,Shopping,1638.54,Courts,Tobago,Credit Card
+903,1096,2024-03-08,Fuel,203.97,Sol Gas,Tobago,Mobile Payment
+904,1012,2024-12-16,Fuel,1295.95,Unipet,Arima,Mobile Payment
+905,1029,2024-11-11,Utilities,530.94,T&TEC,Chaguanas,Mobile Payment
+906,1023,2024-08-20,Shopping,985.26,Courts,Port of Spain,Mobile Payment
+907,1014,2024-08-24,Shopping,1694.62,Courts,Chaguanas,Bank Transfer
+908,1077,2024-02-22,Entertainment,823.26,TriniCinema,Tobago,Credit Card
+909,1041,2024-09-29,Dining,932.73,Starbucks,Point Fortin,Mobile Payment
+910,1030,2024-03-22,Utilities,1948.31,Flow,Arima,Credit Card
+911,1043,2024-10-29,Utilities,873.67,Flow,Arima,Bank Transfer
+912,1069,2024-12-05,Utilities,1345.82,T&TEC,Tobago,Mobile Payment
+913,1014,2024-10-11,Fuel,213.35,Unipet,Arima,Debit Card
+914,1039,2024-11-02,Health,235.31,St. Clair Medical,Point Fortin,Mobile Payment
+915,1041,2024-12-04,Fuel,141.73,Sol Gas,San Fernando,Debit Card
+916,1074,2024-12-04,Groceries,315.45,Massy Stores,Point Fortin,Bank Transfer
+917,1049,2024-04-15,Fuel,1369.4,NP Gas Station,Chaguanas,Bank Transfer
+918,1072,2024-06-25,Travel,1980.77,Uber,Point Fortin,Credit Card
+919,1078,2024-05-30,Health,143.57,St. Clair Medical,Point Fortin,Credit Card
+920,1000,2024-05-24,Shopping,1734.05,Excellent Stores,San Fernando,Mobile Payment
+921,1089,2024-06-11,Health,1429.31,Trincity Medical,Arima,Mobile Payment
+922,1055,2024-03-29,Utilities,960.25,Flow,San Fernando,Mobile Payment
+923,1046,2024-05-27,Health,1994.96,St. Clair Medical,Tobago,Debit Card
+924,1017,2024-11-27,Groceries,51.1,Massy Stores,Tobago,Mobile Payment
+925,1084,2024-02-13,Health,291.7,St. Clair Medical,Arima,Mobile Payment
+926,1100,2024-04-02,Health,919.7,Trincity Medical,Arima,Mobile Payment
+927,1049,2024-04-05,Shopping,861.05,Excellent Stores,Port of Spain,Mobile Payment
+928,1093,2024-09-13,Utilities,553.12,Flow,Point Fortin,Bank Transfer
+929,1004,2024-09-04,Groceries,1415.67,Xtra Foods,Port of Spain,Mobile Payment
+930,1088,2024-09-26,Dining,1967.49,Royal Castle,Chaguanas,Mobile Payment
+931,1066,2024-05-05,Dining,955.45,KFC,Tobago,Credit Card
+932,1087,2024-01-28,Travel,1809.1,Hyatt,Point Fortin,Credit Card
+933,1060,2024-08-28,Fuel,1156.45,Sol Gas,Chaguanas,Mobile Payment
+934,1045,2024-03-26,Travel,89.95,Uber,Point Fortin,Bank Transfer
+935,1093,2024-11-18,Travel,956.86,Caribbean Airlines,San Fernando,Credit Card
+936,1084,2024-11-15,Travel,74.05,Hyatt,Arima,Credit Card
+937,1016,2024-05-09,Dining,282.43,Starbucks,Chaguanas,Bank Transfer
+938,1032,2024-02-27,Groceries,1215.57,Xtra Foods,Point Fortin,Debit Card
+939,1084,2024-03-30,Fuel,537.28,Unipet,Tobago,Debit Card
+940,1062,2024-01-17,Entertainment,698.84,TriniCinema,Port of Spain,Debit Card
+941,1076,2024-07-30,Entertainment,1545.33,Cinemax,San Fernando,Mobile Payment
+942,1092,2024-10-22,Entertainment,1474.03,MovieTowne,Chaguanas,Credit Card
+943,1082,2024-01-27,Travel,351.85,Caribbean Airlines,Arima,Mobile Payment
+944,1038,2024-09-29,Fuel,482.65,Sol Gas,Tobago,Mobile Payment
+945,1060,2024-09-28,Travel,1743.15,Caribbean Airlines,Port of Spain,Bank Transfer
+946,1057,2024-06-10,Health,1924.29,Trincity Medical,Tobago,Credit Card
+947,1012,2024-11-08,Shopping,1837.72,Courts,Chaguanas,Bank Transfer
+948,1034,2024-05-10,Travel,1315.6,Caribbean Airlines,Arima,Mobile Payment
+949,1098,2024-12-10,Utilities,1185.67,Flow,San Fernando,Bank Transfer
+950,1086,2024-10-07,Entertainment,40.94,Cinemax,Port of Spain,Credit Card
+951,1001,2024-09-25,Health,225.74,St. Clair Medical,Arima,Bank Transfer
+952,1028,2024-04-08,Travel,87.4,Uber,Point Fortin,Credit Card
+953,1007,2024-11-22,Utilities,261.14,Flow,Port of Spain,Credit Card
+954,1077,2024-12-02,Entertainment,1532.44,Cinemax,Tobago,Debit Card
+955,1014,2024-05-30,Entertainment,944.57,Cinemax,Port of Spain,Mobile Payment
+956,1035,2024-12-07,Health,1544.36,Trincity Medical,Chaguanas,Bank Transfer
+957,1020,2024-02-01,Dining,777.94,Starbucks,Chaguanas,Credit Card
+958,1033,2024-08-13,Travel,157.41,Caribbean Airlines,San Fernando,Mobile Payment
+959,1022,2024-03-14,Fuel,1090.45,NP Gas Station,Arima,Debit Card
+960,1078,2024-05-12,Dining,224.51,Mario's,Port of Spain,Credit Card
+961,1073,2024-01-10,Travel,1795.09,Uber,San Fernando,Credit Card
+962,1004,2024-03-18,Health,1406.11,HealthNet,Arima,Credit Card
+963,1065,2024-08-11,Fuel,819.75,Unipet,Tobago,Credit Card
+964,1069,2024-07-15,Utilities,1909.23,T&TEC,Arima,Credit Card
+965,1072,2024-12-15,Shopping,619.6,Courts,Port of Spain,Credit Card
+966,1046,2024-08-23,Shopping,1525.7,Excellent Stores,Chaguanas,Debit Card
+967,1022,2024-12-04,Groceries,398.19,Tru Valu,Tobago,Mobile Payment
+968,1013,2024-02-13,Shopping,1772.72,Courts,Arima,Debit Card
+969,1017,2024-01-13,Groceries,1445.08,Massy Stores,Point Fortin,Debit Card
+970,1062,2024-10-03,Health,1293.95,St. Clair Medical,Arima,Mobile Payment
+971,1002,2024-01-29,Groceries,688.68,Tru Valu,Tobago,Credit Card
+972,1051,2024-11-30,Dining,1341.29,Royal Castle,Arima,Debit Card
+973,1094,2024-01-19,Utilities,1476.21,T&TEC,Arima,Credit Card
+974,1060,2024-12-25,Groceries,1304.6,Massy Stores,Port of Spain,Debit Card
+975,1080,2024-02-19,Groceries,923.25,Tru Valu,San Fernando,Credit Card
+976,1013,2024-10-31,Dining,1602.37,Mario's,San Fernando,Credit Card
+977,1025,2024-12-13,Health,815.98,HealthNet,Port of Spain,Debit Card
+978,1041,2024-10-30,Utilities,363.43,T&TEC,Port of Spain,Credit Card
+979,1035,2024-03-27,Entertainment,1398.67,Cinemax,Point Fortin,Debit Card
+980,1056,2024-01-21,Utilities,284.07,Flow,Tobago,Mobile Payment
+981,1099,2024-09-06,Entertainment,179.83,MovieTowne,Port of Spain,Debit Card
+982,1011,2024-12-21,Travel,1618.68,Uber,Arima,Debit Card
+983,1026,2024-05-18,Entertainment,1055.71,TriniCinema,Arima,Debit Card
+984,1022,2024-04-02,Groceries,1440.05,Xtra Foods,Point Fortin,Credit Card
+985,1080,2024-08-02,Travel,29.05,Uber,San Fernando,Debit Card
+986,1015,2024-10-03,Dining,1024.93,Starbucks,Arima,Debit Card
+987,1035,2024-02-27,Groceries,1597.29,Massy Stores,Tobago,Mobile Payment
+988,1063,2024-12-09,Entertainment,1846.89,MovieTowne,Port of Spain,Bank Transfer
+989,1036,2024-05-08,Utilities,681.9,WASA,Arima,Credit Card
+990,1013,2024-03-31,Groceries,332.93,Xtra Foods,Port of Spain,Mobile Payment
+991,1065,2024-04-30,Dining,1448.38,KFC,Point Fortin,Bank Transfer
+992,1053,2024-12-12,Utilities,1798.78,Flow,San Fernando,Credit Card
+993,1041,2024-05-01,Utilities,1480.74,T&TEC,San Fernando,Mobile Payment
+994,1028,2024-10-26,Dining,979.13,Mario's,Arima,Debit Card
+995,1027,2024-07-17,Fuel,759.5,NP Gas Station,Arima,Debit Card
+996,1080,2024-04-13,Shopping,685.06,Courts,Port of Spain,Credit Card
+997,1035,2024-08-26,Entertainment,927.99,MovieTowne,San Fernando,Bank Transfer
+998,1028,2024-03-21,Travel,1583.3,Hyatt,Tobago,Debit Card
+999,1073,2024-07-29,Utilities,1716.81,T&TEC,Arima,Debit Card
+1000,1075,2024-05-22,Fuel,48.72,Unipet,Arima,Debit Card
