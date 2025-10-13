@@ -1,0 +1,501 @@
+EmployeeID,Name,Department,Role,Age,Gender,Salary,HireDate,TerminationDate,PerformanceScore,SatisfactionLevel,YearsAtCompany,Attrition
+1,Colleen Smith,Sales,Sales Executive,56,Male,63014.76,2022-04-23,,6.8,6.9,3.5,No
+2,Teresa Atkinson,Engineering,DevOps Engineer,25,Other,66382.38,2021-11-29,,8.4,4.3,3.9,No
+3,Brandon Allen,Marketing,Marketing Manager,33,Male,41122.3,2017-07-14,,8.9,6.7,8.2,No
+4,Mrs. Cynthia Lawrence,Support,Support Agent,22,Male,53677.0,2018-06-18,,8.0,6.6,7.3,No
+5,Angela Flores,Support,Support Lead,28,Male,76374.46,2016-08-09,,8.4,5.0,9.2,No
+6,Bridget Arnold,HR,HR Executive,48,Female,113023.29,2019-12-25,2024-02-20,6.6,6.4,5.8,Yes
+7,Johnny Wilson,Engineering,DevOps Engineer,52,Male,61363.0,2022-01-06,,6.6,6.4,3.8,No
+8,Emily Hudson,HR,HR Executive,44,Other,92805.52,2021-09-17,,5.9,6.9,4.1,No
+9,Tyler Thornton Jr.,HR,Recruiter,24,Male,51615.5,2018-09-30,,6.0,8.8,7.0,No
+10,Jay Richardson,Engineering,DevOps Engineer,49,Female,70915.31,2016-06-29,2022-08-15,9.2,6.4,9.3,Yes
+11,Traci Morales,Engineering,DevOps Engineer,46,Female,86846.93,2023-03-30,2024-03-25,6.6,4.3,2.5,Yes
+12,Amy Moore,Operations,Operations Coordinator,56,Other,70987.74,2022-12-22,,7.7,8.2,2.8,No
+13,Michael Barrett,Sales,Sales Manager,36,Other,48953.94,2018-07-18,2021-07-10,5.3,4.6,7.2,Yes
+14,Katherine Lee,Finance,Accountant,60,Other,94210.03,2024-08-03,,9.4,6.3,1.2,No
+15,Andrea Stewart,HR,HR Manager,23,Male,100269.1,2022-11-04,,5.2,9.7,2.9,No
+16,Michael Hughes Jr.,Marketing,Marketing Executive,58,Male,46493.64,2023-01-05,,6.9,7.1,2.8,No
+17,Zachary Prince MD,Engineering,DevOps Engineer,27,Other,45764.98,2015-10-12,,8.9,4.1,10.0,No
+18,Bailey Baird,Engineering,QA Engineer,23,Female,80942.97,2019-04-07,,7.1,4.2,6.5,No
+19,Katrina Butler,Support,Support Lead,34,Male,88597.81,2018-12-03,2025-08-01,9.9,5.6,6.9,Yes
+20,Ronald Salinas,Sales,Sales Manager,34,Other,82980.19,2019-10-04,,6.3,6.8,6.0,No
+21,Jason Wu,Engineering,Software Engineer,47,Female,31827.63,2019-04-03,2023-09-03,9.2,7.3,6.5,Yes
+22,Sandra Mcmillan,Sales,Account Manager,51,Other,73966.54,2017-04-19,2023-03-14,9.5,4.3,8.5,Yes
+23,Jeff Hensley,Sales,Account Manager,27,Female,61202.28,2018-05-02,,7.4,6.5,7.4,No
+24,Austin Calhoun,Support,Support Lead,43,Male,64966.25,2020-05-06,,9.1,6.8,5.4,No
+25,Alan Haas,Engineering,QA Engineer,47,Other,56515.59,2024-06-05,,5.2,4.6,1.4,No
+26,Kristina Moreno,Sales,Sales Manager,34,Female,96119.89,2020-09-09,,6.9,7.5,5.1,No
+27,Kristin Baker,Support,Support Agent,36,Female,60940.63,2017-07-08,,7.5,5.1,8.3,No
+28,Kevin Anderson,Operations,Operations Coordinator,25,Other,73025.88,2020-12-16,,9.4,8.2,4.8,No
+29,Andrea Ward,Engineering,DevOps Engineer,44,Female,79268.15,2017-11-19,2025-06-01,7.5,7.3,7.9,Yes
+30,Renee Sheppard,Engineering,Software Engineer,31,Other,64480.69,2016-07-14,,6.1,8.0,9.2,No
+31,Vanessa Grimes,Sales,Sales Executive,44,Female,74076.67,2020-09-08,,10.0,8.4,5.1,No
+32,Shannon Guerrero,Sales,Sales Manager,60,Female,63536.91,2018-10-16,2023-05-28,9.7,8.3,7.0,Yes
+33,Jennifer Burgess,Marketing,Marketing Manager,56,Other,50952.9,2021-11-15,,6.8,8.3,3.9,No
+34,Matthew Webb,Marketing,Marketing Executive,41,Male,36090.94,2018-12-10,,5.5,4.1,6.8,No
+35,Brian Hall,Engineering,Software Engineer,55,Other,61780.72,2021-02-25,2021-11-24,5.4,7.1,4.6,Yes
+36,Angela Bean,Finance,Finance Manager,30,Male,89528.58,2019-09-24,,5.4,7.1,6.1,No
+37,Joshua Rice,HR,HR Manager,32,Female,77135.23,2019-03-24,,6.4,6.5,6.6,No
+38,Sherry Parker,Support,Support Lead,33,Male,78742.16,2023-10-04,,5.7,7.5,2.0,No
+39,Cassie Chen,Operations,Operations Coordinator,43,Other,77694.18,2015-11-07,,7.9,8.3,9.9,No
+40,Kyle Baker,Support,Support Agent,45,Male,71972.99,2025-08-16,2025-09-03,8.6,7.2,0.2,Yes
+41,Kelsey Terry,Engineering,Software Engineer,60,Other,66335.92,2016-03-24,,8.2,6.7,9.6,No
+42,Michael Mullins,Sales,Sales Manager,60,Male,70519.83,2016-02-17,,6.8,9.5,9.7,No
+43,Jennifer Roberson,HR,HR Manager,54,Female,57411.63,2018-02-10,,6.5,7.5,7.7,No
+44,Mitchell Hill,HR,HR Manager,55,Female,67426.55,2025-07-05,,8.3,8.0,0.3,No
+45,Derek Collier,HR,Recruiter,26,Male,75318.85,2024-05-08,,6.4,6.5,1.4,No
+46,Kevin Bell,Sales,Account Manager,33,Other,68472.55,2016-01-05,,8.8,7.8,9.8,No
+47,Elizabeth Rice,Finance,Financial Analyst,47,Male,68964.24,2015-11-15,,6.9,4.9,9.9,No
+48,Steven West,Support,Support Agent,33,Female,62618.8,2017-08-16,,10.0,6.8,8.2,No
+49,Eric Jimenez,Marketing,SEO Specialist,27,Female,84890.12,2018-09-15,,9.3,4.6,7.1,No
+50,Rachel Hayden,Finance,Financial Analyst,57,Other,57201.95,2022-09-12,2022-10-22,7.0,5.1,3.1,Yes
+51,Jesse Jones,Support,Support Agent,52,Other,66956.14,2019-06-21,,5.6,7.1,6.3,No
+52,Lauren Chapman,Operations,Operations Coordinator,52,Female,76825.76,2019-11-24,,7.9,9.8,5.9,No
+53,Matthew Dunn,Engineering,DevOps Engineer,58,Other,82657.34,2020-03-29,,7.6,7.1,5.5,No
+54,Victoria Richards,HR,HR Manager,40,Female,87753.22,2023-04-12,,6.9,6.8,2.5,No
+55,Robert Ramirez,Marketing,Marketing Executive,24,Female,75750.56,2024-10-17,,5.5,8.4,1.0,No
+56,Mr. Robert Banks,Support,Support Lead,39,Female,57246.63,2021-03-01,,5.4,4.7,4.6,No
+57,Douglas Beck,HR,Recruiter,31,Female,56348.2,2021-01-31,,8.9,5.8,4.7,No
+58,John Bailey,Sales,Account Manager,59,Male,75170.51,2016-11-25,,7.2,4.6,8.9,No
+59,Nicole Price,Operations,Operations Manager,40,Female,61056.73,2024-12-15,,6.9,6.4,0.8,No
+60,Lindsey Solomon,Engineering,QA Engineer,54,Male,71759.82,2025-10-07,,7.0,8.7,0.0,No
+61,Ruth Dawson,Engineering,QA Engineer,24,Female,55292.01,2022-04-06,2024-05-29,5.4,4.1,3.5,Yes
+62,Jessica Scott,Finance,Finance Manager,31,Female,92550.24,2024-09-25,,9.0,7.3,1.0,No
+63,Melissa Strickland,Marketing,SEO Specialist,23,Male,71990.96,2021-05-30,,8.4,7.6,4.4,No
+64,Teresa Delacruz,Engineering,Software Engineer,54,Other,50169.28,2017-11-17,,6.6,5.0,7.9,No
+65,Lisa Williams,Marketing,SEO Specialist,56,Male,56541.85,2020-12-14,,8.4,5.3,4.8,No
+66,Brooke Peterson,Support,Support Lead,51,Other,66457.77,2020-09-27,2025-06-20,9.7,4.1,5.0,Yes
+67,Patrick Stevens,Marketing,Marketing Manager,31,Other,53871.1,2016-08-06,,9.2,7.8,9.2,No
+68,Rebecca Banks,Operations,Operations Coordinator,33,Female,80099.97,2022-05-21,,9.9,9.5,3.4,No
+69,Matthew Munoz,Finance,Financial Analyst,36,Other,52631.17,2020-11-15,,7.5,9.7,4.9,No
+70,Jennifer Webb,Sales,Account Manager,27,Male,57240.52,2017-08-22,,5.8,6.6,8.1,No
+71,Kimberly Stout,Support,Support Agent,35,Female,88866.45,2024-11-14,,7.8,4.7,0.9,No
+72,Brandi Chavez,Operations,Operations Manager,34,Female,37728.19,2020-07-05,,8.4,9.8,5.3,No
+73,Charles French,Finance,Accountant,54,Male,57440.4,2022-07-29,,6.1,5.6,3.2,No
+74,Miss Suzanne Thomas,Engineering,QA Engineer,31,Female,76382.78,2019-03-16,,8.2,4.2,6.6,No
+75,Amanda Turner,Engineering,Software Engineer,49,Other,65866.35,2021-10-23,,9.0,7.8,4.0,No
+76,Sheila Nguyen,Support,Support Lead,56,Male,59168.61,2017-12-22,2025-02-06,7.9,9.4,7.8,Yes
+77,Teresa Farrell,Sales,Account Manager,57,Male,74827.35,2019-07-27,,5.8,4.3,6.2,No
+78,James Jones,Finance,Accountant,50,Female,50908.87,2022-09-15,,5.3,7.7,3.1,No
+79,Shannon Fischer,Engineering,QA Engineer,40,Female,82249.4,2025-03-14,,5.2,5.4,0.6,No
+80,Jennifer Norman,Sales,Sales Executive,42,Other,100202.76,2022-08-19,,8.4,4.3,3.1,No
+81,Wendy Villanueva,Marketing,SEO Specialist,36,Other,98132.52,2022-06-14,,7.2,7.4,3.3,No
+82,David Collins,Finance,Financial Analyst,53,Other,81233.64,2019-01-09,,5.8,6.6,6.8,No
+83,Derek Mosley,Sales,Sales Manager,59,Male,71648.29,2020-04-18,,7.5,6.9,5.5,No
+84,Jennifer Banks,Marketing,SEO Specialist,32,Other,57061.65,2024-03-18,,8.1,6.6,1.6,No
+85,Jesse White,Support,Support Agent,45,Male,93240.42,2023-03-14,,8.9,4.9,2.6,No
+86,Paula Williams,HR,Recruiter,35,Female,69594.44,2025-07-18,,9.9,9.1,0.2,No
+87,Matthew Carroll,Marketing,Marketing Manager,52,Female,53573.3,2017-01-10,,9.0,5.8,8.8,No
+88,Kimberly Watson,Finance,Finance Manager,38,Female,39732.8,2021-07-06,,5.5,4.2,4.3,No
+89,William Parsons,Engineering,Software Engineer,29,Male,60343.95,2019-03-29,,6.9,6.6,6.5,No
+90,Sierra Carter,Support,Support Agent,40,Female,70015.95,2020-08-18,,6.6,9.5,5.2,No
+91,Catherine Harris,Engineering,DevOps Engineer,25,Female,78834.37,2017-08-19,,6.6,4.1,8.2,No
+92,Chris Williams,Sales,Sales Executive,39,Other,106761.94,2017-08-30,,8.3,4.7,8.1,No
+93,Howard Blanchard,Support,Support Agent,50,Male,45591.89,2024-08-14,,9.3,5.3,1.2,No
+94,James Simmons,Marketing,Marketing Manager,46,Male,60916.18,2024-09-22,,9.2,9.5,1.1,No
+95,Jaclyn Hayes,Finance,Finance Manager,40,Other,73075.71,2024-01-17,,6.2,8.1,1.7,No
+96,Matthew Marsh,Finance,Accountant,25,Male,61842.05,2020-06-04,2023-01-03,6.1,9.2,5.4,Yes
+97,Denise Potter,HR,Recruiter,45,Other,73949.87,2023-01-26,,9.7,7.3,2.7,No
+98,Amy Solis,Operations,Operations Coordinator,50,Other,83660.48,2024-02-06,,6.9,6.9,1.7,No
+99,Katie Whitaker,Support,Support Lead,55,Female,74092.18,2022-08-09,2025-03-10,6.6,10.0,3.2,Yes
+100,Anthony Glass,Engineering,Software Engineer,39,Other,88165.55,2016-03-17,,9.3,8.5,9.6,No
+101,Sarah Dorsey,Marketing,SEO Specialist,38,Female,61755.27,2019-10-10,,8.2,4.0,6.0,No
+102,Shannon Fox,Support,Support Lead,49,Male,64898.49,2025-04-28,,9.3,6.6,0.5,No
+103,Andrew Hall,Operations,Operations Manager,55,Male,58815.06,2021-09-23,2023-03-22,8.5,4.4,4.1,Yes
+104,Eric Ball,HR,HR Executive,35,Male,74857.99,2017-10-27,,6.0,6.7,8.0,No
+105,Daniel Curry,Sales,Sales Manager,39,Other,40643.73,2019-06-14,,6.8,8.2,6.3,No
+106,Abigail Gomez,HR,Recruiter,47,Female,72139.66,2022-10-23,,9.2,5.1,3.0,No
+107,Sheila Stanton,Support,Support Lead,23,Male,77751.48,2022-09-25,,7.8,7.7,3.0,No
+108,Cindy Walker,HR,HR Executive,52,Other,64202.68,2022-05-27,2024-02-09,8.9,5.5,3.4,Yes
+109,Harold Jackson,Sales,Account Manager,50,Female,61054.91,2021-07-26,,6.3,8.3,4.2,No
+110,Christian Washington,Finance,Financial Analyst,54,Female,63799.7,2019-05-10,2022-05-29,9.0,8.7,6.4,Yes
+111,Leslie Brown,HR,Recruiter,55,Other,57775.5,2019-07-04,2024-05-02,6.7,8.6,6.3,Yes
+112,Michael Williams,Marketing,Marketing Manager,35,Male,76250.15,2019-06-05,,6.9,4.4,6.4,No
+113,Brandon Black,Engineering,QA Engineer,48,Other,53340.3,2023-05-07,,5.8,4.5,2.4,No
+114,Donald Norman,Finance,Financial Analyst,56,Male,47227.11,2022-05-06,,9.5,5.9,3.4,No
+115,Tony Cooke,Engineering,QA Engineer,24,Female,65854.22,2019-06-14,2024-08-21,8.2,4.4,6.3,Yes
+116,Gregory Martinez,Sales,Sales Manager,26,Other,56666.67,2021-07-01,,5.5,7.2,4.3,No
+117,Crystal Haney DVM,Operations,Operations Manager,41,Male,63610.69,2020-08-31,,6.2,9.7,5.1,No
+118,Kara Crawford,Finance,Accountant,37,Male,83272.34,2016-03-14,,8.1,9.0,9.6,No
+119,Brittany Dunn,Support,Support Agent,24,Male,93656.71,2023-05-14,,6.6,8.1,2.4,No
+120,Jamie Garza,Sales,Account Manager,55,Other,55588.73,2021-08-15,,5.6,8.5,4.2,No
+121,Jesus Carter,Sales,Sales Manager,41,Female,65232.88,2017-05-02,,8.8,9.4,8.4,No
+122,James Harrison,Finance,Accountant,45,Male,81267.41,2023-01-04,,9.1,5.3,2.8,No
+123,Dan Garcia,Finance,Financial Analyst,60,Male,80862.81,2019-02-02,,7.9,8.4,6.7,No
+124,Shelby Anderson,Sales,Sales Executive,52,Female,45632.34,2023-01-07,2025-08-16,7.6,5.0,2.8,Yes
+125,Brooke Molina,Operations,Operations Manager,47,Female,72456.97,2024-11-01,2025-07-13,8.9,9.1,0.9,Yes
+126,Vickie Garcia,Marketing,Marketing Executive,60,Male,81219.38,2023-03-17,,7.1,7.9,2.6,No
+127,Lynn Wilson,HR,HR Executive,29,Other,43802.02,2024-11-26,2025-09-13,7.7,7.6,0.9,Yes
+128,Joann Lloyd,Marketing,Marketing Manager,47,Female,84705.36,2015-12-03,2024-04-30,9.7,5.9,9.9,Yes
+129,Colton Mitchell,Operations,Operations Manager,30,Female,66562.06,2023-02-17,,6.5,9.9,2.6,No
+130,Erika Frederick,Finance,Financial Analyst,45,Female,73225.96,2017-06-14,,5.3,9.9,8.3,No
+131,Jacqueline Garza,Operations,Operations Coordinator,27,Female,86926.59,2025-06-10,,5.2,5.0,0.3,No
+132,April Cox,Marketing,Marketing Manager,48,Female,50132.51,2019-11-16,,7.1,7.2,5.9,No
+133,Michael Howard,Operations,Operations Manager,47,Other,56682.19,2019-12-24,2023-05-12,9.2,7.3,5.8,Yes
+134,Charles Hurley,Marketing,Marketing Executive,42,Female,69535.23,2018-12-05,2023-05-16,5.2,8.4,6.9,Yes
+135,Rachael Powers,Sales,Sales Manager,50,Male,72874.04,2021-01-07,,6.5,6.9,4.8,No
+136,Michael Johnson,Operations,Operations Coordinator,30,Male,70352.85,2021-01-18,,7.2,5.9,4.7,No
+137,Jeffrey Jenkins,Sales,Account Manager,32,Other,41637.3,2020-09-19,2021-03-20,8.3,8.1,5.1,Yes
+138,David Austin,Engineering,DevOps Engineer,50,Male,69423.3,2016-03-31,,7.4,7.2,9.5,No
+139,Christine Hernandez,Operations,Operations Manager,52,Female,81983.8,2017-05-17,,6.6,9.4,8.4,No
+140,Edwin Cook,Marketing,Marketing Executive,52,Male,46491.51,2024-04-02,,8.3,5.6,1.5,No
+141,Brad Richardson,Operations,Operations Coordinator,58,Female,75317.93,2016-06-28,,7.0,7.4,9.3,No
+142,Keith Perry,HR,Recruiter,50,Other,62939.63,2015-12-29,,7.0,6.8,9.8,No
+143,Lori Molina,Marketing,Marketing Manager,43,Other,93157.93,2023-01-13,2025-03-06,5.1,4.9,2.7,Yes
+144,Kimberly Brown,Engineering,QA Engineer,30,Male,84488.73,2022-07-25,,8.9,8.8,3.2,No
+145,Emily Park,Marketing,Marketing Manager,37,Female,88992.36,2019-02-16,,5.6,9.1,6.7,No
+146,Carol Johnson,Marketing,Marketing Executive,23,Male,63504.24,2019-04-25,,8.6,7.3,6.5,No
+147,Cindy Ewing,Engineering,DevOps Engineer,31,Other,69678.01,2021-12-17,,9.8,6.4,3.8,No
+148,Juan Merritt,Marketing,Marketing Manager,22,Female,61825.96,2022-07-11,,9.9,7.5,3.3,No
+149,Melissa Johnson,Engineering,DevOps Engineer,22,Male,56354.24,2023-01-22,,7.4,9.6,2.7,No
+150,Michelle Riley,Marketing,SEO Specialist,41,Other,64853.61,2021-08-21,,6.2,4.8,4.1,No
+151,Katherine Shannon,Support,Support Lead,58,Other,66493.34,2016-11-25,,9.1,7.0,8.9,No
+152,Stephen Soto,Sales,Account Manager,54,Female,97412.3,2024-11-29,,5.6,6.9,0.9,No
+153,John Newman,Engineering,DevOps Engineer,40,Other,87314.86,2018-01-06,,6.1,9.3,7.8,No
+154,Erin Rose,Engineering,Software Engineer,35,Other,53293.46,2025-01-16,2025-08-09,7.6,9.8,0.7,Yes
+155,Jonathon Joseph,Marketing,Marketing Manager,34,Male,65295.72,2017-12-02,,9.1,9.7,7.9,No
+156,Samantha Watson,Finance,Finance Manager,44,Other,35586.55,2025-06-03,,8.2,5.7,0.4,No
+157,Bruce Arnold,Marketing,Marketing Manager,32,Male,108222.5,2022-01-06,,8.2,8.7,3.8,No
+158,Tony Barnes,Sales,Sales Manager,25,Female,64025.21,2018-03-28,,9.4,6.5,7.5,No
+159,Miss Alexandria Jones,Support,Support Lead,43,Female,74496.34,2024-05-05,,5.6,7.4,1.4,No
+160,Meghan Peters,Engineering,Software Engineer,25,Male,70648.98,2017-11-01,,9.8,9.4,7.9,No
+161,Erin Allison,Sales,Sales Manager,58,Female,76610.2,2018-05-20,,7.3,8.4,7.4,No
+162,Ashley Lopez,Support,Support Lead,46,Other,84586.26,2021-06-19,,5.2,9.4,4.3,No
+163,Alicia Howard,Sales,Sales Manager,43,Female,71048.72,2022-06-09,2024-07-10,8.9,5.4,3.3,Yes
+164,Katherine Shields MD,Sales,Sales Executive,41,Male,55864.59,2021-11-06,,7.7,8.9,3.9,No
+165,Amber Moore,Marketing,Marketing Executive,29,Male,64672.3,2022-11-04,,5.4,9.9,2.9,No
+166,Thomas Castillo,Sales,Sales Manager,52,Male,70707.74,2016-02-27,2024-03-06,9.2,9.9,9.6,Yes
+167,Tami Singh,Sales,Account Manager,45,Male,69504.7,2020-01-09,,7.9,4.1,5.8,No
+168,Jerry Campos,HR,HR Executive,36,Other,85126.81,2017-06-03,,7.3,5.6,8.4,No
+169,Tanya Norman,Sales,Sales Executive,31,Male,49232.35,2017-04-12,,9.9,4.0,8.5,No
+170,Eric Moore,Support,Support Agent,42,Male,58730.92,2019-07-16,,5.8,8.6,6.2,No
+171,Laura Delgado,Operations,Operations Coordinator,49,Other,53490.71,2021-07-02,,9.7,4.9,4.3,No
+172,Adam Jones,Finance,Accountant,45,Other,58846.91,2018-08-02,,9.6,8.8,7.2,No
+173,Gregory Robles,Operations,Operations Coordinator,27,Female,57434.73,2020-08-17,2021-05-07,8.7,7.5,5.2,Yes
+174,Michelle Owens,Sales,Sales Executive,34,Other,36894.87,2025-06-29,2025-08-16,5.0,5.1,0.3,Yes
+175,Ashley Rodriguez,Sales,Sales Manager,37,Male,71460.58,2020-01-10,,5.7,9.9,5.8,No
+176,Shannon Wood,Sales,Account Manager,39,Female,85923.78,2025-04-11,,6.2,8.9,0.5,No
+177,Lauren Ruiz,Finance,Finance Manager,57,Female,51579.92,2025-03-09,2025-06-26,8.9,7.6,0.6,Yes
+178,Mrs. Sarah Diaz,Marketing,Marketing Manager,42,Male,73693.39,2024-01-26,,6.1,9.9,1.7,No
+179,Michelle Parker,Engineering,Software Engineer,22,Other,70688.03,2018-06-30,2023-12-22,6.3,7.9,7.3,Yes
+180,Travis Johnson,Operations,Operations Manager,46,Other,59190.59,2021-04-04,,5.2,9.6,4.5,No
+181,Sheila Jacobs,Engineering,DevOps Engineer,23,Male,35358.44,2018-01-10,,6.1,6.0,7.8,No
+182,Mary Acevedo,HR,Recruiter,42,Female,89383.02,2025-09-12,,9.4,9.4,0.1,No
+183,Angela Roberson,Marketing,Marketing Manager,26,Other,32264.42,2020-05-30,,7.7,8.9,5.4,No
+184,Destiny Sanchez,Marketing,SEO Specialist,35,Male,80874.3,2020-01-26,2023-12-13,5.3,7.2,5.7,Yes
+185,Stephanie Harris,Operations,Operations Manager,46,Other,95512.77,2021-12-11,,6.2,8.9,3.8,No
+186,Frank Bernard,Engineering,QA Engineer,43,Male,31340.74,2020-01-19,,9.0,9.5,5.7,No
+187,Grant Cole,Operations,Operations Coordinator,32,Other,75836.59,2023-04-06,,5.2,9.1,2.5,No
+188,Matthew Roberts,Marketing,Marketing Executive,34,Male,43568.2,2017-06-28,,8.3,4.0,8.3,No
+189,Kelsey Adams,Finance,Finance Manager,36,Female,69852.33,2017-11-15,,6.1,8.2,7.9,No
+190,Anthony Stone,Operations,Operations Coordinator,60,Male,76249.72,2019-02-17,,9.9,9.6,6.7,No
+191,Christine Miller,Sales,Account Manager,22,Female,55661.77,2024-05-11,,8.1,6.2,1.4,No
+192,David Wilson,Support,Support Agent,57,Male,82425.11,2019-03-02,,5.3,4.8,6.6,No
+193,Shawn Nelson,Marketing,Marketing Manager,28,Female,78610.73,2018-07-25,2018-08-15,9.4,7.3,7.2,Yes
+194,Brad Thompson,Support,Support Lead,30,Female,60693.23,2024-04-24,2024-12-18,6.2,9.9,1.5,Yes
+195,Michael Mills,HR,Recruiter,45,Female,72228.34,2017-01-04,,5.3,7.7,8.8,No
+196,Robert Marsh,Finance,Finance Manager,51,Other,62034.82,2021-04-01,,10.0,6.6,4.5,No
+197,Cathy Tran,Sales,Account Manager,40,Female,63093.19,2021-07-10,,5.4,7.9,4.3,No
+198,Kyle Day,Marketing,Marketing Executive,41,Other,112529.24,2019-01-31,,9.2,6.1,6.7,No
+199,Casey Barber,Engineering,QA Engineer,22,Male,70615.34,2021-11-10,2023-03-22,8.1,8.6,3.9,Yes
+200,Andrew Lopez,HR,Recruiter,57,Other,69556.16,2017-04-16,,5.2,4.2,8.5,No
+201,Charles Velez,Engineering,QA Engineer,57,Other,84177.92,2021-07-03,2024-11-23,8.5,5.4,4.3,Yes
+202,Brett Richardson,Operations,Operations Manager,43,Other,71237.26,2016-04-07,,9.9,5.1,9.5,No
+203,Jacob Martin,Engineering,QA Engineer,58,Female,83920.68,2020-03-13,2023-05-01,5.5,6.4,5.6,Yes
+204,Gabriel Carey,HR,HR Executive,28,Other,57029.41,2021-03-18,2021-08-27,8.7,4.4,4.6,Yes
+205,Kimberly Kelly,Sales,Sales Executive,37,Other,57739.66,2017-01-11,,6.2,4.2,8.8,No
+206,Monica Mendez,HR,Recruiter,30,Female,58247.23,2024-07-22,,5.6,8.2,1.2,No
+207,Samuel Young,Sales,Sales Executive,49,Female,58680.86,2016-10-05,,6.0,8.4,9.0,No
+208,Martha Knox,Sales,Account Manager,36,Other,84971.25,2022-04-26,,9.1,4.5,3.5,No
+209,David Jones,Sales,Sales Executive,57,Male,84585.43,2020-11-20,,6.8,4.7,4.9,No
+210,Jose Carroll,Marketing,Marketing Executive,48,Female,77436.22,2019-07-11,,6.0,4.6,6.3,No
+211,William Hahn,Operations,Operations Manager,35,Other,58235.07,2024-08-26,2025-08-20,6.6,4.4,1.1,Yes
+212,Lisa Johnson,Support,Support Agent,31,Male,62128.82,2016-09-18,,8.6,9.0,9.1,No
+213,Joseph Trujillo,Engineering,DevOps Engineer,49,Other,86279.15,2025-04-14,,7.5,4.6,0.5,No
+214,Monica Newman,Engineering,QA Engineer,32,Other,65360.24,2024-08-26,2025-04-29,6.8,7.1,1.1,Yes
+215,Paula Robinson,Finance,Finance Manager,54,Other,73620.09,2023-04-11,,8.8,4.9,2.5,No
+216,Joseph Walker,Support,Support Lead,47,Male,106272.65,2024-06-25,,6.1,6.0,1.3,No
+217,Stephanie Obrien,Sales,Account Manager,47,Female,75536.82,2023-06-03,2025-03-18,6.5,6.7,2.4,Yes
+218,Mary Schwartz,Operations,Operations Manager,54,Male,44323.26,2021-06-20,2023-07-07,9.5,4.4,4.3,Yes
+219,Amber Kelley,Marketing,Marketing Manager,55,Female,48345.52,2021-11-26,,8.2,8.3,3.9,No
+220,Connie Lawson,Support,Support Agent,46,Other,71928.1,2019-06-16,,7.3,6.9,6.3,No
+221,Nathan Floyd,Operations,Operations Coordinator,60,Female,65827.29,2020-04-23,,9.8,5.5,5.5,No
+222,Martha Robles,Finance,Accountant,45,Other,53860.93,2019-06-04,,7.3,8.0,6.4,No
+223,April Vincent,HR,HR Manager,42,Male,68422.36,2020-04-02,,5.0,6.7,5.5,No
+224,Cory Brown,Marketing,Marketing Manager,49,Other,83702.67,2016-04-01,,7.8,4.7,9.5,No
+225,Dr. Jordan Bradley,Marketing,Marketing Executive,60,Other,71730.67,2016-06-03,,7.0,8.9,9.4,No
+226,Michael Powers,Finance,Finance Manager,46,Female,90362.99,2025-03-28,,9.7,4.0,0.5,No
+227,Rachel Keller,Engineering,QA Engineer,49,Female,70124.73,2018-06-21,,9.7,7.8,7.3,No
+228,Barbara Simpson,Engineering,DevOps Engineer,43,Other,65906.1,2021-01-01,,7.7,4.4,4.8,No
+229,John Bowman,Support,Support Lead,52,Male,62312.95,2016-10-22,,8.2,4.8,9.0,No
+230,Joel Santiago,Marketing,SEO Specialist,31,Female,39276.93,2024-08-01,,9.6,7.0,1.2,No
+231,Marc Downs,HR,HR Manager,22,Male,63663.56,2024-04-17,,6.0,8.5,1.5,No
+232,Patricia Stafford,Operations,Operations Manager,36,Male,95838.88,2022-07-06,,7.1,9.1,3.3,No
+233,Robert Tucker,Support,Support Agent,40,Male,88242.81,2021-07-15,,9.9,7.7,4.2,No
+234,Bruce Johnson,Operations,Operations Manager,59,Female,71823.5,2023-09-18,,8.7,4.3,2.1,No
+235,Jennifer Howard,HR,HR Manager,51,Female,62495.74,2022-03-26,,9.6,9.8,3.5,No
+236,Gloria Giles,Marketing,Marketing Manager,42,Male,76881.64,2019-01-02,,5.9,6.9,6.8,No
+237,Larry Rosales,HR,HR Manager,43,Male,87733.25,2016-06-14,2019-07-18,6.2,4.5,9.3,Yes
+238,Tommy Carey,Finance,Finance Manager,53,Other,75037.29,2018-01-08,,7.9,5.0,7.8,No
+239,Dana Weaver,Operations,Operations Manager,56,Male,74019.59,2022-03-23,,5.6,7.4,3.6,No
+240,Katherine Tran,Engineering,DevOps Engineer,56,Other,80377.01,2022-05-31,2023-08-08,7.9,4.5,3.4,Yes
+241,Brian Contreras,Engineering,DevOps Engineer,31,Other,54910.14,2017-10-14,,9.6,4.5,8.0,No
+242,Kathleen Andrade,Operations,Operations Manager,44,Female,82540.28,2024-04-11,,6.6,8.1,1.5,No
+243,Destiny Smith,Marketing,SEO Specialist,22,Male,73126.6,2024-07-20,,8.2,5.9,1.2,No
+244,Brian Rush,HR,HR Manager,33,Other,93696.55,2018-09-18,,8.6,7.5,7.1,No
+245,John Dunn,Marketing,Marketing Executive,47,Male,66442.57,2016-11-06,,5.2,8.3,8.9,No
+246,Danny Schneider,Engineering,Software Engineer,34,Female,63692.14,2018-12-16,,6.2,9.1,6.8,No
+247,Dr. Eric Riley,HR,Recruiter,29,Male,63883.59,2023-05-18,2025-08-29,8.7,9.3,2.4,Yes
+248,Kelsey Hayes,Support,Support Agent,53,Male,81076.27,2025-04-15,,7.0,8.8,0.5,No
+249,Rhonda Harvey,Operations,Operations Manager,45,Other,63498.7,2016-05-27,,7.2,8.7,9.4,No
+250,Alexis Weaver,Marketing,Marketing Executive,31,Other,75235.38,2017-08-12,,6.6,7.4,8.2,No
+251,David Gonzalez,HR,HR Manager,27,Other,71477.47,2022-03-06,2023-09-15,7.4,8.2,3.6,Yes
+252,Joel Bennett,Support,Support Agent,54,Other,88389.5,2020-09-04,,6.7,9.8,5.1,No
+253,Suzanne Reed,Support,Support Agent,52,Female,81490.57,2023-03-23,,9.5,8.8,2.6,No
+254,Darrell Flynn,Engineering,DevOps Engineer,38,Male,74512.51,2017-03-23,2020-03-11,9.7,5.8,8.6,Yes
+255,Tammy Gay,HR,HR Executive,36,Male,72001.9,2016-08-17,,6.8,4.8,9.2,No
+256,Eric Smith,Finance,Finance Manager,35,Other,73335.47,2021-06-05,,7.1,4.3,4.4,No
+257,Daniel Webb,Sales,Sales Executive,38,Male,100750.69,2019-09-26,2020-08-17,6.2,4.4,6.0,Yes
+258,Angela Cox,HR,HR Manager,43,Female,87972.46,2023-03-21,,8.9,6.1,2.6,No
+259,Donald Reilly,Sales,Sales Executive,42,Female,89533.87,2020-10-05,,7.9,4.8,5.0,No
+260,Leah Ross,Support,Support Agent,53,Other,70154.81,2023-08-24,,7.5,8.5,2.1,No
+261,John Berry,Finance,Accountant,41,Male,65668.69,2022-08-30,,5.3,8.2,3.1,No
+262,Hannah Walker,HR,HR Manager,53,Female,81080.23,2017-02-05,,9.7,9.5,8.7,No
+263,Robyn Knight,Support,Support Lead,55,Female,46819.86,2016-05-27,,8.6,9.5,9.4,No
+264,Manuel Pham,Sales,Sales Executive,37,Other,50262.56,2020-10-19,2024-11-20,9.5,9.7,5.0,Yes
+265,April Burton,Engineering,Software Engineer,39,Male,76557.88,2025-01-20,2025-05-31,9.4,9.0,0.7,Yes
+266,Shawn Hancock,Engineering,DevOps Engineer,23,Other,62078.14,2019-10-14,,5.8,8.5,6.0,No
+267,Eric Lam,HR,HR Executive,27,Male,57332.89,2018-01-19,,9.8,6.0,7.7,No
+268,Willie Fisher,Marketing,Marketing Manager,37,Female,94790.11,2017-11-26,2024-10-02,8.4,7.6,7.9,Yes
+269,Brandon Nguyen,HR,HR Executive,37,Female,81679.09,2019-10-04,2024-09-04,6.8,7.0,6.0,Yes
+270,Michelle Richardson,Sales,Account Manager,49,Female,70708.94,2022-10-13,,7.6,5.9,3.0,No
+271,Thomas Marshall,Sales,Sales Manager,43,Other,68876.04,2024-04-16,,5.7,4.4,1.5,No
+272,Amy Hatfield,HR,Recruiter,50,Other,76030.17,2025-04-20,,8.4,9.2,0.5,No
+273,Brett White,Operations,Operations Coordinator,42,Female,74796.67,2015-12-02,2018-03-18,6.6,6.1,9.9,Yes
+274,Sean Frank,Marketing,SEO Specialist,54,Other,75697.89,2018-12-01,,9.5,9.9,6.9,No
+275,Jesse Coleman,Operations,Operations Coordinator,25,Other,43406.21,2023-04-09,,9.1,7.9,2.5,No
+276,Abigail Williams,Sales,Sales Executive,47,Female,102444.1,2017-01-26,2019-11-03,9.2,4.0,8.7,Yes
+277,Mary Hunter,Engineering,Software Engineer,48,Other,73502.46,2024-10-26,2024-11-18,5.4,6.6,1.0,Yes
+278,Matthew Bentley,Finance,Finance Manager,31,Other,61082.35,2023-02-23,2025-07-10,6.1,6.4,2.6,Yes
+279,Destiny Summers,HR,HR Manager,54,Female,85200.43,2019-10-14,2025-05-15,6.4,7.1,6.0,Yes
+280,Cameron Molina,HR,HR Manager,38,Female,57660.78,2022-01-01,,5.5,4.0,3.8,No
+281,Laura Martinez,Sales,Sales Manager,39,Female,54539.32,2023-03-25,,7.2,5.2,2.6,No
+282,Julie Green,Sales,Account Manager,31,Female,49807.47,2015-11-11,,6.4,7.7,9.9,No
+283,Jessica Fuller,Support,Support Lead,44,Male,60537.29,2017-07-22,,6.2,8.1,8.2,No
+284,Joe Patterson,Operations,Operations Manager,43,Other,78203.74,2016-04-29,,5.2,10.0,9.5,No
+285,Mark Cruz,HR,HR Manager,42,Male,64255.59,2020-08-10,,6.9,5.2,5.2,No
+286,Stephanie Garrison,Finance,Financial Analyst,35,Female,71826.01,2021-07-10,,9.4,7.8,4.3,No
+287,Kelly Wright,Support,Support Agent,49,Male,63884.73,2017-06-30,,7.7,5.3,8.3,No
+288,Kimberly Richardson,Operations,Operations Coordinator,52,Male,52478.98,2017-03-15,2024-04-12,7.1,8.5,8.6,Yes
+289,Sheila Todd,Engineering,Software Engineer,32,Other,51167.72,2016-03-02,,6.3,9.6,9.6,No
+290,William Perry,Engineering,Software Engineer,46,Other,72001.78,2022-06-03,,7.1,6.8,3.4,No
+291,Christine Curtis,HR,Recruiter,50,Male,75582.0,2017-09-25,2023-05-21,8.1,9.4,8.0,Yes
+292,Kimberly Molina,Engineering,QA Engineer,58,Other,71754.97,2016-09-10,,8.0,8.7,9.1,No
+293,Matthew Austin,Sales,Sales Manager,26,Female,69755.43,2018-06-25,,6.4,8.4,7.3,No
+294,Megan Vega,HR,HR Executive,34,Female,68011.32,2018-03-23,,9.9,4.9,7.6,No
+295,Eric Chen,Marketing,Marketing Manager,48,Other,63505.16,2019-12-13,,6.0,7.3,5.8,No
+296,Angela Moore,HR,HR Manager,34,Male,89848.38,2018-05-21,2021-05-30,6.8,6.5,7.4,Yes
+297,Lindsay Meadows,Marketing,Marketing Manager,40,Male,83887.7,2021-04-20,2021-10-11,7.4,6.6,4.5,Yes
+298,Thomas Frederick,Sales,Sales Executive,49,Male,77542.76,2023-12-18,,9.3,8.3,1.8,No
+299,Walter Moore,Engineering,Software Engineer,23,Male,114270.87,2021-09-10,2024-02-07,6.3,6.0,4.1,Yes
+300,Timothy Waters,Support,Support Lead,30,Other,106464.2,2016-06-15,2023-04-07,5.0,9.6,9.3,Yes
+301,Ruth Robinson,Operations,Operations Manager,23,Male,122989.97,2024-06-15,,6.5,8.9,1.3,No
+302,Alexandra Collins,Support,Support Lead,37,Other,83388.98,2024-07-13,,10.0,4.5,1.2,No
+303,Taylor Smith,HR,HR Manager,31,Other,47789.01,2016-03-07,,5.7,8.4,9.6,No
+304,Theresa Richmond,Support,Support Lead,49,Male,42919.48,2019-08-14,,7.1,8.0,6.2,No
+305,Tiffany Malone,Marketing,Marketing Manager,57,Other,81909.12,2017-03-23,,9.2,6.0,8.6,No
+306,Dr. Christopher Campbell,HR,HR Executive,27,Female,79983.85,2018-05-05,2022-12-21,7.1,9.0,7.4,Yes
+307,Robert Drake,Support,Support Agent,30,Male,74729.95,2017-05-23,,6.0,9.1,8.4,No
+308,Wayne Hamilton,Engineering,DevOps Engineer,52,Male,64807.52,2018-10-28,,6.9,4.5,7.0,No
+309,Mary Howard,Support,Support Agent,24,Female,68857.3,2025-06-04,,6.3,7.6,0.4,No
+310,Lori Mosley,Finance,Accountant,58,Female,66175.67,2021-05-25,,7.2,7.3,4.4,No
+311,Jennifer Mcbride,HR,Recruiter,45,Male,54807.29,2024-05-07,,8.9,9.1,1.4,No
+312,Evan Ryan,Operations,Operations Coordinator,58,Other,67501.5,2025-01-03,,9.4,7.8,0.8,No
+313,Andrea Richards,Sales,Sales Executive,25,Other,66841.12,2015-11-21,,8.4,7.6,9.9,No
+314,Jamie Thomas,Finance,Accountant,43,Female,52649.16,2018-08-28,,5.8,6.3,7.1,No
+315,Rebecca Ward,Operations,Operations Manager,31,Other,74685.3,2016-11-27,,9.7,6.1,8.9,No
+316,Shannon Mccoy,Support,Support Agent,48,Male,84545.15,2021-10-11,,9.0,8.9,4.0,No
+317,Anthony Brown MD,Marketing,SEO Specialist,36,Other,66891.02,2018-09-13,,9.6,6.3,7.1,No
+318,Melanie Nguyen,Marketing,SEO Specialist,22,Male,76999.96,2016-09-07,,7.4,9.7,9.1,No
+319,Lisa Miller,Support,Support Agent,49,Other,81320.75,2016-06-26,2020-03-21,7.2,4.8,9.3,Yes
+320,Cory Grant,Marketing,Marketing Manager,33,Female,74974.51,2018-07-02,,8.0,5.2,7.3,No
+321,Jeffrey Mullins,Marketing,Marketing Executive,30,Female,76187.12,2021-02-06,2024-01-02,7.7,5.2,4.7,Yes
+322,Austin Reyes,Finance,Accountant,55,Other,93811.23,2016-07-23,,8.6,7.0,9.2,No
+323,Patricia Edwards,Sales,Sales Manager,47,Male,74922.07,2023-11-01,2023-11-30,6.9,8.2,1.9,Yes
+324,Eric Davenport,HR,Recruiter,25,Male,63373.77,2020-04-17,2023-12-24,7.4,9.0,5.5,Yes
+325,Megan Marshall,Marketing,Marketing Manager,31,Male,87814.79,2017-11-11,,8.3,7.6,7.9,No
+326,Mrs. Christina Torres,Operations,Operations Coordinator,24,Male,77505.85,2020-07-10,,6.7,7.7,5.3,No
+327,Elizabeth Burnett,Support,Support Lead,27,Female,87932.12,2018-07-22,,9.1,4.1,7.2,No
+328,Scott Mccullough,Finance,Financial Analyst,59,Other,87759.87,2021-04-25,2021-09-12,6.3,6.2,4.5,Yes
+329,Rachel King,Support,Support Agent,31,Other,82382.81,2023-09-09,,8.2,5.6,2.1,No
+330,Derek Hoffman,Operations,Operations Manager,46,Other,65522.85,2025-03-01,,8.7,6.5,0.6,No
+331,Susan Mendoza,Operations,Operations Coordinator,53,Male,64903.41,2019-07-15,,5.4,8.2,6.2,No
+332,Megan Newman,Marketing,SEO Specialist,31,Male,86607.65,2020-11-22,,6.6,4.9,4.9,No
+333,Andrew Smith,Engineering,QA Engineer,34,Male,65889.89,2023-11-18,,7.7,5.8,1.9,No
+334,Melissa Krause,HR,HR Executive,59,Female,58910.45,2015-12-12,,7.7,4.3,9.8,No
+335,Janice Tyler,Support,Support Lead,60,Other,62682.46,2023-02-08,,9.8,6.2,2.7,No
+336,Evan Payne,Sales,Sales Manager,40,Other,93419.51,2020-02-15,,6.1,5.4,5.7,No
+337,Jennifer Baldwin,Operations,Operations Manager,41,Female,66816.29,2016-12-02,,8.0,7.7,8.9,No
+338,Katie Ponce,Operations,Operations Manager,33,Male,82929.81,2018-01-17,,9.6,4.4,7.7,No
+339,Jay Eaton,Operations,Operations Coordinator,26,Female,72665.89,2019-03-02,2019-03-19,5.9,7.2,6.6,Yes
+340,Dylan Guzman,Sales,Sales Executive,37,Male,47774.35,2022-01-07,,6.5,6.2,3.8,No
+341,Ricky Fisher,Marketing,SEO Specialist,54,Male,75760.19,2021-02-17,,6.1,9.9,4.6,No
+342,Dawn Gutierrez,Operations,Operations Manager,24,Male,43394.59,2024-10-08,2025-08-25,9.0,9.3,1.0,Yes
+343,Brittany Schmidt,HR,HR Executive,24,Female,75926.34,2023-03-01,,5.3,6.2,2.6,No
+344,Jacqueline Conner,Operations,Operations Manager,48,Other,80600.94,2020-03-25,,9.8,8.7,5.6,No
+345,Aaron Burns,Engineering,QA Engineer,37,Male,76484.85,2019-07-30,,6.7,6.7,6.2,No
+346,Christopher Moore,Marketing,SEO Specialist,38,Female,68344.06,2016-09-13,,7.3,4.8,9.1,No
+347,Kaitlin Evans,Engineering,DevOps Engineer,33,Other,75213.06,2024-04-28,,9.9,9.6,1.5,No
+348,Bradley Lewis,Marketing,SEO Specialist,26,Male,73772.35,2017-12-09,,5.5,9.7,7.8,No
+349,Melissa Holden,HR,Recruiter,46,Male,79998.86,2018-11-24,,9.5,8.5,6.9,No
+350,Christopher Saunders,Operations,Operations Manager,48,Male,93817.67,2020-03-24,,6.6,8.0,5.6,No
+351,Steven Fletcher,HR,HR Manager,59,Other,54459.88,2018-09-10,,6.5,5.0,7.1,No
+352,Michael Ramos,Marketing,SEO Specialist,53,Male,81344.15,2019-04-16,,6.9,10.0,6.5,No
+353,Ryan Yates,Engineering,DevOps Engineer,37,Female,71375.39,2023-12-20,,9.9,7.0,1.8,No
+354,Michael Martinez,HR,HR Executive,59,Other,64731.64,2025-04-11,,9.0,9.4,0.5,No
+355,Nathan Crawford,Support,Support Lead,32,Other,73047.83,2024-05-08,2025-02-27,9.0,9.9,1.4,Yes
+356,Jeff Thomas,Marketing,SEO Specialist,25,Other,69828.75,2025-08-18,,7.6,8.2,0.1,No
+357,Jeffery Rosario,Sales,Account Manager,36,Female,97172.29,2020-07-05,2022-07-04,7.8,4.9,5.3,Yes
+358,Melinda Singh,Sales,Sales Executive,22,Male,84896.6,2024-09-16,,7.8,8.7,1.1,No
+359,Jennifer Ruiz DDS,HR,HR Manager,46,Male,66907.26,2018-06-25,2020-11-08,6.2,8.8,7.3,Yes
+360,Steven Espinoza,Sales,Account Manager,37,Female,97737.64,2023-08-11,,7.4,8.1,2.2,No
+361,Denise Obrien,Support,Support Agent,51,Male,50157.46,2017-09-07,,7.3,6.2,8.1,No
+362,Elizabeth Bauer,Operations,Operations Manager,34,Other,62094.12,2020-02-04,,6.2,5.8,5.7,No
+363,Nichole Clark,Finance,Accountant,46,Male,77827.06,2021-07-31,,9.6,5.1,4.2,No
+364,Bobby Davis,Sales,Account Manager,45,Female,52049.08,2017-02-04,,8.6,7.5,8.7,No
+365,Brittany Chen,Finance,Finance Manager,54,Other,84426.5,2021-07-07,,6.2,4.5,4.3,No
+366,Daniel Johnson,Operations,Operations Manager,52,Male,65373.71,2016-06-11,,7.0,5.2,9.3,No
+367,Rebecca Holt,Operations,Operations Manager,23,Male,75523.79,2018-05-30,,8.6,7.8,7.4,No
+368,Jonathan Gilmore,Marketing,SEO Specialist,45,Other,82213.05,2016-02-26,2023-02-18,5.7,7.6,9.6,Yes
+369,Kimberly Bates,Sales,Account Manager,58,Female,86164.84,2022-01-10,,6.5,5.4,3.8,No
+370,Jennifer Villegas,Support,Support Lead,55,Other,74159.5,2020-08-29,,8.3,5.1,5.1,No
+371,Tyler Harris,Finance,Finance Manager,43,Male,95452.26,2018-03-24,,9.3,9.6,7.6,No
+372,Vicki Collins,Finance,Finance Manager,25,Male,37260.7,2016-03-05,,9.3,6.4,9.6,No
+373,Penny Ferguson,Support,Support Lead,41,Other,34594.33,2024-02-15,,9.1,8.3,1.7,No
+374,John Davenport,Operations,Operations Manager,46,Male,77129.97,2021-09-23,,7.6,4.3,4.1,No
+375,David Ramos,HR,HR Manager,37,Male,74118.65,2022-07-19,,6.5,6.7,3.2,No
+376,Emily Johnston,Engineering,QA Engineer,22,Female,42433.44,2025-08-03,,8.4,4.0,0.2,No
+377,Beth Clark,Support,Support Agent,49,Female,59221.39,2018-02-23,,7.2,8.0,7.6,No
+378,Joseph Hull,Finance,Financial Analyst,27,Male,80659.91,2024-07-28,,9.6,9.6,1.2,No
+379,Joshua Hogan,Operations,Operations Manager,22,Female,65935.12,2020-10-08,2024-10-08,9.8,5.5,5.0,Yes
+380,Briana Coleman,Support,Support Lead,51,Other,46396.29,2016-12-22,,5.3,4.1,8.8,No
+381,Martin Montgomery,Sales,Sales Manager,48,Female,88641.55,2019-09-22,,9.1,9.6,6.1,No
+382,Barry Gardner,Operations,Operations Coordinator,38,Female,84327.89,2021-12-12,2024-12-09,6.7,7.6,3.8,Yes
+383,Ronald Moore,Finance,Finance Manager,35,Male,50198.78,2021-07-05,,8.1,5.3,4.3,No
+384,Veronica Simon,Support,Support Lead,32,Female,70439.38,2017-12-04,,8.8,8.1,7.9,No
+385,Shane Miller,Operations,Operations Manager,40,Female,88588.16,2019-06-18,,8.4,8.1,6.3,No
+386,Danielle Garner,Marketing,Marketing Executive,37,Other,48296.79,2020-08-06,,8.4,8.0,5.2,No
+387,Julie Carter,Finance,Accountant,34,Other,53624.26,2024-01-11,,6.9,6.9,1.8,No
+388,Kimberly King,Marketing,SEO Specialist,22,Male,60673.31,2023-12-01,,7.2,5.0,1.9,No
+389,Jesus Pham,Finance,Accountant,35,Female,55517.73,2017-12-09,,10.0,8.0,7.8,No
+390,Veronica Moore,Support,Support Lead,28,Other,76643.57,2023-05-28,,7.3,7.7,2.4,No
+391,Kayla Hubbard,Sales,Sales Executive,51,Male,69776.44,2019-11-24,2022-03-05,5.6,6.1,5.9,Yes
+392,Edward Smith,Sales,Sales Manager,43,Other,55546.38,2016-04-10,,9.5,6.6,9.5,No
+393,Jonathan Gray,Support,Support Lead,47,Male,61259.93,2023-09-20,,6.2,6.3,2.1,No
+394,Terry Cain,HR,Recruiter,30,Female,47004.28,2024-08-29,,9.4,8.9,1.1,No
+395,Kathleen Ramos,Marketing,Marketing Manager,24,Female,81909.44,2019-02-25,2022-10-07,8.0,4.4,6.6,Yes
+396,Nancy Marshall,Support,Support Agent,51,Female,73211.79,2020-12-08,,6.6,9.4,4.8,No
+397,Jonathon Daniels,Finance,Finance Manager,25,Male,91543.5,2015-12-09,,7.5,8.9,9.8,No
+398,Holly Douglas,Sales,Account Manager,44,Other,70658.85,2024-01-14,,6.5,5.2,1.7,No
+399,Ashley Salinas,HR,HR Executive,30,Other,66076.83,2024-08-11,,5.9,5.1,1.2,No
+400,Robert Wong,Finance,Accountant,59,Male,47659.99,2022-06-16,,8.2,6.9,3.3,No
+401,Gregory Richards,Sales,Sales Manager,43,Male,66772.63,2025-03-12,,9.0,8.5,0.6,No
+402,Christopher Yu MD,Operations,Operations Coordinator,30,Female,64620.86,2021-11-23,2024-09-02,5.1,8.7,3.9,Yes
+403,Bailey Campbell,Engineering,Software Engineer,23,Other,47037.62,2023-08-29,,9.2,9.9,2.1,No
+404,Morgan Arnold,Support,Support Lead,41,Other,55977.42,2024-12-24,,5.1,8.0,0.8,No
+405,Sarah Haas,Support,Support Agent,23,Female,82514.48,2022-05-03,,8.7,7.5,3.4,No
+406,Frances Wright,HR,Recruiter,22,Male,60228.94,2021-04-09,2022-06-07,9.2,5.7,4.5,Yes
+407,Jermaine Small,Sales,Account Manager,52,Other,63244.51,2024-11-13,,6.1,4.8,0.9,No
+408,David Smith,Engineering,DevOps Engineer,58,Female,36317.35,2025-03-07,,9.8,8.0,0.6,No
+409,Natalie Vaughan,Marketing,Marketing Executive,59,Other,67430.62,2022-06-23,,6.2,5.2,3.3,No
+410,Jill Stewart,Sales,Sales Manager,37,Female,61707.89,2019-12-30,,8.1,5.4,5.8,No
+411,Kelly Peterson,Support,Support Agent,33,Female,67720.56,2022-02-11,,5.3,4.3,3.7,No
+412,Stephanie Velasquez,HR,HR Manager,31,Female,56559.79,2023-01-13,,6.8,5.8,2.7,No
+413,Charles Mills,Engineering,Software Engineer,36,Other,48947.83,2018-09-18,2025-08-03,6.5,7.6,7.1,Yes
+414,Michele Palmer,Marketing,SEO Specialist,49,Male,68465.64,2021-09-22,2022-06-25,8.9,8.0,4.1,Yes
+415,Cheryl Brown,Operations,Operations Coordinator,43,Female,66177.22,2023-03-11,,9.1,8.4,2.6,No
+416,Lauren Smith,Sales,Account Manager,24,Female,71490.14,2023-11-20,,9.9,8.4,1.9,No
+417,Shannon Stanley,Sales,Account Manager,52,Male,61873.92,2023-01-20,,9.8,8.9,2.7,No
+418,Penny Cunningham,Marketing,SEO Specialist,23,Male,61582.22,2016-07-18,2016-08-16,6.1,7.1,9.2,Yes
+419,Joseph Eaton,HR,Recruiter,46,Other,66124.8,2021-03-28,,8.7,8.0,4.5,No
+420,Diana Bell,Sales,Sales Manager,34,Male,68483.78,2018-08-17,,9.6,9.0,7.2,No
+421,Lisa Black,Sales,Sales Manager,25,Female,65591.38,2025-05-01,,5.2,4.8,0.4,No
+422,Eric Cohen,Marketing,Marketing Executive,57,Female,63301.91,2017-12-09,,7.1,5.6,7.8,No
+423,Jose Roberts,HR,HR Executive,38,Other,56698.54,2025-09-26,,6.9,9.6,0.0,No
+424,Angelica Holden,Engineering,QA Engineer,22,Male,39052.49,2018-06-10,,6.9,6.9,7.3,No
+425,Katherine Peterson,Support,Support Lead,57,Female,95791.87,2025-03-21,2025-04-26,6.4,9.0,0.6,Yes
+426,Michaela Hayes,Marketing,Marketing Executive,25,Other,105337.45,2017-03-26,2021-03-18,6.8,6.5,8.6,Yes
+427,Matthew White,Support,Support Lead,23,Other,78880.4,2018-11-10,,10.0,4.8,6.9,No
+428,Anne Hebert,Support,Support Lead,41,Other,88335.83,2023-11-23,,5.4,5.9,1.9,No
+429,Lindsay Mann,Operations,Operations Manager,22,Male,82974.35,2018-02-04,,5.5,6.8,7.7,No
+430,Austin Cruz,Support,Support Agent,30,Other,81430.32,2023-10-12,2025-01-31,9.7,4.2,2.0,Yes
+431,Julia Bridges MD,Support,Support Lead,45,Female,50158.67,2025-09-08,,6.9,7.4,0.1,No
+432,Scott Richardson,HR,HR Manager,25,Female,42889.57,2023-12-11,2025-04-04,5.5,7.8,1.8,Yes
+433,Mrs. Stacy Leon,Finance,Financial Analyst,23,Female,62986.74,2024-02-25,2024-05-24,7.7,5.7,1.6,Yes
+434,Joel Garcia,Support,Support Agent,47,Female,63764.75,2020-09-03,,7.1,9.4,5.1,No
+435,Christopher Keith,Marketing,SEO Specialist,32,Male,69684.46,2022-01-22,2024-03-23,5.4,5.1,3.7,Yes
+436,Mary Carter,Operations,Operations Manager,42,Female,51886.32,2023-08-25,,6.4,7.8,2.1,No
+437,Michael Johnson,Engineering,QA Engineer,39,Male,62626.72,2019-05-20,,6.7,9.0,6.4,No
+438,Lisa Beck,Engineering,QA Engineer,26,Female,69771.39,2022-03-02,,9.1,7.6,3.6,No
+439,Jermaine Peterson,Engineering,Software Engineer,28,Other,56118.68,2024-09-02,,9.6,8.8,1.1,No
+440,Randall Brown,HR,HR Manager,31,Male,71672.58,2019-05-27,,5.5,8.1,6.4,No
+441,James Curtis,Finance,Financial Analyst,28,Other,98306.73,2018-04-29,,5.4,4.5,7.5,No
+442,Daniel Miller,Sales,Account Manager,56,Other,62554.99,2022-10-10,2024-01-10,9.9,4.2,3.0,Yes
+443,Jody Flores,Marketing,Marketing Executive,59,Other,66620.59,2016-10-26,,7.6,9.9,9.0,No
+444,Mr. Luis Jones,Finance,Finance Manager,36,Female,81542.6,2016-02-15,,5.7,4.3,9.7,No
+445,Hannah Gonzalez,Support,Support Lead,22,Female,80806.78,2016-11-07,,6.0,5.4,8.9,No
+446,Brenda Jackson,Finance,Accountant,28,Other,80920.61,2021-04-08,,7.4,6.0,4.5,No
+447,April Castaneda,Engineering,Software Engineer,37,Other,59056.98,2021-10-02,,7.1,5.0,4.0,No
+448,Tiffany Lang,Operations,Operations Manager,50,Male,87150.56,2016-03-04,,7.8,6.6,9.6,No
+449,Richard Key,Finance,Financial Analyst,26,Other,55448.48,2018-02-18,,7.3,8.4,7.6,No
+450,Anita Fernandez,Operations,Operations Coordinator,37,Female,68500.63,2024-06-02,,7.0,6.5,1.4,No
+451,Rebecca Chang,HR,Recruiter,59,Other,102587.41,2023-11-26,,9.7,6.1,1.9,No
+452,James Hall,Engineering,DevOps Engineer,29,Other,50554.34,2022-01-16,2023-10-09,8.3,5.0,3.7,Yes
+453,Roberto Poole,Sales,Sales Executive,51,Other,59546.16,2025-07-31,2025-08-27,9.4,7.2,0.2,Yes
+454,Brandon Rodriguez,Support,Support Lead,24,Other,71936.2,2021-02-24,,5.4,6.7,4.6,No
+455,Lori Nelson,Finance,Accountant,42,Other,72818.11,2023-01-03,,7.2,6.1,2.8,No
+456,Kari Daniels,Engineering,QA Engineer,46,Male,63873.7,2023-12-14,,5.5,5.7,1.8,No
+457,Sandra Reynolds,Support,Support Agent,23,Other,77002.07,2024-04-13,,7.1,8.7,1.5,No
+458,Nicholas Ramsey,Support,Support Lead,60,Female,69240.58,2023-08-21,,6.7,8.7,2.1,No
+459,Sheila Peters,Operations,Operations Coordinator,58,Female,66935.89,2017-06-07,,7.7,9.8,8.4,No
+460,Matthew Marshall,Support,Support Lead,32,Other,74021.26,2017-12-26,,5.2,5.3,7.8,No
+461,Mason Little,Finance,Finance Manager,40,Other,82371.82,2019-03-27,,6.4,4.4,6.5,No
+462,Tiffany Sanchez,Finance,Financial Analyst,46,Female,64062.52,2019-08-23,,6.4,5.4,6.1,No
+463,Ashley Gonzalez,Operations,Operations Manager,52,Other,87547.06,2016-01-14,,8.8,7.3,9.7,No
+464,Julie Stevens,Marketing,Marketing Manager,27,Other,56490.3,2018-09-19,,8.9,7.0,7.1,No
+465,David Valdez,HR,Recruiter,53,Other,84234.26,2022-08-21,,9.2,8.4,3.1,No
+466,Kimberly Wiley,Support,Support Agent,51,Other,73797.57,2016-06-05,,7.0,6.0,9.4,No
+467,Dawn Pruitt,HR,HR Executive,46,Other,70569.69,2019-05-09,,6.9,7.7,6.4,No
+468,Tammy Mason,Support,Support Agent,36,Male,54721.16,2016-10-27,,7.3,8.0,9.0,No
+469,Robert Carlson,Sales,Sales Executive,23,Male,58299.61,2016-04-19,,9.5,7.6,9.5,No
+470,Stephanie Lowe,Operations,Operations Manager,54,Female,55933.83,2025-07-30,2025-08-11,10.0,5.3,0.2,Yes
+471,Kelly Davis,Sales,Sales Executive,59,Male,64420.1,2024-06-13,,8.1,7.9,1.3,No
+472,Dalton Brown,Finance,Accountant,37,Female,67217.09,2024-01-27,,6.5,6.8,1.7,No
+473,Denise Taylor,Operations,Operations Manager,58,Female,69395.88,2022-11-28,2023-06-13,7.0,8.3,2.9,Yes
+474,David Kelly,Sales,Sales Manager,33,Other,80450.88,2017-02-28,,6.6,8.9,8.6,No
+475,Kenneth Novak,Operations,Operations Coordinator,37,Female,80502.0,2020-12-25,2021-04-12,5.7,6.1,4.8,Yes
+476,Gary Roth,Sales,Sales Manager,24,Female,53309.63,2018-10-26,2022-05-29,5.5,5.9,7.0,Yes
+477,Jill Atkins,Engineering,QA Engineer,29,Male,61370.89,2021-08-28,2025-02-24,9.6,5.1,4.1,Yes
+478,Alexandra Davidson,Engineering,DevOps Engineer,50,Other,62499.0,2016-02-09,2019-11-25,7.2,7.1,9.7,Yes
+479,Tammy Moss DDS,Engineering,Software Engineer,46,Female,38569.83,2021-12-18,,9.7,8.4,3.8,No
+480,Ricky Jimenez,Sales,Sales Manager,59,Other,93182.08,2024-01-06,2025-03-19,6.0,5.3,1.8,Yes
+481,Don Pope,Sales,Account Manager,54,Other,68619.4,2024-06-28,,5.8,8.8,1.3,No
+482,Ryan Levy,Support,Support Agent,60,Male,61672.47,2023-06-01,,6.8,6.7,2.4,No
+483,Cameron Conner,Finance,Finance Manager,34,Male,71263.12,2024-10-31,,9.5,5.5,0.9,No
+484,Sarah Howard,HR,HR Executive,27,Female,60819.78,2025-02-01,,9.0,10.0,0.7,No
+485,Paul Chen,Operations,Operations Manager,35,Other,82568.05,2018-06-11,,5.1,8.0,7.3,No
+486,Danielle Sanchez,Finance,Accountant,35,Male,57057.22,2019-10-10,2023-01-30,6.1,6.1,6.0,Yes
+487,Joseph Weber,Finance,Accountant,40,Female,55260.08,2017-12-29,2024-02-04,8.2,7.1,7.8,Yes
+488,Scott Bradley,Engineering,DevOps Engineer,41,Other,87852.24,2025-04-25,2025-07-08,9.8,6.0,0.5,Yes
+489,David Lopez,Marketing,SEO Specialist,33,Other,79534.23,2024-05-29,,7.1,6.8,1.4,No
+490,Curtis Austin,Marketing,Marketing Executive,35,Male,72113.19,2024-09-23,2025-06-04,9.7,5.5,1.0,Yes
+491,Charles Coleman,Marketing,Marketing Manager,49,Male,89073.48,2024-08-17,,7.0,8.7,1.2,No
+492,Rebecca Perkins,Operations,Operations Manager,57,Other,62818.68,2023-07-01,,5.4,4.1,2.3,No
+493,Deanna York,Marketing,Marketing Executive,56,Female,81041.84,2016-09-03,,9.9,6.7,9.1,No
+494,Tyler Edwards,Marketing,SEO Specialist,48,Female,52012.21,2023-05-02,,9.1,6.8,2.4,No
+495,Jessica Cooper,Engineering,Software Engineer,24,Female,62944.21,2023-09-06,,6.3,9.8,2.1,No
+496,Robert Berry,Marketing,SEO Specialist,49,Other,93529.88,2022-01-02,,6.1,8.6,3.8,No
+497,Brandon Stevens,Marketing,Marketing Executive,57,Male,82326.33,2020-11-18,,9.1,8.5,4.9,No
+498,Lisa Ramirez,Finance,Finance Manager,50,Female,94717.58,2023-12-01,,8.5,5.8,1.9,No
+499,Tiffany Nelson,Finance,Accountant,28,Other,85662.06,2020-05-13,,9.8,5.9,5.4,No
+500,James Wood,Operations,Operations Manager,37,Male,75564.32,2020-10-30,,8.9,7.5,5.0,No
